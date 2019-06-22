@@ -1,30 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-  </channel>
   <channel id="Gloob HD">
     <display-name lang="pt">Gloob HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="TV Gazeta ES">
     <display-name lang="pt">TV Gazeta ES</display-name>
-    <icon src="http://www.lineup.tv.br/canais/nationalgeographicwild.gif" />
+    <icon src="http://www.lineup.tv.br/canais/tvalerj.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
-    <icon src="http://www.lineup.tv.br/canais/fashiontv.gif" />
+    <icon src="http://www.lineup.tv.br/canais/venus.gif" />
     <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="HBO Family">
     <display-name lang="pt">HBO Family</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20190622000000 +0100" stop="20190622235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
   <programme start="20190622000000 -0300" stop="20190622004500 -0300" channel="Gloob HD">
     <title lang="pt">Chica Vampiro: Vampiamigas</title>
     <desc lang="pt">Decidida a não deixar Marilyn revelar o segredo da família, Daisy explica que são vampiros bons. Ela conta sobre o mundo vampiro e Marilyn fica fascinada Agora ela quer ser a melhor amiga de Daisy(n)</desc>
