@@ -1,18 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-  </channel>
   <channel id="WARNER TV HD">
-    <display-name lang="pt">WARNER TV HD</display-name>
-    <url>http://www.meuguia.tv</url>
+    <display-name lang="pt"> WARNER TV HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-penapolis.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20190625000000 +0100" stop="20190625235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20190626000000 +0100" stop="20190626235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
 </tv>
