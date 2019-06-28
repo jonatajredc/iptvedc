@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Warner HD">
-    <display-name lang="pt">Warner HD</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id=" MEGAPIX HD">
+    <display-name lang="pt"> MEGAPIX HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
 </tv>
