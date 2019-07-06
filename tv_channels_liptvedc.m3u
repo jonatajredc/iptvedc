@@ -629,7 +629,10 @@ http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
 #EXTINF:0, SEX HOT 
 #EXTVLCOPT:network-caching=1000
 http://lista.digitalgroup.me:80/cassio123/cassio123/38734
-#EXTINF:0, SEXTREME
+#EXTINF:0, SEXTREME HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/1127
+#EXTINF:0, SEXTREME 
 #EXTVLCOPT:network-caching=1000
 http://lista.digitalgroup.me:80/cassio123/cassio123/853
 #EXTINF:0, VENUS
@@ -656,6 +659,30 @@ http://bluereds.xyz:80/wanderley/wanderley123/45817
 #EXTINF:0, VIXEN 24h
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/54015
+#EXTINF:0,S01.E01 Preferido da America
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1d9Dx-gxES6h0O9QVJdmotvwHtRJ-C1DV/preview%20%20
+#EXTINF:0,S02.E01 Aqui Nao Tem Essa de Amizade
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1-LAqLqlmdnpdYg85NCXbmY5VUWh6-TGC/preview%20
+#EXTINF:0,S02.E02 Inocente Demais para isso
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1dfjySfwVuZtBOQ9Y0fU_qWmVAuaFPRxk/preview%20%20
+#EXTINF:0,S02.E03 Vou Pegar a Grana dos Brancos
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1e_CDQJZoWExqFC7cMzQAH4k7Bwx-S99z/preview
+#EXTINF:0,S02.E04 Feito pinto no Lixo
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1aJeY1hjCjwQoTPlodcCtMehFTV7BgiB3/preview
+#EXTINF:0,S01.E04 Panamá
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1XEoFzawVVd_1Vvei-2pydDUZg8L9t4U5/preview%20%20
+#EXTINF:0,S01.E06 Filipinas
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1aprllj6wK5jgNiAZjhSdAkxyKu33B2gL/preview%20
+#EXTINF:0,S02.E06 Carolina do Sul 
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview%20
 #EXTINF:0,ANOS 2000
 #EXTVLCOPT:network-caching=1000
 http://6d9a.webradio.upx.net.br:9940/stream?
