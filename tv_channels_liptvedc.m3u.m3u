@@ -1,0 +1,733 @@
+#EXTM3U
+#EXTINF:0,Atualizado 05/07/19 SPORTV 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
+#EXTINF:0,SBT (RJ)
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0,SBT INTERIOR (SP)
+#EXTVLCOPT:network-caching=1000
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1586906991.m3u8
+#EXTINF:0, BAND
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0, BAND (SP)
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:0, GLOBO HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts%20
+#EXTINF:0, Globo
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts%20
+#EXTINF:0,GLOBO BRASILIA
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
+#EXTINF:0,GLOBO (RJ)
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
+#EXTINF:0,GLOBO (MG)
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
+#EXTINF:0, RECORD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
+#EXTINF:0, REDE TV
+#EXTVLCOPT:network-caching=1000
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1195031353.m3u8
+#EXTINF:0, TV GAZETA SUL ES
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0, TV GAZETA SUL ES HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/5B94A0A9-7EC1-49B4-badb-84FD0DC20AAC.ts
+#EXTINF:0,TV FRONTEIRA HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/53426
+#EXTINF:0,GLOBO TV GAZETA VITÓRIA ES
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/26572
+#EXTINF:0,GLOBO TV GAZETA VITÓRIA ES HD 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/26594
+#EXTINF:0,TV SUDOESTE 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/26596
+#EXTINF:0,TV VITORIA RECORD ES HD
+#EXTVLCOPT:network-caching=1000
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0,TV VITORIA RECORD ES
+#EXTVLCOPT:network-caching=1000
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:0, CULTURA (MG)
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:0, TV BRASIL
+#EXTVLCOPT:network-caching=1000
+http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8
+#EXTINF:0, TVE BRASIL
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, TV EDUCATIVA
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0, CANAL DO BOI
+#EXTVLCOPT:network-caching=1000
+https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
+#EXTINF:0, BAND NEWS HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8136
+#EXTINF:0, TV RECORD NEWS ES
+#EXTVLCOPT:network-caching=1000
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original-12996.ts
+#EXTINF:0, GLOBO NEWS HD 
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/26.ts
+#EXTINF:0, RECORD NEWS HD
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
+#EXTINF:0, E!
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8090
+#EXTINF:0,DISCOVERY CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/24.ts
+#EXTINF:0,Discovery Channel 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/E3D2EB66-67DF-49EC-8eea-A24045A4A43F.ts
+#EXTINF:0, ANIMAL PLANET HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts%20
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8145
+#EXTINF:0, HISTORY HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/58C743B4-554C-4A5C-918a-E34420842EA8.ts
+#EXTINF:0, HISTORY
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8005
+#EXTINF:0, NATGEO WILD HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/EFB5A924-D3FD-4288-9493-DF88E50AEFF6.ts%20
+#EXTINF:0, NATGEO WILD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7979
+#EXTINF:0, DISCOVERY TURBO HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/2E48E980-C169-4CCE-8349-9F46C28572FB.ts%20
+#EXTINF:0, DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8100
+#EXTINF:0, DISCOVERY THEATHER 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/0BD6BE4E-0C48-4D33-b988-F4D3206BDFE7.ts
+#EXTINF:0, A&E
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/46684
+#EXTINF:0, ID - INVESTIGAÇÃO DISCOVERY HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/E427E4CB-9CAB-44CD-b114-47E69110202F.ts%20
+#EXTINF:0, ID - INVESTIGAÇÃO DISCOVERY 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8003
+#EXTINF:0, H2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts%20
+#EXTINF:0, H2 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8018
+#EXTINF:0, PREMIERE CLUBES FHD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/63.ts
+#EXTINF:0, PREMIERE CLUBES
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/FE900457-AE7F-4887-88c6-C7536730CC2B.ts
+#EXTINF:0,SPORTV HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/3.ts
+#EXTINF:0,SPORTV
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
+#EXTINF:0,SPORTV 2  
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
+#EXTINF:0,SPORTV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/B3G2G2DE-23FF-1S72-A125-CA23SGC3S3T3.ts
+#EXTINF:0,SPORTV 3 
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/5.ts
+#EXTINF:0,SPORTV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/005a976eea4c1007c79c9a917a254d1f.ts
+#EXTINF:0, COMBATE HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/j0awpv1b2rzrv2w36ervr13ruaoc9jn4.ts
+#EXTINF:0, COMBATE
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8118
+#EXTINF:0,ESPN BRASIL FHD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/679.ts
+#EXTINF:0,ESPN Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/EF2501AD-C1A1-4B8A-baba-4CEF4B5D3561.ts
+#EXTINF:0,ESPN Brasil SD
+#EXTVLCOPT:network-caching=1000
+http://fonte.iptvmaishd.com:25461//live/5977/5977/183340.ts%20
+#EXTINF:0,ESPN Extra HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/04FC1508-FAF2-49E6-944f-4821DD152F32.ts
+#EXTINF:0,ESPN Extra SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8084
+#EXTINF:0,EI PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/49987
+#EXTINF:0,EI PLUS 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/49986
+#EXTINF:0,EI PLUS 2
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/49984
+#EXTINF:0,EI PLUS 3 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/49983
+#EXTINF:0,BAND SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
+#EXTINF:0,BAND SPORTS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8134
+#EXTINF:0,Band Sports SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8135
+#EXTINF:0, RED BULL TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0, ALL SPORTS 
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w363415987.m3u8
+#EXTINF:0, ESPORTE INTERATIVO +
+#EXTVLCOPT:network-caching=1000
+https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
+#EXTINF:0, FOX SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/896.ts
+#EXTINF:0, FOX SPORTS 
+#EXTVLCOPT:network-caching=1000
+http://placartv.futeboltv.com:8081/live/4/playlist.m3u8
+#EXTINF:0, FOX SPORTS 2
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/9BCC50D8-5036-4E31-b223-A15E543AD01C.ts
+#EXTINF:0, FOX SPORTS 2 HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/896.ts
+#EXTINF:0,PREMIERE CLUBES HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/908.ts
+#EXTINF:0, PREMIERE 1
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/886.ts
+#EXTINF:0, PREMIERE 2
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/879.ts%20
+#EXTINF:0, PREMIERE 3
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/880.ts
+#EXTINF:0, PREMIERE 4
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/881.ts%20
+#EXTINF:0, PREMIERE 5
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/882.ts
+#EXTINF:0, PREMIERE 6
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/883.ts
+#EXTINF:0, PREMIERE 7
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/884.ts%20
+#EXTINF:0, PREMIERE 8
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/885.ts
+#EXTINF:0,PREMIERE CLUBES SD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/FE900457-AE7F-4887-88c6-C7536730CC2B.ts
+#EXTINF:0, PREMIERE 2
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/A4D507A1-D45B-482C-87bc-E3E74634E735.ts
+#EXTINF:0, PREMIERE 3
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/5FC2CEB5-C409-4291-b858-DA53CDAE87F5.ts%20
+#EXTINF:0, PREMIERE 4
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/5BA0EFD2-8BD0-40B9-bbbe-0BC662D4832D.ts
+#EXTINF:0, PREMIERE 5
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/E4DCF817-BAF0-4EDE-86f5-60CD79018EE5.ts
+#EXTINF:0, PREMIERE 6
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/462B7807-1E95-4713-8c43-F865885A65E6.ts%20
+#EXTINF:0, PREMIERE 7
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/5B98B7F8-3AD1-4E19-9d0a-51C4D091343F.ts
+#EXTINF:0, PREMIERE 8
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/cyp-644e34a6889c49bfbfab58e44471.ts
+#EXTINF:0, PREMIER 9
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/95CA6681-41E8-440A-aa5e-C1DA574669E9.ts%20
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
+#EXTINF:0,AMC
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8147
+#EXTINF:0,HBO HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8012
+#EXTINF:0,HBO2 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
+#EXTINF:0,HBO2 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8016
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8014
+#EXTINF:0,HBO PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts%20
+#EXTINF:0,HBO PLUS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8011
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
+#EXTINF:0,HBO SIGNATURE 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8007
+#EXTINF:0, SPACE HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
+#EXTINF:0, SPACE
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7936
+#EXTINF:0, CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts%20
+#EXTINF:0, CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8120
+#EXTINF:0, MAX HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/54BFA6BE-FFA2-4BA2-a4ac-6B86B553C157.ts
+#EXTINF:0, MAX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7997
+#EXTINF:0, MAX UP HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
+#EXTINF:0, MAX UP
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7992
+#EXTINF:0, MAX PRIME HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
+#EXTINF:0, MAX PRIME
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7994
+#EXTINF:0,TNT HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
+#EXTINF:0,TNT
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7907
+#EXTINF:0, MEGAPIX HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
+#EXTINF:0, MEGAPIX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7990
+#EXTINF:0, PARAMOUNT HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
+#EXTINF:0, PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+http://businesshdtv.me:25461/Polo/iago1234/11479
+#EXTINF:0, CINE SKY HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/85.ts
+#EXTINF:0, CINE SKY
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/3582
+#EXTINF:0,Canal Brasil
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8127
+#EXTINF:0,TruTV HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7892
+#EXTINF:0,TCM HD
+#EXTVLCOPT:network-caching=1000
+http://businesshdtv.me:25461/Polo/iago1234/11159
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/48031
+#EXTINF:0, TELECINE PIPOCA HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
+#EXTINF:0, TELECINE PIPOCA
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7915
+#EXTINF:0, TELECINE TOUCH HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts%20
+#EXTINF:0, TELECINE TOUCH
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7911
+#EXTINF:0, TELECINE ACTION HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
+#EXTINF:0, TELECINE ACTION
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7922
+#EXTINF:0, TELECINE PREMIUM HD 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
+#EXTINF:0, TELECINE PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7914
+#EXTINF:0, TELECINE FUN HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
+#EXTINF:0, TELECINE FUN
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7917
+#EXTINF:0, TELECINE CULT HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts%20
+#EXTINF:0, TELECINE CULT
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7919
+#EXTINF:0, A&E HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
+#EXTINF:0, A&E 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8149
+#EXTINF:0, A&E SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8150
+#EXTINF:0, AXN HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/4503BECE-DCEC-40D9-aa03-CF85F7B0ADB4.ts
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8141
+#EXTINF:0, AXN SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8142
+#EXTINF:0, FX HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts%20
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8056
+#EXTINF:0, FX SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8057
+#EXTINF:0,WARNER TV HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
+#EXTINF:0, WARNER TV
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7883
+#EXTINF:0, WARNER TV 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7883
+#EXTINF:0, WARNER TV SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7884
+#EXTINF:0, UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
+#EXTINF:0, UNIVERSAL CHANNEL 
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/925.ts%20
+#EXTINF:0,TNT SERIES HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
+#EXTINF:0,TNT SERIES
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7904
+#EXTINF:0,TBS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts%20
+#EXTINF:0,TBS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7924
+#EXTINF:0, ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8145
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
+#EXTINF:0,FOX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8070
+#EXTINF:0, FOX LIFE HD 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
+#EXTINF:0, FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8068
+#EXTINF:0, FOX PREMIUM 1 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
+#EXTINF:0, FOX PREMIUM 02 HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
+#EXTINF:0, SONY HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
+#EXTINF:0, SONY 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8125
+#EXTINF:0, SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
+#EXTINF:0, SYFY
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7938
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8122
+#EXTINF:0,Cartoon Network SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8122
+#EXTINF:0,Cartoon Network HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
+#EXTINF:0, DISCOVERY KIDS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8106
+#EXTINF:0, DISCOVERY KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/ap1ebnx7uvtu8z5l6antbyhyu83azfpu.ts
+#EXTINF:0,Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/39F4DB3E-9C76-4C09-8e9e-035473586DF2.ts
+#EXTINF:0,Disney Junior
+#EXTVLCOPT:network-caching=1000
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:0,DISNEY XD 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8094
+#EXTINF:0,DISNEY XD HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/0C303831-31F6-4DC7-ab23-BA6C3B8AB103.ts
+#EXTINF:0,NICK JR HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/A83BF159-3B5E-46E2-a1cd-796E687767D3.ts
+#EXTINF:0,NICK JR 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7975
+#EXTINF:0,Gloob HD 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
+#EXTINF:0,Gloob
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8025
+#EXTINF:0, BABY TV 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/90FCECD9-B1BB-4C7A-93b7-08C627D5ED60.ts%20
+#EXTINF:0,ZOOMOO 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7007
+#EXTINF:0,PLAYKIDS HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/16753
+#EXTINF:0,PLAYKIDS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/16754
+#EXTINF:0, NATGEO KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
+#EXTINF:0, NATGEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7980
+#EXTINF:0,Boomerang HD
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/21.ts
+#EXTINF:0,Boomerang SD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/0FB8A79C-18D3-4B08-b51d-D7AC5B1D1532.ts
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/8129
+#EXTINF:0,TOONCAST HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/778A0091-5DA8-417D-bd14-5DF4AB94240F.ts
+#EXTINF:0,TOONCAST 
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/1091
+#EXTINF:0,TOONCAST SD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7903
+#EXTINF:0, TOP TV
+#EXTVLCOPT:network-caching=1000
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8?wowzasessionid=622585135
+#EXTINF:0, OFF 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/F9145F74-1B6B-41C9-bde5-1294E296346A.ts%20
+#EXTINF:0, Hit TV
+#EXTVLCOPT:network-caching=1000
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+#EXTINF:0, RETRO MUSIC
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0, MTV Clipes 
+#EXTVLCOPT:network-caching=1000
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/120.ts
+#EXTINF:0, VH1 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/D2CC6786-2684-4BF6-83d1-14B961FE2AB4.ts
+#EXTINF:0, VH1 MEGA HITS 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/cyp-E4B26F02258046979810ABAF5C7F.ts
+#EXTINF:0,MULTISHOW HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/ECF9E512-B7ED-48C5-8f1d-7A018EEFDDA7.ts
+#EXTINF:0, FOOD NET WORK 
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/B0DC1E0D-FFDD-4C20-a96d-4901AEB9C067.ts%20
+#EXTINF:0, COMEDY CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts%20
+#EXTINF:0,BIS
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/EBA9713D-5D7E-4724-a1a7-C15AA741CC99.ts
+#EXTINF:0, YEEAH! TV
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=40007737
+#EXTINF:0,GNT
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/502B64B6-554E-483A-97e5-1C6E6C17B2E8.ts
+#EXTINF:0,WOOHOO
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/cyp-D7BD65EC0BB34B689a3690000000.ts
+#EXTINF:0,MIAMI TV LATINA
+#EXTVLCOPT:network-caching=1000
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+#EXTINF:0, SEX HOT 
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/cassio123/cassio123/38734
+#EXTINF:0, SEXTREME HD
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/1127
+#EXTINF:0, SEXTREME 
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/cassio123/cassio123/853
+#EXTINF:0, VENUS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7875
+#EXTINF:0, PLAYBOY
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/1156
+#EXTINF:0, CHERRY PIMPS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/45802
+#EXTINF:0, ASIAN SEX
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/45828
+#EXTINF:0, BLACKED 24h
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/54014
+#EXTINF:0, BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/45830
+#EXTINF:0,BRAZZERS ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/45817
+#EXTINF:0, VIXEN 24h
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/54015
+#EXTINF:0,S01.E01 Preferido da America
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1d9Dx-gxES6h0O9QVJdmotvwHtRJ-C1DV/preview%20%20
+#EXTINF:0,S02.E01 Aqui Nao Tem Essa de Amizade
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1-LAqLqlmdnpdYg85NCXbmY5VUWh6-TGC/preview%20
+#EXTINF:0,S02.E02 Inocente Demais para isso
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1dfjySfwVuZtBOQ9Y0fU_qWmVAuaFPRxk/preview%20%20
+#EXTINF:0,S02.E03 Vou Pegar a Grana dos Brancos
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1e_CDQJZoWExqFC7cMzQAH4k7Bwx-S99z/preview
+#EXTINF:0,S02.E04 Feito pinto no Lixo
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1aJeY1hjCjwQoTPlodcCtMehFTV7BgiB3/preview
+#EXTINF:0,S01.E04 Panamá
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1XEoFzawVVd_1Vvei-2pydDUZg8L9t4U5/preview%20%20
+#EXTINF:0,S01.E06 Filipinas
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1aprllj6wK5jgNiAZjhSdAkxyKu33B2gL/preview%20
+#EXTINF:0,S02.E06 Carolina do Sul 
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview%20
+#EXTINF:0,ANOS 2000
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9940/stream?
+#EXTINF:0,AXÉ
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8305/stream?
+#EXTINF:0, SERTANEJO
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9485/stream
+#EXTINF:0,FORRÓ
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9019/stream?%20
+#EXTINF:0,FUNK
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9089/stream?%20
+#EXTINF:0,GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9101/stream?%20
+#EXTINF:0,HIP HOP
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8721/stream?%20
+#EXTINF:0,METAL
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9898/stream?%20
+#EXTINF:0,PAGODE
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:0,POP HITS
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9046/stream?
+#EXTINF:0,POP ROCK
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:8016/stream?
+#EXTINF:0,SERTANEJO UNIVERSITÁRIO
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9191/stream?
+#EXTINF:0, SERTANEJO RAIZES
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9155/stream
+#EXTINF:0, REGGAE
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8715/stream
+#EXTINF:0,KIDS
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9431/stream?
+#EXTINF:0,HISTORINHA INFANTIL
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8371/stream?
