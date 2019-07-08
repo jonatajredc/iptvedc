@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Atualizado 05/07/19 SPORTV 2 HD 
+#EXTINF:0,Atualizado 07/07/19 SPORTV 2 HD 
 #EXTVLCOPT:network-caching=1000
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTINF:0,SBT (RJ)
@@ -94,7 +94,7 @@ http://bluereds.xyz:80/wanderley/wanderley123/8090
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/24.ts
 #EXTINF:0,Discovery Channel 
 #EXTVLCOPT:network-caching=1000
-http://192.119.9.66/live/E3D2EB66-67DF-49EC-8eea-A24045A4A43F.ts
+http://bluereds.xyz:80/wanderley/wanderley123/8112
 #EXTINF:0, ANIMAL PLANET HD
 #EXTVLCOPT:network-caching=1000
 http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts%20
@@ -446,9 +446,6 @@ http://bluereds.xyz:80/wanderley/wanderley123/8057
 #EXTINF:0,WARNER TV HD
 #EXTVLCOPT:network-caching=1000
 http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
-#EXTINF:0, WARNER TV
-#EXTVLCOPT:network-caching=1000
-http://bluereds.xyz:80/wanderley/wanderley123/7883
 #EXTINF:0, WARNER TV 
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/7883
@@ -506,6 +503,12 @@ http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
 #EXTINF:0, SYFY
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/7938
+#EXTINF:0, NATGEO KIDS HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
+#EXTINF:0, NATGEO KIDS
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/7980
 #EXTINF:0,Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/8122
@@ -557,12 +560,6 @@ http://bluereds.xyz:80/wanderley/wanderley123/16753
 #EXTINF:0,PLAYKIDS
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/16754
-#EXTINF:0, NATGEO KIDS HD
-#EXTVLCOPT:network-caching=1000
-http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
-#EXTINF:0, NATGEO KIDS
-#EXTVLCOPT:network-caching=1000
-http://bluereds.xyz:80/wanderley/wanderley123/7980
 #EXTINF:0,Boomerang HD
 #EXTVLCOPT:network-caching=1000
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/21.ts
@@ -629,12 +626,9 @@ http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
 #EXTINF:0, SEX HOT 
 #EXTVLCOPT:network-caching=1000
 http://lista.digitalgroup.me:80/cassio123/cassio123/38734
-#EXTINF:0, SEXTREME HD
-#EXTVLCOPT:network-caching=1000
-http://bluereds.xyz:80/wanderley/wanderley123/1127
 #EXTINF:0, SEXTREME 
 #EXTVLCOPT:network-caching=1000
-http://lista.digitalgroup.me:80/cassio123/cassio123/853
+http://bluereds.xyz:80/wanderley/wanderley123/1127
 #EXTINF:0, VENUS
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/7875
@@ -661,28 +655,70 @@ http://bluereds.xyz:80/wanderley/wanderley123/45817
 http://bluereds.xyz:80/wanderley/wanderley123/54015
 #EXTINF:0,S01.E01 Preferido da America
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1d9Dx-gxES6h0O9QVJdmotvwHtRJ-C1DV/preview%20%20
+https://docs.google.com/file/d/10Eubie9J1bIC3nd-f-ugCU7VrX_vTlri/preview%20%20
+#EXTINF:0,S01.E02 Quem ve Nunca Esquece
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1ZehFACwRT0suDw6sajPMNCAijzXI5Uf4/preview%20%20
+#EXTINF:0,S01.E03 Faria ate de Graça
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1jccWWU9OEw2aa1N9pcOmjz6QfIinzS0H/preview%20%20
+#EXTINF:0,S01.E04 Perigoso e Apelido
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/19rFa2Z9Jo8UCuNZh3edN_4y0kNXdAXJK/preview%20%20
 #EXTINF:0,S02.E01 Aqui Nao Tem Essa de Amizade
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1-LAqLqlmdnpdYg85NCXbmY5VUWh6-TGC/preview%20
+https://docs.google.com/file/d/1aDl_FRKN5gGaHgVsbJPU8idZcxAcEp1I/preview%20
 #EXTINF:0,S02.E02 Inocente Demais para isso
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1dfjySfwVuZtBOQ9Y0fU_qWmVAuaFPRxk/preview%20%20
+https://docs.google.com/file/d/1_b63V5ilddvyeg760AUX3dgqcmjHdtJ2/preview%20%20
 #EXTINF:0,S02.E03 Vou Pegar a Grana dos Brancos
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1e_CDQJZoWExqFC7cMzQAH4k7Bwx-S99z/preview
+https://docs.google.com/file/d/18HjauyR-iXs1xP5b9HQI8oMAnCtud0rp/preview
 #EXTINF:0,S02.E04 Feito pinto no Lixo
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1aJeY1hjCjwQoTPlodcCtMehFTV7BgiB3/preview
+https://docs.google.com/file/d/17toxvub2k6e5OEc8l1RKLGpbwyM-UvXo/preview
+#EXTINF:0,S03.E01 O Truque mais antigo do Diabo
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1hJsrxWtbJbrpStPRJ7Mw68mkqfVp6zy2/preview%20%20
+#EXTINF:0,S03.E02 Deus -  Perdoa-me por isso
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1lAt3c9J2rPQE3Q17rIyXUKt2hY62mbMS/preview%20%20
+#EXTINF:0,S03.E03 No Face -  No Case
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/19fK1swkj1Azlj682RWnscETtVSlT-p5J/preview%20%20
+#EXTINF:0,S03.E04 Este não é o Miami Vice
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1x20iGtJT_S4gseFGKYYutS0N8JTTg8uM/preview%20%20
+#EXTINF:0,S01.E02 África do Sul
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1rFwG8XXgegOKAglZdbLhiTwVPB_Z4r3E/preview
+#EXTINF:0,S01.E03 Polônia
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1Q7MDrcqM-RxqtJKJ6Z8QoXwzv-gKqr0C/preview%20%20
 #EXTINF:0,S01.E04 Panamá
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/1XEoFzawVVd_1Vvei-2pydDUZg8L9t4U5/preview%20%20
+#EXTINF:0,S01.E05 Arizona
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/18Y3Qpvfo4ayvryli4Dd_nFIITgIEV8CW/preview
 #EXTINF:0,S01.E06 Filipinas
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/1aprllj6wK5jgNiAZjhSdAkxyKu33B2gL/preview%20
+#EXTINF:0,S01.E07 Coreia do Sul 
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/14sohUV1swgaFCTssBWTReqnSRs5bGQrK/preview
+#EXTINF:0,S02.E01 Nova Zelandia
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1_kZmNraJYGZRwL2CtRfFo54hhS-w_SqQ/preview
 #EXTINF:0,S02.E06 Carolina do Sul 
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview%20
+https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview%20%20%20%20%20
+#EXTINF:0,Caçado (2003) Dublado 
+#EXTVLCOPT:network-caching=1000
+http://s-4.pandafiles.com/4Ex0/Ca%C3%A7ado_(2003).mp4?download_token=388c1449146dc70894da428b61a6f8b6420c345def4b1de87b488fe8162e44ad
+#EXTINF:0,Jukebox Music
+#EXTVLCOPT:network-caching=1000
+https://drive.google.com/file/d/1Jxe-zJ5PZKgt99fwNn-3H82LFaYN49yU/preview
 #EXTINF:0,ANOS 2000
 #EXTVLCOPT:network-caching=1000
 http://6d9a.webradio.upx.net.br:9940/stream?
