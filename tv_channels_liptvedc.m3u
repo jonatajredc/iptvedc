@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Atualizado 07/07/19 SPORTV 2 HD 
+#EXTINF:0,Atualizado 09/07/19 SPORTV 2 HD 
 #EXTVLCOPT:network-caching=1000
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTINF:0,SBT (RJ)
@@ -131,6 +131,12 @@ http://192.119.9.66/live/E427E4CB-9CAB-44CD-b114-47E69110202F.ts%20
 #EXTINF:0, ID - INVESTIGAÇÃO DISCOVERY 
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/8003
+#EXTINF:0,NAT GEO HD
+#EXTVLCOPT:network-caching=1000
+http://192.119.9.66/live/01B287C6-63DB-4C2F-99b5-B1CA684E1866
+#EXTINF:0,NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://bluereds.xyz:80/wanderley/wanderley123/1167
 #EXTINF:0, H2 HD
 #EXTVLCOPT:network-caching=1000
 http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts%20
@@ -653,7 +659,7 @@ http://bluereds.xyz:80/wanderley/wanderley123/45817
 #EXTINF:0, VIXEN 24h
 #EXTVLCOPT:network-caching=1000
 http://bluereds.xyz:80/wanderley/wanderley123/54015
-#EXTINF:0,S01.E01 Preferido da America
+#EXTINF:0,S01.E01 Preferido da America 2
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/10Eubie9J1bIC3nd-f-ugCU7VrX_vTlri/preview%20%20
 #EXTINF:0,S01.E02 Quem ve Nunca Esquece
@@ -680,15 +686,27 @@ https://docs.google.com/file/d/17toxvub2k6e5OEc8l1RKLGpbwyM-UvXo/preview
 #EXTINF:0,S03.E01 O Truque mais antigo do Diabo
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/1hJsrxWtbJbrpStPRJ7Mw68mkqfVp6zy2/preview%20%20
-#EXTINF:0,S03.E02 Deus -  Perdoa-me por isso
+#EXTINF:0,S03.E02 Deus Perdoa me por isso
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/1lAt3c9J2rPQE3Q17rIyXUKt2hY62mbMS/preview%20%20
-#EXTINF:0,S03.E03 No Face -  No Case
+#EXTINF:0,S03.E03 No Face No Case
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/19fK1swkj1Azlj682RWnscETtVSlT-p5J/preview%20%20
 #EXTINF:0,S03.E04 Este não é o Miami Vice
 #EXTVLCOPT:network-caching=1000
-https://docs.google.com/file/d/1x20iGtJT_S4gseFGKYYutS0N8JTTg8uM/preview%20%20
+https://docs.google.com/file/d/1x20iGtJT_S4gseFGKYYutS0N8JTTg8uM/preview
+#EXTINF:0,S01.E01 México
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1T9KrnujTZc32kABHTtu3WKf-CxqafZ83/preview%20
+#EXTINF:0,S01.E02 Colômbia
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1aOyfXF-dCYpNVrJIevws9f0aw9dr7SR-/preview%20
+#EXTINF:0,S01.E03 Peru 
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1R2ddJdlbZ3eatCGBye9dxVm_65qpsmD5/preview%20
+#EXTINF:0,Apreensão de Drogas na Carolina do Sul
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1vNHGndNvVJ3bmdRu5cuXe7CoIo0bU3G6/preview%20
 #EXTINF:0,S01.E02 África do Sul
 #EXTVLCOPT:network-caching=1000
 https://docs.google.com/file/d/1rFwG8XXgegOKAglZdbLhiTwVPB_Z4r3E/preview
@@ -715,7 +733,28 @@ https://docs.google.com/file/d/1_kZmNraJYGZRwL2CtRfFo54hhS-w_SqQ/preview
 https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview%20%20%20%20%20
 #EXTINF:0,Caçado (2003) Dublado 
 #EXTVLCOPT:network-caching=1000
-http://s-4.pandafiles.com/4Ex0/Ca%C3%A7ado_(2003).mp4?download_token=388c1449146dc70894da428b61a6f8b6420c345def4b1de87b488fe8162e44ad
+https://docs.google.com/file/d/1bRBlO3jzQuCoX6Pohsg9VJ7LO1GR_VeV/preview
+#EXTINF:0,RAMBO IV (2008)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1AC9SVd7Pd-7gOnk-AybDcCVudw5tKQt4/preview
+#EXTINF:0, Operação Mekong (2017)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1bVIYJX5jcrkJ0WQMkfKPqD_gWYlt02sM/preview%20
+#EXTINF:0, A Grande Muralha (2017)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/122j5inhXdvm-VJxdxV3UcN_NSYXhWdSP/preview
+#EXTINF:0, Lobo Guerreiro 2 (2017)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1bZeWIl7zNu3TXtDQfM1R5XWodInZ_jy9/preview%20
+#EXTINF:0,MAD MAX: ESTRADA DA FÚRIA (2015)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1C9v9lt9YPEFiwjFa_0j0n_VYkJiR5Ylw/preview
+#EXTINF:0,Beasts of No Nation (2015)
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1GPkRsgF8fTPBl4HsbL564CHu-KUGIHoV/preview%20%20
+#EXTINF:0, CORRIDA MORTAL 4: ALÉM DA ANARQUIA (2018) Dublado 
+#EXTVLCOPT:network-caching=1000
+https://docs.google.com/file/d/1VcExoDwExMq1YRwLfpH2VwOCbBtKFQ-_/preview
 #EXTINF:0,Jukebox Music
 #EXTVLCOPT:network-caching=1000
 https://drive.google.com/file/d/1Jxe-zJ5PZKgt99fwNn-3H82LFaYN49yU/preview
