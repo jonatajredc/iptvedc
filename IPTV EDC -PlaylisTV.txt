@@ -1,24 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 12/07/19 SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/06/GK2Ln3.png" group-title="IPTV EDC DESTAQUE",Atualizado 12/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
-
-#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/images/large/2x/ae-logo-png-transparent.png" group-title="IPTV EDC DESTAQUE", A&E FHD
-http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="IPTV EDC DESTAQUE", FX FHD
-http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/31.ts
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="IPTV EDC DESTAQUE", WARNER TV FHD
-http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
-#EXTINF:0 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="IPTV EDC DESTAQUE", PREMIERE CLUBES FHD
-http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/63.ts
-
-
 #EXTM3U
 
 ########################################################### CANAIS ABERTOS
+
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS",SBT (RJ)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
@@ -30,6 +17,7 @@ https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1586906991.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS ABERTOS", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS ABERTOS", BAND (SP)
 http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
@@ -57,7 +45,6 @@ http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
 http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
 
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS ABERTOS", REDE TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1195031353.m3u8
 
@@ -69,23 +56,20 @@ http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 #EXTINF:0 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAIS ABERTOS", TV GAZETA SUL ES HD
 http://192.119.9.66/live/5B94A0A9-7EC1-49B4-badb-84FD0DC20AAC.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS ABERTOS",Mais Globosat 
-http://tv.factoryiptv.com:80/claudio/claudio/50838
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Logotipo_da_TV_Fronteira.png" group-title="CANAIS ABERTOS",TV FRONTEIRA HD
 http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_FRONTEIRA/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT√ìRIA ES
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT”RIA ES
 http://load.kudaplay.tv/aovivo/HD_GAZETA_ES/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT√ìRIA ES HD 
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT”RIA ES HD 
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sudoeste-hd_m.png" group-title="CANAIS ABERTOS",TV SUDOESTE 
 http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_SUDOESTE/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS ABERTOS",TV VITORIA RECORD ES HD
@@ -141,7 +125,6 @@ http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183349.ts
 ########################################################### DOCUMENTARIOS 
 
 
-
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/24.ts
 
@@ -153,61 +136,61 @@ http://192.119.9.66/live/E3D2EB66-67DF-49EC-8eea-A24045A4A43F.ts
 http://192.119.9.66/live/022AC19C-0EC3-4C7D-b0fb-D889A5FC9B64.ts 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="DOCUMENTARIOS", ANIMAL PLANET
-http://b.greenplanet.top:8080/br-8071Aplanet/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183435.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png" group-title="DOCUMENTARIOS", HISTORY HD
 http://192.119.9.66/live/58C743B4-554C-4A5C-918a-E34420842EA8.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/200px-History_Logo.svg.png" group-title="DOCUMENTARIOS", HISTORY
-http://b.greenplanet.top:8080/br-8022His/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183254.ts
 
 
 #EXTINF:0 tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="DOCUMENTARIOS", NATGEO WILD HD
 http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183220.ts
 
 #EXTINF:0 tvg-logo="https://store-images.s-microsoft.com/image/apps.27344.9007199266248558.195835e7-7182-4436-89c9-b827e3ea7c70.d26f7657-1503-49fb-bc92-e5337128dc2a" group-title="DOCUMENTARIOS", NATGEO WILD
-http://b.greenplanet.top:8080/br-8012Wild/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183220.ts
 
 
 #EXTINF:0 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO HD
 http://192.119.9.66/live/2E48E980-C169-4CCE-8349-9F46C28572FB.ts 
 
 #EXTINF:0 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="DOCUMENTARIOS", DISCOVERY TURBO
-http://b.greenplanet.top:8080/br-8002DiscTurbo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183367.ts
 
 
-#EXTINF:0 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER HD
+#EXTINF:0 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="DOCUMENTARIOS", DISCOVERY THEATHER 
 http://192.119.9.66/live/0BD6BE4E-0C48-4D33-b988-F4D3206BDFE7.ts
 
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="DOCUMENTARIOS",DISCOVERY THEATHER 
-http://b.greenplanet.top:8080/br-8041DisThe/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="DOCUMENTARIOS",DISCOVERY THEATHER
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183372.ts
 
 
 #EXTINF:0 tvg-logo="http://quinto-canal.com/wp-content/uploads/2017/03/Canal-AE.png" group-title="DOCUMENTARIOS", A&E
-http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://load.kudaplay.tv/aovivo/HD_AMC_ALTER/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA√á√ÉO DISCOVERY HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA«√O DISCOVERY HD
 http://192.119.9.66/live/E427E4CB-9CAB-44CD-b114-47E69110202F.ts 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA√á√ÉO DISCOVERY 
-http://b.greenplanet.top:8080/br-8078id/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA«√O DISCOVERY 
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183248.ts
  
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="DOCUMENTARIOS",NAT GEO HD
-http://b.greenplanet.top:8080/br-18082NatG/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183218.ts
 
 #EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="DOCUMENTARIOS",NAT GEO
-http://b.greenplanet.top:8080/br-8058NatGeo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183218.ts
 
 
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="DOCUMENTARIOS", H2 HD
 http://192.119.9.66/live/C5906BD1-EDB6-48CB-bd4e-C2D2592C1036.ts 
 
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="DOCUMENTARIOS", H2 
-http://b.greenplanet.top:8080/br-8006H2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183273.ts
 
 
 ########################################################### ESPORTES
@@ -249,7 +232,7 @@ http://192.119.9.66/live/005a976eea4c1007c79c9a917a254d1f.ts
 http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183397.ts
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES", COMBATE
-http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183397.ts
 
 
 ########################################################### ESPN 
@@ -258,14 +241,14 @@ http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238H
 http://192.119.9.66/live/F17F8B9C-3510-4EEB-b30c-703934BD630E.ts
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="ESPORTES",ESPN HD
-http://b.greenplanet.top:8080/br-18092EspBr/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183347.ts
 
 #EXTINF:-1 tvg-logo="https://4e0ow51f67h221f1ggcbe9m4-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/ESPN-logo.png" group-title="ESPORTES",ESPN
-http://b.greenplanet.top:8080/br-8070Espbr/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://tv.factoryiptv.com:80/claudio/claudio/50740
 
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="ESPORTES",ESPN 2 HD
-http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183070.ts
 
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="ESPORTES",ESPN 2 
 http://tv.factoryiptv.com:80/claudio/claudio/50541
@@ -287,17 +270,20 @@ http://tv.factoryiptv.com:80/claudio/claudio/38380
 
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1096484017204019200/ZmlZnSXc_400x400.png" group-title="ESPORTES",EI PLUS HD
-http://fonte.iptvmaishd.com:25461/live/lili/1234/183505.ts
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183505.ts
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1096484017204019200/ZmlZnSXc_400x400.png" group-title="ESPORTES",EI PLUS 2
 http://uhd.twistertv.online:8880/4455/4455/7162
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1096484017204019200/ZmlZnSXc_400x400.png" group-title="ESPORTES",EI PLUS 3 
+
 
 
 #EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/08/BandSports.jpg" group-title="ESPORTES",BAND SPORTS HD
 http://192.119.9.66/live/mdPmLXj7Z4ON54iJDPNbWaiyZLyZU0Xl.ts
 
-#EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/08/BandSports.jpg" group-title="ESPORTES",BAND SPORTS 
-http://b.greenplanet.top:8080/br-8020Bsports/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/08/BandSports.jpg" group-title="ESPORTES",BAND SPORTS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183416.ts
 
 
 #EXTINF:0 tvg-logo="http://old.f-i.com.s3.amazonaws.com/www.f-i.com/img/media/works-70/works-img_ep_details-70.png" group-title="ESPORTES", RED BULL TV
@@ -307,6 +293,9 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/all-sports.png?fit=500%2C300" group-title="ESPORTES", ALL SPORTS 
 https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w363415987.m3u8
 
+
+#EXTINF:0 tvg-logo="https://s2.glbimg.com/QI6qFvAjR-W72sTeE6LhpC0SrFY=/630x382/i.glbimg.com/og/ig/infoglobo/f/original/2018/08/09/esporte_interativo.png" group-title="ESPORTES", ESPORTE INTERATIVO
+http://uhd.twistertv.online:8880/4455/4455/7161
 
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/E/esporte-interativo-logo-877A2C8B6B-seeklogo.com.gif" group-title="ESPORTES", ESPORTE INTERATIVO +
 https://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801255b39c38e1109ddfabd/publish/media_2500.m3u8?VRQtpAFXeNzNFtld2tf9yeN1vyU5-lJGp-xRb4rmThesW92zv__GN1EIRJsFcos96xKG&dnt=true&access_token=OZo0Cf114fBAQJMd9p7wp9jvtlEvCwwqMmgMv2s6QgtpdAxjqgLc9CFw0NwxaYM5XbNKoVgdvnC&ref=https://eiplus.com.br/canal/47/no-ar-com-andre-henning/&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https&pz=BR
@@ -391,22 +380,21 @@ http://192.119.9.66/live/95CA6681-41E8-440A-aa5e-C1DA574669E9.ts
 http://192.119.9.66/live/CB9A2D16-F165-4B16-b69f-21FA119082D2.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPNNvx9bQLoUfsnWbbiCOE5G9sa1GbuUVvH3GdYVQr-_XS0ZvS" group-title="FILMES NA TV",AMC
-http://b.greenplanet.top:8080/br-8043amc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183438.ts
 
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="FILMES NA TV",HBO HD
 http://192.119.9.66/live/B2C15DCC-0260-41EE-a09b-C482C6A77623.ts
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="FILMES NA TV",HBO
-http://b.greenplanet.top:8080/br-18084Hbo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183270.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILMES NA TV",HBO2 HD
 http://192.119.9.66/live/DCFC9E24-DE24-4E8A-8463-D8CD2AAAE0DD.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="FILMES NA TV",HBO2 
-http://b.greenplanet.top:8080/br-18085Hbo2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183269.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYEJ8z8rvk_1V4_r9NTxaJPwvC-gkg4Im3dkVQg-5etSxofv1" group-title="FILMES NA TV",HBO FAMILY HD
@@ -414,7 +402,7 @@ http://192.119.9.66/live/4D5BDDC7-5CC3-42A0-97b7-FD21601AB745.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYEJ8z8rvk_1V4_r9NTxaJPwvC-gkg4Im3dkVQg-5etSxofv1" group-title="FILMES NA TV",HBO FAMILY
-http://b.greenplanet.top:8080/br-18087HboF/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183266.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES NA TV",HBO PLUS HD
@@ -422,7 +410,7 @@ http://192.119.9.66/live/AD0EE87B-9728-4E4D-b636-D8CAF0CAF16C.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="FILMES NA TV",HBO PLUS
-http://b.greenplanet.top:8080/br-18086HboP/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183262.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="FILMES NA TV",HBO SIGNATURE HD
@@ -430,7 +418,7 @@ http://192.119.9.66/live/EFC82DA6-9F28-4F49-a4f1-70A528D971CE.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="FILMES NA TV",HBO SIGNATURE 
-http://b.greenplanet.top:8080/br-18080HboS/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183257.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ8CdptqEfqcFQKLzQiq91F4knhcTDjOAWDGZpzRAETGHGYqrB" group-title="FILMES NA TV", SPACE HD
@@ -438,7 +426,7 @@ http://192.119.9.66/live/D7E6E135-5520-406B-a08e-A51674E80667.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ8CdptqEfqcFQKLzQiq91F4knhcTDjOAWDGZpzRAETGHGYqrB" group-title="FILMES NA TV", SPACE
-http://b.greenplanet.top:8080/br-8048Space/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183157.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CIncFqOHvCT0NU4ivGwNZ_4TqO32iIoZPqLUANMTVle8BTLJCw" group-title="FILMES NA TV", CINEMAX HD
@@ -446,7 +434,7 @@ http://192.119.9.66/live/3CAE4BE6-1960-40EB-ab26-8EC37D983EB0.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CIncFqOHvCT0NU4ivGwNZ_4TqO32iIoZPqLUANMTVle8BTLJCw" group-title="FILMES NA TV", CINEMAX
-http://b.greenplanet.top:8080/br-18079CinHD/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183403.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1280px-Max_%28channel%29.svg.png" group-title="FILMES NA TV", MAX HD
@@ -454,14 +442,14 @@ http://192.119.9.66/live/54BFA6BE-FFA2-4BA2-a4ac-6B86B553C157.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1280px-Max_%28channel%29.svg.png" group-title="FILMES NA TV", MAX
-http://b.greenplanet.top:8080/br-8040Max/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183245.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="FILMES NA TV", MAX UP HD
 http://192.119.9.66/live/0288CECA-5616-4234-bf1a-4E33F4AD925C.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="FILMES NA TV", MAX UP
-http://b.greenplanet.top:8080/br-8076Maxup/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183238.ts
 
 
 #EXTINF:0 tvg-logo="https://skytvplanos.com.br/img/channels/lg-279-canal-max-prime-hd.png" group-title="FILMES NA TV", MAX PRIME HD
@@ -469,7 +457,7 @@ http://192.119.9.66/live/A85FC536-963C-4367-97a7-CFAC0EA0FD1E.ts
 
 
 #EXTINF:0 tvg-logo="https://skytvplanos.com.br/img/channels/lg-279-canal-max-prime-hd.png" group-title="FILMES NA TV", MAX PRIME
-http://b.greenplanet.top:8080/br-8081MaxPrime/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183243.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUBt43U1vhzwxTSAChmW7wshIkZ-Pgor6RLe52zNZcb2h2r0J" group-title="FILMES NA TV",TNT HD
@@ -477,7 +465,7 @@ http://192.119.9.66/live/48A21980-EA88-4BA3-b128-267444A96B53.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDUBt43U1vhzwxTSAChmW7wshIkZ-Pgor6RLe52zNZcb2h2r0J" group-title="FILMES NA TV",TNT
-http://tv.factoryiptv.com:80/claudio/claudio/37035
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183119.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Megapix.png" group-title="FILMES NA TV", MEGAPIX HD
@@ -485,26 +473,27 @@ http://192.119.9.66/live/D85A8E66-8B2A-4A9A-8ece-C152789B8ADF.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Megapix.png" group-title="FILMES NA TV", MEGAPIX
-http://b.greenplanet.top:8080/br-18088Megx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183236.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQup_aUvM9e6zg9os7VMyhPjd-RwtmnvjMM7pY56Cf4Mf7lpX0KRA" group-title="FILMES NA TV", PARAMOUNT HD
 http://192.119.9.66/live/34179B81-87C5-4711-8d8e-1B8D8E23D177.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQup_aUvM9e6zg9os7VMyhPjd-RwtmnvjMM7pY56Cf4Mf7lpX0KRA" group-title="FILMES NA TV", PARAMOUNT
-http://b.greenplanet.top:8080/br-8066Para/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183207.ts
 
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES NA TV", CINE SKY HD
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/85.ts
 
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES NA TV", CINE SKY
+#EXTINF:0 tvg-logo="https://yt3.ggpht.com/a/AGF-l79NyG0zn-ZFm21aBswBm9asZDMnvfROpyYsOA=s900-mo-c-c0xffffffff-rj-k-no" group-title="FILMES NA TV", SO FILMES
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/856.ts
 
 
-#EXTINF:0 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__on_blk.png?height=1024" group-title="FILMES NA TV", COMEDY CENTRAL
+#EXTINF:0 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__on_blk.png?height=1024" group-title="VARIEDADES e MUSICAS", COMEDY CENTRAL
 http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts 
+
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="FILMES NA TV",TruTV HD
@@ -516,7 +505,7 @@ http://tv.factoryiptv.com:80/claudio/claudio/41509
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES NA TV",TCM HD
-http://fonte.iptvmaishd.com:25461/live/lili/1234/183139.ts
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183139.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES NA TV",TCM
 http://tv.factoryiptv.com:80/claudio/claudio/37037
@@ -527,7 +516,7 @@ http://192.119.9.66/live/0895A939-61BE-4D12-b427-27123DB260E0.ts
 
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRboH9iY7xAzHHiVXB8GJnVwBs1s_FiS48hgFpl6IRa0bfw5-aa" group-title="FILMES NA TV", TELECINE PIPOCA
-http://b.greenplanet.top:8080/br-8008Tcpipoca/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183129.ts
 
 
 #EXTINF:0 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-touch.png" group-title="FILMES NA TV", TELECINE TOUCH HD
@@ -535,7 +524,7 @@ http://192.119.9.66/live/D45874BB-F421-4633-addf-0F8D59749CA8.ts
 
 
 #EXTINF:0 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/tc-touch.png" group-title="FILMES NA TV", TELECINE TOUCH
-http://b.greenplanet.top:8080/br-8084TcTouch/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183123.ts
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="FILMES NA TV", TELECINE ACTION HD
@@ -543,7 +532,7 @@ http://192.119.9.66/live/39BF6921-889C-43C9-aef5-4E11BD9D6653.ts
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="FILMES NA TV", TELECINE ACTION
-http://b.greenplanet.top:8080/br-8005TcAction/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183138.ts
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="FILMES NA TV", TELECINE PREMIUM HD 
@@ -551,14 +540,14 @@ http://192.119.9.66/live/106FA860-511B-400C-b1e5-A9252CB8EE8A.ts
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="FILMES NA TV", TELECINE PREMIUM
-http://b.greenplanet.top:8080/br-8015TcPremium/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183125.ts
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="FILMES NA TV", TELECINE FUN HD
 http://192.119.9.66/live/7DB0D9C7-2185-49EB-bbb8-0B717185979E.ts
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="FILMES NA TV", TELECINE FUN
-http://b.greenplanet.top:8080/br-8007Tcfun/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183132.ts
 
 
 
@@ -566,116 +555,120 @@ http://b.greenplanet.top:8080/br-8007Tcfun/mpegts?token=planet_190521YttIo238HHB
 http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts 
 
 #EXTINF:0 tvg-logo="http://revenda.kudaplay.tv/tema/canais_logo/HD_TC_CULT.png" group-title="FILMES NA TV", TELECINE CULT
-http://b.greenplanet.top:8080/br-8009TcCult/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183135.ts
 
 
-########################################################### S√àRIES NA TV
+########################################################### S»RIES NA TV
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S√àRIES NA TV", A&E HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S»RIES NA TV", A&E HD
 http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S√àRIES NA TV", A&E 
-http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S»RIES NA TV", A&E 
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183441.ts
 
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S√àRIES NA TV", AXN HD
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S»RIES NA TV", AXN HD
 http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183429.ts
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S√àRIES NA TV", AXN
-http://b.greenplanet.top:8080/br-8026Axn/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S»RIES NA TV", AXN
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183429.ts
 
 
-#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S√àRIES NA TV", FX HD
+
+#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S»RIES NA TV", FX HD
 http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts 
 
-#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S√àRIES NA TV", FX
-http://b.greenplanet.top:8080/br-8047Fx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S»RIES NA TV", FX
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183314.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S√àRIES NA TV",WARNER TV HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S»RIES NA TV",WARNER TV HD
 http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S√àRIES NA TV", WARNER TV FHD
-http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S»RIES NA TV", WARNER TV
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183098.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S√àRIES NA TV", UNIVERSAL CHANNEL HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S»RIES NA TV", UNIVERSAL CHANNEL HD
 http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S√àRIES NA TV", UNIVERSAL CHANNEL 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S»RIES NA TV", UNIVERSAL CHANNEL 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/925.ts 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S√àRIES NA TV",TNT SERIES HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S»RIES NA TV",TNT SERIES HD
 http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S√àRIES NA TV",TNT SERIES
-http://b.greenplanet.top:8080/br-8010TntSeries/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S»RIES NA TV",TNT SERIES
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183115.ts
 
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S√àRIES NA TV",TBS HD
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S»RIES NA TV",TBS HD
 http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts 
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S√àRIES NA TV",TBS
-http://tv.factoryiptv.com:80/claudio/claudio/41505
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S»RIES NA TV",TBS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183140.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="S√àRIES NA TV", ANIMAL PLANET HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="S»RIES NA TV", ANIMAL PLANET HD
 http://tv.factoryiptv.com:80/claudio/claudio/37128
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="S»RIES NA TV", ANIMAL PLANET
+http://fonte.iptvmaishd.com:25461/live/lili/1234/183435.ts
 
-#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S√àRIES NA TV",FOX CHANNEL HD
+
+#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S»RIES NA TV",FOX HD
 http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
 
 
-#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S√àRIES NA TV",FOX CHANNEL
-http://b.greenplanet.top:8080/br-8018Fox/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S»RIES NA TV",FOX
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183334.ts
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S√àRIES NA TV", FOX LIFE HD 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S»RIES NA TV", FOX LIFE HD 
 http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S√àRIES NA TV", FOX LIFE
-http://b.greenplanet.top:8080/br-8079FoxLif/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S»RIES NA TV", FOX LIFE
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183331.ts
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="S√àRIES NA TV", FOX PREMIUM 1 HD
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="S»RIES NA TV", FOX PREMIUM 1 HD
 http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
 
-#EXTINF:0 tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="S√àRIES NA TV", FOX PREMIUM 02 HD
+#EXTINF:0 tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="S»RIES NA TV", FOX PREMIUM 02 HD
 http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S√àRIES NA TV", SONY HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S»RIES NA TV", SONY HD
 http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S√àRIES NA TV", SONY 
-http://tv.factoryiptv.com:80/claudio/claudio/56895
+#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S»RIES NA TV", SONY 
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183160.ts
 
 
-#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S√àRIES NA TV", SYFY HD
+#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S»RIES NA TV", SYFY HD
 http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
 
 
-#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S√àRIES NA TV", SYFY
-http://b.greenplanet.top:8080/br-8062Syfy/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S»RIES NA TV", SYFY
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183143.ts
 
 ########################################################### INFANTIS
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cartoon_Network_2004_logo.jpg/800px-Cartoon_Network_2004_logo.jpg" group-title="INFANTIS",Cartoon Network
-http://b.greenplanet.top:8080/br-8029Cart/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183406.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cartoon_Network_2004_logo.jpg/800px-Cartoon_Network_2004_logo.jpg" group-title="INFANTIS",Cartoon Network HD
 http://192.119.9.66/live/ED194AE9-4613-4F1B-a6a7-244B4CA02C84.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIS", DISCOVERY KIDS
-http://b.greenplanet.top:8080/br-18094DiscKi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183378.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIS", DISCOVERY KIDS HD
 http://192.119.9.66/live/ap1ebnx7uvtu8z5l6antbyhyu83azfpu.ts
@@ -689,7 +682,7 @@ https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c4
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIS",DISNEY XD 
-http://tv.factoryiptv.com:80/claudio/claudio/50718
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183355.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="INFANTIS",DISNEY XD HD
 http://192.119.9.66/live/0C303831-31F6-4DC7-ab23-BA6C3B8AB103.ts
@@ -699,7 +692,7 @@ http://192.119.9.66/live/0C303831-31F6-4DC7-ab23-BA6C3B8AB103.ts
 http://192.119.9.66/live/A83BF159-3B5E-46E2-a1cd-796E687767D3.ts
 
 #EXTINF:0 tvg-logo="https://freelogovector.net/wp-content/uploads/logo-images-2/nick-jr-logo-vector-8797.png" group-title="INFANTIS",NICK JR 
-http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183213.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloob HD 
@@ -709,12 +702,16 @@ http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
 http://192.119.9.66/live/03EC0B5B-E340-4E07-8e2b-EEB637A89DFB.ts
 
 
-#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTIS", BABY TV HD
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTIS", BABY TV 
 http://192.119.9.66/live/90FCECD9-B1BB-4C7A-93b7-08C627D5ED60.ts 
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTIS", BABY TV 
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183426.ts
+
+
 
 #EXTINF:0 tvg-logo="http://zoomoo.tv.br/wp-content/uploads/2018/07/logo.png" group-title="INFANTIS",ZOOMOO 
 http://uhd.twistertv.online:8880/4455/4455/6959
-
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-HfSPbHu76Zc/WYB6u2Jg7yI/AAAAAAAAIEs/9b7qmq0dNTgdh8hFgUuKsBZ9f_thDdR6ACLcBGAs/s1600/playkidslogo.png" group-title="INFANTIS",PLAYKIDS HD
 http://192.119.9.66/live/19608283-36A9-4536-8b77-B5AB82CAA26E.ts
@@ -727,7 +724,7 @@ http://streamtv.com.br:80/live/julia10/julia10/20218.rtmp
 http://192.119.9.66/live/99DE8F02-450F-4A9A-a27c-5A7B104F4047.ts
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDKl69gwvTpPITMJsgHV9SOtOpe2gl53J0Lso_PAhdrsZuesRZ" group-title="INFANTIS", NATGEO KIDS
-http://b.greenplanet.top:8080/br-8085NatGeoK/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183221.ts
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIS",Boomerang HD
@@ -742,7 +739,7 @@ http://192.119.9.66/live/778A0091-5DA8-417D-bd14-5DF4AB94240F.ts
 
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg" group-title="INFANTIS",TOONCAST 
-http://tv.factoryiptv.com:80/claudio/claudio/37033
+http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183114.ts
 
 
 ########################################################### VARIEDADES e MUSICAS
@@ -815,16 +812,129 @@ http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
 http://lista.digitalgroup.me:80/cassio123/cassio123/38734
 
 
+###########################################################  SÈrie Dope 1e2e3 Temporada
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S01.E01 Preferido da America
+https://docs.google.com/file/d/1ZuOJqfC2yxfaXXA_JL0uSNq8E68lcNEN/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S01.E02 Quem ve Nunca Esquece
+https://docs.google.com/file/d/1QHCWvnjpuk9emIp-rrTxhFlrI6G7LTOa/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S01.E03 Faria ate de GraÁa
+https://docs.google.com/file/d/1mHX5khe1Ki8NBN2RlQYh-Pckuc2TNcUo/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S01.E04 Perigoso e Apelido
+https://docs.google.com/file/d/1JHSNXoT0k5V4H5Be2Q03TK-F-74k1d0B/preview  
+
+
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S02.E01 Aqui Nao Tem Essa de Amizade
+https://docs.google.com/file/d/1Y2gWsXQW0NTZ7hX9SHpOI5e8X3kjObWo/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S02.E02 Inocente Demais para isso
+https://docs.google.com/file/d/1IKz2A75DGZyzKqnFnTlQoMnsJqnFl9cU/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S02.E03 Vou Pegar a Grana dos Brancos
+https://docs.google.com/file/d/178NeFwSE8DFPkRZI2bN2a-35VYnngi5D/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S02.E04 Feito pinto no Lixo
+https://docs.google.com/file/d/1-SEI1h2MRTlwQtrVsTPwUmEBGK7MJony/preview  
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S03.E01 O Truque mais antigo do Diabo
+https://docs.google.com/file/d/1hJsrxWtbJbrpStPRJ7Mw68mkqfVp6zy2/preview  
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S03.E02 Deus Perdoa me por isso
+https://docs.google.com/file/d/1lAt3c9J2rPQE3Q17rIyXUKt2hY62mbMS/preview  
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S03.E03 No Face No Case
+https://docs.google.com/file/d/19fK1swkj1Azlj682RWnscETtVSlT-p5J/preview  
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="SÈrie Dope 1e2e3 Temporada",S03.E04 Este n„o È o Miami Vice
+https://docs.google.com/file/d/1x20iGtJT_S4gseFGKYYutS0N8JTTg8uM/preview
+
+
+###########################################################  Narcos na Vida Real 1 Temporada
+
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E01 MÈxico
+https://docs.google.com/file/d/18OKqnj808yaDYMe1cYdMDR8HNY6_aXRA/preview 
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E02 ColÙmbia
+https://docs.google.com/file/d/1qj4joaueFS-Hby5gdYDIKmXPmMBsRyVY/preview 
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E03 Peru 
+https://docs.google.com/file/d/1GmCGW5_0Kw5-UJCM4Z-Xe-FNNBOoiyky/preview 
+
+########################################################## PolÌcia ao Vivo: Melhores Momentos EUA 
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="PolÌcia ao Vivo: Melhores Momentos EUA",Apreens„o de Drogas na Carolina do Sul (2017)
+https://docs.google.com/file/d/1vNHGndNvVJ3bmdRu5cuXe7CoIo0bU3G6/preview 
+
+
+###########################################################  SÈrie O Fugitivo 1e2 Temporada
+
+#EXTINF: -0 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E02 ¡frica do Sul
+https://docs.google.com/file/d/1rFwG8XXgegOKAglZdbLhiTwVPB_Z4r3E/preview
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E03 PolÙnia
+https://docs.google.com/file/d/1Q7MDrcqM-RxqtJKJ6Z8QoXwzv-gKqr0C/preview  
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E04 Panam·
+https://docs.google.com/file/d/1XEoFzawVVd_1Vvei-2pydDUZg8L9t4U5/preview  
+
+#EXTINF: -0 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E05 Arizona
+https://docs.google.com/file/d/18Y3Qpvfo4ayvryli4Dd_nFIITgIEV8CW/preview
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E06 Filipinas
+https://docs.google.com/file/d/1aprllj6wK5jgNiAZjhSdAkxyKu33B2gL/preview 
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S01.E07 Coreia do Sul 
+https://docs.google.com/file/d/14sohUV1swgaFCTssBWTReqnSRs5bGQrK/preview
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S02.E01 Nova Zelandia
+https://docs.google.com/file/d/1_kZmNraJYGZRwL2CtRfFo54hhS-w_SqQ/preview
+
+#EXTINF: -0 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="SÈrie O Fugitivo 1e2 Temporada",S02.E06 Carolina do Sul 
+https://docs.google.com/file/d/1qVEzQe5eCEQwA552IKj77UkfvTSF6Qih/preview     
+
+########################################################### Filmes ONDEMAND
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/06/owcRMC.png" group-title="Filmes ONDEMAND",CaÁado (2003) Dublado 
+https://docs.google.com/file/d/1bRBlO3jzQuCoX6Pohsg9VJ7LO1GR_VeV/preview
+#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/bf/30/4a/bf304ae1ad9b524bfd636d97c3d4be89.png" group-title="Filmes ONDEMAND",RAMBO IV (2008)
+https://docs.google.com/file/d/1AC9SVd7Pd-7gOnk-AybDcCVudw5tKQt4/preview
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/924/W7vL3q.png" group-title="Filmes ONDEMAND", OperaÁ„o Mekong (2017)
+https://docs.google.com/file/d/1bVIYJX5jcrkJ0WQMkfKPqD_gWYlt02sM/preview 
+#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/922/dMDjFt.png" group-title="Filmes ONDEMAND", A Grande Muralha (2017)
+https://docs.google.com/file/d/122j5inhXdvm-VJxdxV3UcN_NSYXhWdSP/preview
+#EXTINF: -1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/10/03/23/23/0647480.jpg" group-title="Filmes ONDEMAND", Lobo Guerreiro 2 (2017)
+https://docs.google.com/file/d/1bZeWIl7zNu3TXtDQfM1R5XWodInZ_jy9/preview 
+#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w342/chMOGs0qNQyIeJnz7ZN9MJOA18T.jpg" group-title="Filmes ONDEMAND",MAD MAX: ESTRADA DA F⁄RIA (2015)
+https://docs.google.com/file/d/1C9v9lt9YPEFiwjFa_0j0n_VYkJiR5Ylw/preview
+#EXTINF: -1 tvg-logo="https://occ-0-1001-999.1.nflxso.net/art/71570/7fb7da1d1a75eb96f057301beb32771ac2571570.jpg" group-title="Filmes ONDEMAND",Beasts of No Nation (2015)
+https://docs.google.com/file/d/1GPkRsgF8fTPBl4HsbL564CHu-KUGIHoV/preview  
+#EXTINF: -1 tvg-logo="https://tinyurl.com/yycmrjpf" group-title="Filmes ONDEMAND", CORRIDA MORTAL 4: AL…M DA ANARQUIA (2018) Dublado 
+https://docs.google.com/file/d/1VcExoDwExMq1YRwLfpH2VwOCbBtKFQ-_/preview
+
 ########################################################### SOUND
 
+
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,Jukebox Music
+https://drive.google.com/file/d/1Jxe-zJ5PZKgt99fwNn-3H82LFaYN49yU/preview
+ 
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AX√â
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AX…
 http://192.99.150.31:8305/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO
 http://192.99.150.31:9485/stream
 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORR√ì
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORR”
 http://192.99.150.31:9019/stream? 
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FUNK
 http://192.99.150.31:9089/stream? 
@@ -843,7 +953,7 @@ http://6d9a.webradio.upx.net.br:9061/stream?
 http://6d9a.webradio.upx.net.br:9046/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP ROCK
 http://6d9a.webradio.upx.net.br:8016/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSIT√ÅRIO
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSIT¡RIO
 http://192.99.150.31:9191/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
 http://192.99.150.31:9155/stream
@@ -856,4 +966,3 @@ http://192.99.150.31:9431/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,HISTORINHA INFANTIL
 http://192.99.150.31:8371/stream?
 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, The Jukebox Music 2
