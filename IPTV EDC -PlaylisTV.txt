@@ -76,11 +76,11 @@ http://tv.factoryiptv.com:80/claudio/claudio/50838
 http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_FRONTEIRA/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT”RIA ES
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT√ìRIA ES
 http://load.kudaplay.tv/aovivo/HD_GAZETA_ES/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT”RIA ES HD 
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VIT√ìRIA ES HD 
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sudoeste-hd_m.png" group-title="CANAIS ABERTOS",TV SUDOESTE 
@@ -189,10 +189,10 @@ http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssa
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA«√O DISCOVERY HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA√á√ÉO DISCOVERY HD
 http://192.119.9.66/live/E427E4CB-9CAB-44CD-b114-47E69110202F.ts 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA«√O DISCOVERY 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="DOCUMENTARIOS", ID - INVESTIGA√á√ÉO DISCOVERY 
 http://b.greenplanet.top:8080/br-8078id/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
  
 
@@ -569,100 +569,100 @@ http://192.119.9.66/live/8D84A824-DCB7-496F-b971-C9500AFA435E.ts
 http://b.greenplanet.top:8080/br-8009TcCult/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-########################################################### S»RIES NA TV
+########################################################### S√àRIES NA TV
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S»RIES NA TV", A&E HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S√àRIES NA TV", A&E HD
 http://192.119.9.66/live/29327EAF-2FE3-4824-9199-CE7724892A6E.ts
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S»RIES NA TV", A&E 
+#EXTINF:0 tvg-logo="https://i.imgur.com/8EOkMCs.png" group-title="S√àRIES NA TV", A&E 
 http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S»RIES NA TV", AXN HD
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S√àRIES NA TV", AXN HD
 http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183429.ts
 
-#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S»RIES NA TV", AXN
+#EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="S√àRIES NA TV", AXN
 http://b.greenplanet.top:8080/br-8026Axn/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S»RIES NA TV", FX HD
+#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S√àRIES NA TV", FX HD
 http://192.119.9.66/live/C32B5BA2-7CE8-4091-b2f6-4E1FAD71D2F8.ts 
 
-#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S»RIES NA TV", FX
+#EXTINF:0 tvg-logo="https://cancelrenewtv.com/wp-content/uploads/2019/05/fxlogo.png" group-title="S√àRIES NA TV", FX
 http://b.greenplanet.top:8080/br-8047Fx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S»RIES NA TV",WARNER TV HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S√àRIES NA TV",WARNER TV HD
 http://192.119.9.66/live/5BB0A0AE-00B9-426E-8cad-2372A6A24C08.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S»RIES NA TV", WARNER TV FHD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="S√àRIES NA TV", WARNER TV FHD
 http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S»RIES NA TV", UNIVERSAL CHANNEL HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S√àRIES NA TV", UNIVERSAL CHANNEL HD
 http://192.119.9.66/live/16C30F29-5D48-43C5-a3a3-5C2A69320A57.ts
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S»RIES NA TV", UNIVERSAL CHANNEL 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1280px-Universal_Channel_Logo_2013.svg.png" group-title="S√àRIES NA TV", UNIVERSAL CHANNEL 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/925.ts 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S»RIES NA TV",TNT SERIES HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S√àRIES NA TV",TNT SERIES HD
 http://192.119.9.66/live/XLpOozM8aS4MU5SdcazKc9chVmEzUY9G.ts
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S»RIES NA TV",TNT SERIES
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="S√àRIES NA TV",TNT SERIES
 http://b.greenplanet.top:8080/br-8010TntSeries/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S»RIES NA TV",TBS HD
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S√àRIES NA TV",TBS HD
 http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts 
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S»RIES NA TV",TBS
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tbs-png-4.png" group-title="S√àRIES NA TV",TBS
 http://tv.factoryiptv.com:80/claudio/claudio/41505
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="S»RIES NA TV", ANIMAL PLANET HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="S√àRIES NA TV", ANIMAL PLANET HD
 http://tv.factoryiptv.com:80/claudio/claudio/37128
 
 
-#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S»RIES NA TV",FOX CHANNEL HD
+#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S√àRIES NA TV",FOX CHANNEL HD
 http://192.119.9.66/live/DAD6B460-4635-4986-bad2-8E9673D54CB0.ts
 
 
-#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S»RIES NA TV",FOX CHANNEL
+#EXTINF:0 tvg-logo="https://i.dlpng.com/static/png/517959_preview.png" group-title="S√àRIES NA TV",FOX CHANNEL
 http://b.greenplanet.top:8080/br-8018Fox/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S»RIES NA TV", FOX LIFE HD 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S√àRIES NA TV", FOX LIFE HD 
 http://192.119.9.66/live/7E89A300-DC45-491E-8725-4A3563BCA55C.ts
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S»RIES NA TV", FOX LIFE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzzlGRbdc26qkPelTYhVs3PtDL2SDGXFV4lY3QCcotnPn49Wm" group-title="S√àRIES NA TV", FOX LIFE
 http://b.greenplanet.top:8080/br-8079FoxLif/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="S»RIES NA TV", FOX PREMIUM 1 HD
+#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="S√àRIES NA TV", FOX PREMIUM 1 HD
 http://192.119.9.66/live/6D65C787-24B5-4A10-ba47-CD1A02A14BED.ts
 
-#EXTINF:0 tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="S»RIES NA TV", FOX PREMIUM 02 HD
+#EXTINF:0 tvg-logo="http://www.telegrambot.club/tvonline/wp-content/uploads/2019/01/FOX-PREMIUM-2.png" group-title="S√àRIES NA TV", FOX PREMIUM 02 HD
 http://192.119.9.66/live/guI7VZMqqTfuxAzMWu6sQoE4ceTsRDqd.ts
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S»RIES NA TV", SONY HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S√àRIES NA TV", SONY HD
 http://192.119.9.66/live/31758E4F-5422-465B-b2b0-5049F10E212B.ts
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S»RIES NA TV", SONY 
+#EXTINF:0 tvg-logo="https://i.imgur.com/QP7ERFw.png" group-title="S√àRIES NA TV", SONY 
 http://tv.factoryiptv.com:80/claudio/claudio/56895
 
 
-#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S»RIES NA TV", SYFY HD
+#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S√àRIES NA TV", SYFY HD
 http://192.119.9.66/live/562366C6-6676-453E-96a9-E97D57F3C951.ts
 
 
-#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S»RIES NA TV", SYFY
+#EXTINF:0 tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/05/syfy-new-black-logo-featured.jpg?w=272&h=153" group-title="S√àRIES NA TV", SYFY
 http://b.greenplanet.top:8080/br-8062Syfy/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 ########################################################### INFANTIS
@@ -819,12 +819,12 @@ http://lista.digitalgroup.me:80/cassio123/cassio123/38734
 
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AX…
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AX√â
 http://192.99.150.31:8305/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO
 http://192.99.150.31:9485/stream
 
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORR”
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FORR√ì
 http://192.99.150.31:9019/stream? 
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,FUNK
 http://192.99.150.31:9089/stream? 
@@ -843,7 +843,7 @@ http://6d9a.webradio.upx.net.br:9061/stream?
 http://6d9a.webradio.upx.net.br:9046/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,POP ROCK
 http://6d9a.webradio.upx.net.br:8016/stream?
-#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSIT¡RIO
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSIT√ÅRIO
 http://192.99.150.31:9191/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO RAIZES
 http://192.99.150.31:9155/stream
