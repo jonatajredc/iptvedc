@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 16/07/19 SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 18/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 
 #EXTINF:0 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="IPTV EDC DESTAQUE", PREMIERE CLUBES FHD
