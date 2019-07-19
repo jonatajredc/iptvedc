@@ -499,6 +499,10 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/85.ts
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/856.ts
 
 
+#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="FILMES NA TV",FILM&ARTS HD
+http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+
+
 #EXTINF:0 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__on_blk.png?height=1024" group-title="FILMES NA TV", COMEDY CENTRAL
 http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts 
 
@@ -698,10 +702,13 @@ http://192.119.9.66/live/A83BF159-3B5E-46E2-a1cd-796E687767D3.ts
 http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloob HD 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloobinho HD
+http://b.greenplanet.top:8080/br-8086Gloobinho/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+
+#EXTINF:0 tvg-logo="http://voxnews.com.br/wp-content/uploads/2016/03/logo_Gloob.png" group-title="INFANTIS",Gloob HD 
 http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloob
+#EXTINF:0 tvg-logo="http://voxnews.com.br/wp-content/uploads/2016/03/logo_Gloob.png" group-title="INFANTIS",Gloob
 http://192.119.9.66/live/03EC0B5B-E340-4E07-8e2b-EEB637A89DFB.ts
 
 
@@ -731,6 +738,9 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/21.ts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIS",Boomerang SD
 http://192.119.9.66/live/0FB8A79C-18D3-4B08-b51d-D7AC5B1D1532.ts
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="INFANTIS",Boomerang FHD
+http://b.greenplanet.top:8080/br-sdBoomerang/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg" group-title="INFANTIS",TOONCAST HD
@@ -927,7 +937,7 @@ http://192.99.150.31:8305/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE, SERTANEJO
 http://192.99.150.31:9485/stream
 
- #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,PAGODE
+#EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,PAGODE
 http://6d9a.webradio.upx.net.br:9061/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,SERTANEJO UNIVERSITÁRIO
 http://192.99.150.31:9191/stream?
