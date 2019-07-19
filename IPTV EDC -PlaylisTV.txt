@@ -67,12 +67,9 @@ http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_FRONTEIRA/mpegts?token=5c6a3acdc9cdbc
 http://load.kudaplay.tv/aovivo/HD_GAZETA_ES/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
-#EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VITÓRIA ES HD 
-
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sudoeste-hd_m.png" group-title="CANAIS ABERTOS",TV SUDOESTE 
 http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_SUDOESTE/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Vit%C3%B3ria.png" group-title="CANAIS ABERTOS",TV VITORIA RECORD ES HD
@@ -95,13 +92,12 @@ http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chun
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="CANAIS ABERTOS", TV EDUCATIVA
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS ABERTOS", CANAL DO BOI
-https://cvd2.cds.ebtcvd.net/hls/STCBsLNNEL.m3u8
+#EXTINF:0 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/06/LogoCanalRuralPNG.png" group-title="CANAIS ABERTOS", CANAL RURAL
+http://b.greenplanet.top:8080/br-sdCanalRur/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 ########################################################### NOTICIAS
 
@@ -211,34 +207,41 @@ http://b.greenplanet.top:8080/br-8006H2/mpegts?token=planet_190521YttIo238HHBssa
 #EXTINF:0 tvg-logo="https://i.imgur.com/sBjm44S.png" group-title="ESPORTES", PREMIERE CLUBES FHD
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/63.ts
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/sBjm44S.png" group-title="ESPORTES", PREMIERE CLUBES
 http://192.119.9.66/live/FE900457-AE7F-4887-88c6-C7536730CC2B.ts
 
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES",SPORTV HD
-http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/3.ts
+#EXTINF:0 tvg-logo="https://i.imgur.com/sBjm44S.png" group-title="ESPORTES", PREMIERE CLUBES HD
+http://b.greenplanet.top:8080/br-8003PfcClubes/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES",SPORTV
 http://192.119.9.66/live/fa438bc17f8e511baeb385eb36b6fd54.ts
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES",SPORTV HD
+http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/3.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/xgOp4rb.png" group-title="ESPORTES",SPORTV FHD
+http://b.greenplanet.top:8080/br-8023Spor1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Iz6bQEJ.png" group-title="ESPORTES",SPORTV 2  
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/Iz6bQEJ.png" group-title="ESPORTES",SPORTV 2 HD
 http://192.119.9.66/live/B3G2G2DE-23FF-1S72-A125-CA23SGC3S3T3.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iz6bQEJ.png" group-title="ESPORTES",SPORTV 2 FHD
+http://b.greenplanet.top:8080/br-8028Spor2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/21X6WZP.png" group-title="ESPORTES",SPORTV 3 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/5.ts
 
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/21X6WZP.png" group-title="ESPORTES",SPORTV 3 HD
 http://192.119.9.66/live/005a976eea4c1007c79c9a917a254d1f.ts
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/21X6WZP.png" group-title="ESPORTES",SPORTV 3 FHD
+http://b.greenplanet.top:8080/br-8057Spor3/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/kpSJABM.png" group-title="ESPORTES", COMBATE HD
@@ -503,6 +506,9 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/856.ts
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 
+#EXTINF:0 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__on_blk.png?height=1024" group-title="FILMES NA TV", COMEDY CENTRAL HD
+http://b.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+
 #EXTINF:0 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__on_blk.png?height=1024" group-title="FILMES NA TV", COMEDY CENTRAL
 http://192.119.9.66/live/1234C617-A20F-4FE1-b962-12E55F7123A2.ts 
 
@@ -746,6 +752,8 @@ http://b.greenplanet.top:8080/br-sdBoomerang/mpegts?token=planet_190521YttIo238H
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg" group-title="INFANTIS",TOONCAST HD
 http://192.119.9.66/live/778A0091-5DA8-417D-bd14-5DF4AB94240F.ts
 
+#EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg" group-title="INFANTIS",TOONCAST SD
+http://b.greenplanet.top:8080/br-sdTooncast/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
 #EXTINF:0 tvg-logo="http://3.bp.blogspot.com/-AWgh_d-SY00/UDPzV7MXwKI/AAAAAAAAItE/i36G5QrECqc/s1600/tooncast-canal-logo.jpg" group-title="INFANTIS",TOONCAST 
 http://tv.factoryiptv.com:80/claudio/claudio/37033
