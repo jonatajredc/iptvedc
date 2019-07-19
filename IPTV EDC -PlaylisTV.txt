@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 18/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 
-#EXTINF:0 tvg-logo="https://images.uncyc.org/pt/f/f1/Logotipo_PFC.png" group-title="IPTV EDC DESTAQUE", PREMIERE CLUBES FHD
-http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/63.ts
-
 #EXTM3U
 
 ########################################################### CANAIS ABERTOS
@@ -864,6 +861,10 @@ https://dc725.4shared.com/img/-jVUOWHsda/4b484a1c/dlink__2Fdownload_2F-jVUOWHsda
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 3 (2018)
 https://dc725.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm_3Fsbsr_3D9053030152d2cdac4c356af130e09e8aa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 4 (2017)
+https://dc706.4shared.com/img/AvqoNf9Hgm/c86787d1/dlink__2Fdownload_2FAvqoNf9Hgm_3Fsbsr_3D267639b6779a61aaf5747ddf0d1152eba19_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+
 
 ###########################################################  Narcos na Vida Real 1 Temporada
 
