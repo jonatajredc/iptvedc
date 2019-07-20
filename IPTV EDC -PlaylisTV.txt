@@ -502,6 +502,10 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/85.ts
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/856.ts
 
 
+#EXTINF:0 tvg-logo="https://cinemacineplus.com.br/site/wp-content/uploads/2018/05/02-logotipo-cineplus.png" group-title="FILMES NA TV",CINE PLUS SD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/film-arts-logo-png-transparent.png" group-title="FILMES NA TV",FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
@@ -711,6 +715,10 @@ http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHB
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloobinho HD
 http://b.greenplanet.top:8080/br-8086Gloobinho/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="INFANTIS",Gloobinho
+http://lista.digitalgroup.me:80/carmi87/1010/17136
+
+
 #EXTINF:0 tvg-logo="http://voxnews.com.br/wp-content/uploads/2016/03/logo_Gloob.png" group-title="INFANTIS",Gloob HD 
 http://192.119.9.66/live/1E14D87D-9DAA-469D-be48-33CF682FDC4D.ts
 
@@ -830,114 +838,97 @@ http://lista.digitalgroup.me:80/cassio123/cassio123/38734
 
 ###########################################################  Série Dope 1e2e3 Temporada
 
+
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Série Dope 1e2e3 Temporada",S01.E01 Preferido da America
-https://dc693.4shared.com/img/M9SVQUfZee/9ab1cc5b/dlink__2Fdownload_2FM9SVQUfZee_3Fsbsr_3D6eeda490de100c10d2efcf0ced5075f5a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc693.4shared.com/img/M9SVQUfZee/9ab1cc5b/dlink__2Fdownload_2FM9SVQUfZee_3Fsbsr_3Dcf789f72231624f6c6550a0fe20a4083a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Série Dope 1e2e3 Temporada",S01.E02 Quem ve Nunca Esquece
-https://dc572.4shared.com/img/Zej41c41gm/9c4fd780/dlink__2Fdownload_2FZej41c41gm_3Fsbsr_3D13ff87ce1fabda934c721201ba13abc8a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc757.4shared.com/img/Zej41c41gm/9c4fd780/dlink__2Fdownload_2FZej41c41gm_3Fsbsr_3Da8bdfeb20f4fd8bf4767964d6ae2f1d7a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Série Dope 1e2e3 Temporada",S01.E03 Faria ate de Graça
-https://dc610.4shared.com/img/FSTd41NMee/64759a7d/dlink__2Fdownload_2FFSTd41NMee_3Fsbsr_3Db341910911b4541095fa1d3a5dfe79a7a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc623.4shared.com/img/FSTd41NMee/64759a7d/dlink__2Fdownload_2FFSTd41NMee_3Fsbsr_3D52c26c229f957cf3b4ebfadfe18698a0a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Série Dope 1e2e3 Temporada",S01.E04 Perigoso e Apelido
-https://dc610.4shared.com/img/LYr9Hq2qda/b8044364/dlink__2Fdownload_2FLYr9Hq2qda_3Fsbsr_3D7f3b85e4cb6261a4b5401a5f8577affda18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc589.4shared.com/img/LYr9Hq2qda/b8044364/dlink__2Fdownload_2FLYr9Hq2qda_3Fsbsr_3Df1727e5da9bc415c67244180345d2e54a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
+
 
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Série Dope 1e2e3 Temporada",S02.E01 Aqui Nao Tem Essa de Amizade
-https://dc549.4shared.com/img/aPPmMiksee/a07548a2/dlink__2Fdownload_2FaPPmMiksee_3Fsbsr_3Dacdfb83777fed98a7fa1aa4acd8ff7f7a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc549.4shared.com/img/aPPmMiksee/a07548a2/dlink__2Fdownload_2FaPPmMiksee_3Fsbsr_3Db27d495a5556b814b4a8997df6096dc7a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Série Dope 1e2e3 Temporada",S02.E02 Inocente Demais para isso
-https://dc609.4shared.com/img/bRPxyoSUda/b050bac3/dlink__2Fdownload_2FbRPxyoSUda_3Fsbsr_3D4e914f7d6a871d95d3946dee0a82cdfda18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc609.4shared.com/img/bRPxyoSUda/b050bac3/dlink__2Fdownload_2FbRPxyoSUda_3Fsbsr_3Dd457e086c13a32a85d312a87654eac84a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Série Dope 1e2e3 Temporada",S02.E03 Vou Pegar a Grana dos Brancos
-https://dc609.4shared.com/img/MZCijv4Agm/95f6b85/dlink__2Fdownload_2FMZCijv4Agm_3Fsbsr_3D12546a4709e72a9e72876467faa40a3aa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc707.4shared.com/img/MZCijv4Agm/95f6b85/dlink__2Fdownload_2FMZCijv4Agm_3Fsbsr_3D0cbef53e05186d60e017fa8aac86966ea19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Série Dope 1e2e3 Temporada",S02.E04 Feito pinto no Lixo
-https://dc585.4shared.com/img/S92Mi5VAda/33bc6afe/dlink__2Fdownload_2FS92Mi5VAda_3Fsbsr_3Dc7895365cb47e86d9f0bc4aff2236bdaa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc585.4shared.com/img/S92Mi5VAda/33bc6afe/dlink__2Fdownload_2FS92Mi5VAda_3Fsbsr_3D74bb721aecf03bbaafce0e5c02043cd8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
+
 
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Série Dope 1e2e3 Temporada",S03.E01 O Truque mais antigo do Diabo
-https://dc769.4shared.com/img/IPGKPfZIee/f6818b31/dlink__2Fdownload_2FIPGKPfZIee_3Fsbsr_3Debd1f1966bc59b648420425853d199e6a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc769.4shared.com/img/IPGKPfZIee/f6818b31/dlink__2Fdownload_2FIPGKPfZIee_3Fsbsr_3D0bf10a0602331a94600cdcdebf0b52f3a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Série Dope 1e2e3 Temporada",S03.E02 Deus Perdoa me por isso
-https://dc614.4shared.com/img/K0Gb5q6wgm/e41b5ba4/dlink__2Fdownload_2FK0Gb5q6wgm_3Fsbsr_3D1dfa76dfcbc4ba4e072407a0104434cca18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc733.4shared.com/img/K0Gb5q6wgm/e41b5ba4/dlink__2Fdownload_2FK0Gb5q6wgm_3Fsbsr_3Db8cd92a35c9fc478c4decc803938d0b4a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Série Dope 1e2e3 Temporada",S03.E03 No Face No Case
-https://dc579.4shared.com/img/eVnK_PqOee/741a10a/dlink__2Fdownload_2FeVnK_5FPqOee_3Fsbsr_3D17153cc6063692e4c47cf436d68e49f5a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc579.4shared.com/img/eVnK_PqOee/741a10a/dlink__2Fdownload_2FeVnK_5FPqOee_3Fsbsr_3Da8c19172f74e3d11ce7524e18f9e5ac7a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Série Dope 1e2e3 Temporada",S03.E04 Este não é o Miami Vice
-https://dc579.4shared.com/img/rLwby-NUda/d7d4ba7f/dlink__2Fdownload_2FrLwby-NUda_3Fsbsr_3D809b61b16cf651627882d523970dac95a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc385.4shared.com/img/rLwby-NUda/d7d4ba7f/dlink__2Fdownload_2FrLwby-NUda_3Fsbsr_3D1a1fd2346f690505b81cfaccd7876472a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 
 ########################################################## Polícia ao Vivo: Melhores Momentos EUA 
 
+
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 1 (2017)
-https://dc725.4shared.com/img/WQt6hSukgm/34bf294b/dlink__2Fdownload_2FWQt6hSukgm_3Fsbsr_3Df55957b0c48df8fe6aa9c01e6beca486a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc770.4shared.com/img/WQt6hSukgm/34bf294b/dlink__2Fdownload_2FWQt6hSukgm_3Fsbsr_3Df4253950c4e8d6a713a8743905b96939a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 2 (2017)
-https://dc725.4shared.com/img/-jVUOWHsda/4b484a1c/dlink__2Fdownload_2F-jVUOWHsda_3Fsbsr_3Dca7836ed277a194961398bdab23fb080a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc607.4shared.com/img/-jVUOWHsda/4b484a1c/dlink__2Fdownload_2F-jVUOWHsda_3Fsbsr_3D76587f8532e6d72b9345d6619d5c29b0a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 3 (2018)
-https://dc725.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm_3Fsbsr_3D9053030152d2cdac4c356af130e09e8aa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc725.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm_3Fsbsr_3D244fd9fb66ff6e441e089a51e075b9d8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Polícia ao Vivo: Melhores Momentos EUA",Episódio 4 (2017)
-https://dc706.4shared.com/img/AvqoNf9Hgm/c86787d1/dlink__2Fdownload_2FAvqoNf9Hgm_3Fsbsr_3D267639b6779a61aaf5747ddf0d1152eba19_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc623.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm_3Fsbsr_3D244fd9fb66ff6e441e089a51e075b9d8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
 
 
 ###########################################################  Narcos na Vida Real 1 Temporada
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E01 México
-https://dc616.4shared.com/img/Jxepby5ida/e9182396/dlink__2Fdownload_2FJxepby5ida_3Fsbsr_3Dc1c10c77b3c8461c3211c3051d5f4af8a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc607.4shared.com/img/Jxepby5ida/e9182396/dlink__2Fdownload_2FJxepby5ida_3Fsbsr_3D6495568936f42821a7fcea69ef769b1aa19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E02 Colômbia
-https://dc616.4shared.com/img/fWVW7TrNgm/33b79d1b/dlink__2Fdownload_2FfWVW7TrNgm_3Fsbsr_3De85c9300f9584bde4f206777ddc63394a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc616.4shared.com/img/fWVW7TrNgm/33b79d1b/dlink__2Fdownload_2FfWVW7TrNgm_3Fsbsr_3D7a86feacf6bc23a0a4a7d1badff84a57a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/narcosnavidareal.jpg" group-title="Narcos na Vida Real 1 Temporada",S01.E03 Peru
-https://dc616.4shared.com/img/0iZ1I-cXgm/3c6bc42f/dlink__2Fdownload_2F0iZ1I-cXgm_3Fsbsr_3D10c07c6c5d0924e2f4a4a0451829016fa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc616.4shared.com/img/0iZ1I-cXgm/3c6bc42f/dlink__2Fdownload_2F0iZ1I-cXgm_3Fsbsr_3D02ed98d774914d6c3e0c7a920e14ea4ea19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
 
 ###########################################################  Série O Fugitivo 1e2 Temporada
 
 #EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="Série O Fugitivo 1e2 Temporada",S02.E01 Nova Zelandia
-https://dc606.4shared.com/img/0zJiYIh1fi/3082d478/dlink__2Fdownload_2F0zJiYIh1fi_3Fsbsr_3D7af21c40acd297a8157a7a16a943aca5a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc365.4shared.com/img/0zJiYIh1fi/3082d478/dlink__2Fdownload_2F0zJiYIh1fi_3Fsbsr_3Da77c3045cd29666de3ed528480cdae4da19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 #EXTINF: -0 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="Série O Fugitivo 1e2 Temporada",S02.E06 Carolina do Sul
-https://dc606.4shared.com/img/TFSGGuTqee/5ff142d5/dlink__2Fdownload_2FTFSGGuTqee_3Fsbsr_3Db300641fdfd9d04b28bfdc212af2e3c1a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
+https://dc606.4shared.com/img/TFSGGuTqee/5ff142d5/dlink__2Fdownload_2FTFSGGuTqee_3Fsbsr_3D33b5f8406d52ba21ab652de8b73a83d8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26dsid_3DXwQ7suRW.8a2d0f8d356626f9cf4e2c807272c15a_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
 
 ########################################################### Filmes ONDEMAND
 
-#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/06/owcRMC.png" group-title="Filmes ONDEMAND",Caçado (2003) Dublado
-https://dc606.4shared.com/img/dvptsIjTee/3a9db498/dlink__2Fdownload_2FdvptsIjTee_3Fsbsr_3D643a285b0b4efe6a99151c1c94e41c51a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://i.pinimg.com/originals/bf/30/4a/bf304ae1ad9b524bfd636d97c3d4be89.png" group-title="Filmes ONDEMAND",RAMBO IV (2008)
-https://dc606.4shared.com/img/2kHHsgnTda/a2ccb4d1/dlink__2Fdownload_2F2kHHsgnTda_3Fsbsr_3D66c433b19ef365cb5e6cd3562ef59184a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/922/dMDjFt.png" group-title="Filmes ONDEMAND", A Grande Muralha (2017)
-https://dc622.4shared.com/img/ofBOTF-dgm/43f30fe7/dlink__2Fdownload_2FofBOTF-dgm_3Fsbsr_3D504483b139e5475cce77c6dbd5c6dc4da18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/924/ckd3gV.jpg" group-title="Filmes ONDEMAND", CÃO SELVAGEM (2017)
-http://ds203.v-s.mobi/dP9jSOkWATzXHA1PPFNPqw/720p.mp4?
-#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/924/W7vL3q.png" group-title="Filmes ONDEMAND", Operação Mekong (2017)
-https://ds102.v-s.mobi/w0FxVgpzS3Anr3GjcO3tSA/720p.mp4?
-#EXTINF: -1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/10/03/23/23/0647480.jpg" group-title="Filmes ONDEMAND", Lobo Guerreiro 2 (2017)
-https://dc622.4shared.com/img/NBN4Rystgm/ab534d26/dlink__2Fdownload_2FNBN4Rystgm_3Fsbsr_3D2b75d562bc1bce5745d9234ce8d4651ba18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w342/chMOGs0qNQyIeJnz7ZN9MJOA18T.jpg" group-title="Filmes ONDEMAND",MAD MAX: ESTRADA DA FÚRIA (2015)
-https://dc698.4shared.com/img/JsvuUPjKda/c86c909a/dlink__2Fdownload_2FJsvuUPjKda_3Fsbsr_3D65e5f6ef4aa722b6905172ff2eb38763a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://occ-0-1001-999.1.nflxso.net/art/71570/7fb7da1d1a75eb96f057301beb32771ac2571570.jpg" group-title="Filmes ONDEMAND",Beasts of No Nation (2015)
-https://dc739.4shared.com/img/j-_qAwiVee/3b1bc85/dlink__2Fdownload_2Fj-_5FqAwiVee_3Fsbsr_3D82d8b9b992348422f2b72a7e614f4ee9a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-https://dc739.4shared.com/img/j-_qAwiVee/3b1bc85/dlink__2Fdownload_2Fj-_5FqAwiVee_3Fsbsr_3D82d8b9b992348422f2b72a7e614f4ee9a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/13/Benji2018.jpg" group-title="Filmes ONDEMAND",Benji - Netflix (2018)
-https://dc622.4shared.com/img/yck8_xtifi/c8ce2135/dlink__2Fdownload_2Fyck8_5Fxtifi_3Fsbsr_3D74495d6b48172b94a29c50b54d2cc4eca18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/13/noite.jpg" group-title="Filmes ONDEMAND",A Noite nos Persegue - Netflix (2018)
-https://dc757.4shared.com/img/NlLEVfCKfi/836291c1/dlink__2Fdownload_2FNlLEVfCKfi_3Fsbsr_3Da17d93a86175a41df6f0ad15110b8093a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://tinyurl.com/yycmrjpf" group-title="Filmes ONDEMAND", CORRIDA MORTAL 4: ALÉM DA ANARQUIA (2018) Dublado
-https://dc606.4shared.com/img/-yADH87qee/102543bf/dlink__2Fdownload_2F-yADH87qee_3Fsbsr_3Dbd85a5b80e9ff74842cb2e598bf8eb81a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://media.fstatic.com/uD805MaLuwu-bElz0phpcB7XzKo=/fit-in/290x478/smart/media/movies/covers/2010/09/0bfe05daff2e0aa5c7b05ca781967a3c.jpg" group-title="Filmes ONDEMAND", A Era do Gelo 1
-https://dc601.4shared.com/img/GgkS3Kbwgm/aac75819/dlink__2Fdownload_2FGgkS3Kbwgm_3Fsbsr_3D8eb81e6d8a163f1cf329e4af854bfb02a18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
-#EXTINF: -1 tvg-logo="https://imagizer.imageshack.com/v2/xq90/921/ACBmsw.png" group-title="Filmes ONDEMAND", Super Velozes, Mega Furiosos (2015)
-http://ds152.v-s.mobi/iScy6zSKCL6Y3lbaLep-OA/360p.mp4?
+
 
 ########################################################### SOUND
 
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,Jukebox Music
-https://dc775.4shared.com/img/5CFpEb6Fda/d4a87fa0/dlink__2Fdownload_2F5CFpEb6Fda_3Fsbsr_3Dbc69c3c133d174f28978f8228763bebaa18_26bip_3DMTc3LjczLjI0My4yMjg_26lgfp_3D20_26bip_3DMTc3LjczLjI0My4yMjg_26bip_3DMTc3LjczLjI0My4yMjg/preview.mp4
- 
+https://dc775.4shared.com/img/5CFpEb6Fda/d4a87fa0/dlink__2Fdownload_2F5CFpEb6Fda_3Fsbsr_3D7b853abf4b35f687e8a062a4b065356ca19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
+
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,ANOS 2000
 http://6d9a.webradio.upx.net.br:9940/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,AXÉ
