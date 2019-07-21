@@ -1,8 +1,6 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 19/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
-
 #EXTM3U
 
 ########################################################### CANAIS ABERTOS
@@ -120,6 +118,9 @@ https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u
 #EXTINF:0 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2014/03/e01.jpg" group-title="NOTICIAS", E!
 http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183349.ts
 
+
+#EXTINF:0 tvg-logo="https://mediaweb.fox23.com/theme/images/placeholder-square.jpg" group-title="NOTICIAS",FOX NEWS HD
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 
 ########################################################### DOCUMENTARIOS 
 
