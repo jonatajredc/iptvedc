@@ -123,7 +123,7 @@ http://b.greenplanet.top:8080/br-8050Espn/mpegts?token=planet_190521YttIo238HHBs
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  ESPN 2 FHD
 http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM&ARTS - HD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , FOOD FHD
@@ -333,7 +333,7 @@ http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TruTV_logo_2014.png/799px-TruTV_logo_2014.png" group-title="CANAIS", TRUTV HD
 http://192.119.9.66/live/5D6C34CE-6824-407D-9d03-97EA487BB30D.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TC BRASIL -HD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" , TC BRASIL HD
 http://b.greenplanet.top:8080/br-sdTvBrasil/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , UNIVERSAL FHD 
@@ -345,6 +345,6 @@ http://b.greenplanet.top:8080/br-18069War/mpegts?token=planet_190521YttIo238HHBs
 #EXTINF:-1 tvg-logo="" group-title="CANAIS" , WARNNER BROS HD
 http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO -HD
+#EXTINF:-1 tvg-logo="" group-title="CANAIS" ,  WOOHOO HD
 http://b.greenplanet.top:8080/br-sdWooHoo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 
