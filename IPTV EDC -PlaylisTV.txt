@@ -1,17 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 19/07/19 SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="IPTV EDC DESTAQUE",Atualizado 20/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 
 ########################################################### CANAIS ABERTOS
-
+#EXTM3U
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS",SBT (RJ)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS",SBT INTERIOR (SP)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1586906991.m3u8
-
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Band_Marca.png" group-title="CANAIS ABERTOS", BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -37,11 +36,8 @@ http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bb/Logotipo_da_TV_Globo_Minas.png/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS ABERTOS",GLOBO (MG)
 http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", RECORD
 http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
-
-
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS ABERTOS", REDE TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1195031353.m3u8
@@ -503,7 +499,7 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/85.ts
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/856.ts
 
 
-#EXTINF:0 tvg-logo="https://cinemacineplus.com.br/site/wp-content/uploads/2018/05/02-logotipo-cineplus.png" group-title="FILMES NA TV",CINE PLUS SD
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="FILMES NA TV", CINE SKY SD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
 
