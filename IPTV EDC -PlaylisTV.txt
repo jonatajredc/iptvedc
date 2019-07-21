@@ -4,10 +4,9 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 
 ########################################################### CANAIS ABERTOS
-#EXTM3U
+
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS",SBT (RJ)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-
 
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS",SBT INTERIOR (SP)
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1586906991.m3u8
@@ -21,14 +20,11 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", GLOBO HD
 http://192.119.9.66/live/cyp-26AD03DA528647C7863b7F66CBDC.ts 
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS", Globo
 http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts 
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS",GLOBO BRASILIA
 http://192.119.9.66/live/765F0119-14A6-4092-a1ac-B90749DF5BAC.ts
-
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="CANAIS ABERTOS",GLOBO (RJ)
 http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
@@ -36,8 +32,10 @@ http://192.119.9.66/live/f8fca31a11ed6b5b0a57847c830b59ef.ts
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/bb/Logotipo_da_TV_Globo_Minas.png/200px-Logotipo_da_TV_Globo_Minas.png" group-title="CANAIS ABERTOS",GLOBO (MG)
 http://192.119.9.66/live/cbcc8be34dae221438ec265721521995.ts
 
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", RECORD
 http://192.119.9.66/live/gy8sjex0hws25l5j3jq50mltk20z965m.ts
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAIS ABERTOS", REDE TV
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1195031353.m3u8
@@ -53,13 +51,13 @@ http://192.119.9.66/live/5B94A0A9-7EC1-49B4-badb-84FD0DC20AAC.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png" group-title="CANAIS ABERTOS",Mais Globosat 
 http://tv.factoryiptv.com:80/claudio/claudio/50838
 
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Logotipo_da_TV_Fronteira.png" group-title="CANAIS ABERTOS",TV FRONTEIRA HD
 http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_FRONTEIRA/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
 
 
 #EXTINF:0 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazetaalagoas.png" group-title="CANAIS ABERTOS",GLOBO TV GAZETA VITÓRIA ES
 http://load.kudaplay.tv/aovivo/HD_GAZETA_ES/mpegts?token=5c6a3acdc9cdbca7c09c5998fd68a9e7
-
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-sudoeste-hd_m.png" group-title="CANAIS ABERTOS",TV SUDOESTE 
@@ -119,7 +117,6 @@ http://fonte.iptvmaishd.com:25461/live/jesse/jesse/183349.ts
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 
 ########################################################### DOCUMENTARIOS 
-
 
 
 #EXTINF:0 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Discovery_Channel_logo_colored.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
