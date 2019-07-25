@@ -72,7 +72,7 @@ http://b.greenplanet.top:8080/br-8044Cinemax/mpegts?token=planet_190521YttIo238H
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/combate.png" group-title="CANAIS" , COMBATE HD 
 http://b.greenplanet.top:8080/br-sdCombate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/premiere-combate.png" group-title="CANAIS" , COMBATE FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/combate.png" group-title="CANAIS" , COMBATE FHD 
 http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="CANAIS" , COMEDY CENTRAL FHD
@@ -80,6 +80,12 @@ http://b.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521Ytt
 #EXTM3U
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/cine-sky.png" group-title="CANAIS", CINE SKY HD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/CLASSIQUE-TV.png" group-title="CANAIS", CLASSIQUE TV HD
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/cinemais.png" group-title="CANAIS",  CINE+ HD
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w241593769.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-civilization.png" group-title="CANAIS" , DISCOVERY CIVILIZATION HD
 http://b.greenplanet.top:8080/br-8055DiscCivi/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -282,6 +288,9 @@ http://b.greenplanet.top:8080/br-sdRedeTv/mpegts?token=planet_190521YttIo238HHBs
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/red-bull.png" group-title="CANAIS" , RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv.png" group-title="CANAIS" , SPORTV HD
+http://tv.factoryiptv.com:80/claudio/claudio/37256
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv.png" group-title="CANAIS" , SPORTV FHD
 http://b.greenplanet.top:8080/br-8023Spor1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
@@ -334,10 +343,10 @@ http://b.greenplanet.top:8080/br-8010TntSeries/mpegts?token=planet_190521YttIo23
 http://b.greenplanet.top:8080/br-sdTooncast/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/tbs.png" group-title="CANAIS",TBS HD
-http://192.119.9.66/live/272047B5-CA93-4F30-8851-52ADF52DD547.ts 
+http://ma-tv.magica.club:8080/yoshy/yoshy/12144
 #EXTM3U
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/TruTV.png" group-title="CANAIS", TRUTV HD
-http://192.119.9.66/live/5D6C34CE-6824-407D-9d03-97EA487BB30D.ts
+http://tv.factoryiptv.com:80/claudio/claudio/41509
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/TV-Brasil.png" group-title="CANAIS" , TC BRASIL HD
 http://b.greenplanet.top:8080/br-sdTvBrasil/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -353,7 +362,7 @@ http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HH
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/woohoo.png" group-title="CANAIS" ,  WOOHOO HD
 http://b.greenplanet.top:8080/br-sdWooHoo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
+
 ##############################  Serie Dope 1 Temporada
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Serie Dope 1 Temporada",S01.E01 Preferido da America
@@ -367,7 +376,7 @@ https://dc623.4shared.com/img/FSTd41NMee/64759a7d/dlink__2Fdownload_2FFSTd41NMee
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope1tp.jpg" group-title="Serie Dope 1 Temporada",S01.E04 Perigoso e Apelido
 https://dc589.4shared.com/img/LYr9Hq2qda/b8044364/dlink__2Fdownload_2FLYr9Hq2qda_3Fsbsr_3Df1727e5da9bc415c67244180345d2e54a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
-#EXTM3U
+
 ##############################  Serie Dope 2 Temporada
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Serie Dope 2 Temporada",S02.E01 Aqui Nao Tem Essa de Amizade
@@ -381,7 +390,7 @@ https://dc707.4shared.com/img/MZCijv4Agm/95f6b85/dlink__2Fdownload_2FMZCijv4Agm_
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope2tp.jpg" group-title="Serie Dope 2 Temporada",S02.E04 Feito pinto no Lixo
 https://dc585.4shared.com/img/S92Mi5VAda/33bc6afe/dlink__2Fdownload_2FS92Mi5VAda_3Fsbsr_3D74bb721aecf03bbaafce0e5c02043cd8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
-#EXTM3U
+
 ##############################  Serie Dope 3 Temporada
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Serie Dope 3 Temporada",S03.E01 O Truque mais antigo do Diabo
@@ -395,7 +404,7 @@ https://dc579.4shared.com/img/eVnK_PqOee/741a10a/dlink__2Fdownload_2FeVnK_5FPqOe
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/10/dope3tp.jpg" group-title="Serie Dope 3 Temporada",S03.E04 Este não é o Miami Vice
 https://dc385.4shared.com/img/rLwby-NUda/d7d4ba7f/dlink__2Fdownload_2FrLwby-NUda_3Fsbsr_3D1a1fd2346f690505b81cfaccd7876472a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
-#EXTM3U
+
 ######################### Policia ao Vivo: Melhores Momentos EUA 
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Policia ao Vivo: Melhores Momentos EUA",Episodio 1 (2017)
@@ -409,7 +418,7 @@ https://dc725.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/09/livepd.jpg" group-title="Policia ao Vivo: Melhores Momentos EUA",Episodio 4 (2017)
 https://dc623.4shared.com/img/FwXQo0amgm/a713300d/dlink__2Fdownload_2FFwXQo0amgm_3Fsbsr_3D244fd9fb66ff6e441e089a51e075b9d8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
-#EXTM3U
+
 ######################## Serie O Fugitivo 2 Temporada
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="Serie O Fugitivo 2 Temporada",S02.E01 Nova Zelandia
