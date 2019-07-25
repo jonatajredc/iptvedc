@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="IPTV EDC FHD",Atualizado 20/07/19 SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="IPTV EDC FHD",Atualizado 25/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
