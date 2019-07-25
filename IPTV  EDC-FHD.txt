@@ -225,9 +225,6 @@ http://b.greenplanet.top:8080/br-8078id/mpegts?token=planet_190521YttIo238HHBssa
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Lifetime.png" group-title="CANAIS" ,  LIFE TIME FHD
 http://b.greenplanet.top:8080/br-8065LifeT/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/mais-globosat.png" group-title="CANAIS" , MAIS GLOBOSAT
-https://assistirtvonline.xyz:25463/live/Flamengo-000/EMELEC-002/81.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/max.png" group-title="CANAIS" ,  MAX FHD 
 http://b.greenplanet.top:8080/br-8040Max/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
@@ -309,9 +306,6 @@ http://b.greenplanet.top:8080/br-8057Spor3/mpegts?token=planet_190521YttIo238HHB
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/s-uviversal.png" group-title="CANAIS" , STUDIO UNIVERSAL FHD
 http://b.greenplanet.top:8080/br-8080Stu/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/space.png" group-title="CANAIS" , SPACE HD
-https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/67.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/space.png" group-title="CANAIS" , SPACE FHD
 http://b.greenplanet.top:8080/br-8048Space/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
@@ -342,9 +336,6 @@ http://b.greenplanet.top:8080/br-8015TcPremium/mpegts?token=planet_190521YttIo23
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tc-touch.png" group-title="CANAIS" , TELECINE TOUCH FHD
 http://b.greenplanet.top:8080/br-8084TcTouch/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/TCM.png" group-title="CANAIS" , TCM
-https://assistirtvonline.xyz:25463/live/Flamengo-000/EMELEC-002/72.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tcl.png" group-title="CANAIS" , TCL FHD
 http://b.greenplanet.top:8080/br-18078Tlc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
@@ -354,10 +345,10 @@ http://b.greenplanet.top:8080/br-8010TntSeries/mpegts?token=planet_190521YttIo23
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Tooncast.png" group-title="CANAIS" ,  TOON CAST HD
 http://b.greenplanet.top:8080/br-sdTooncast/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/tbs.png" group-title="CANAIS",TBS HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tbs.png" group-title="CANAIS",TBS HD
 http://ma-tv.magica.club:8080/yoshy/yoshy/12144
 #EXTM3U
-#EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/25/TruTV.png" group-title="CANAIS", TRUTV HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/TruTV.png" group-title="CANAIS", TRUTV HD
 http://tv.factoryiptv.com:80/claudio/claudio/41509
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/TV-Brasil.png" group-title="CANAIS" , TC BRASIL HD
@@ -374,9 +365,6 @@ http://b.greenplanet.top:8080/br-8068warner/mpegts?token=planet_190521YttIo238HH
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/woohoo.png" group-title="CANAIS" ,  WOOHOO HD
 http://b.greenplanet.top:8080/br-sdWooHoo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/zoomoo.png" group-title="CANAIS" ,  ZOOMOO HD
-https://assistirtvonline.xyz:25463/live/Flamengo-000/EMELEC-002/126.m3u8
 
 ##############################  Serie Dope 1 Temporada
 #EXTM3U
