@@ -133,7 +133,7 @@ http://b.greenplanet.top:8080/br-8050Espn/mpegts?token=planet_190521YttIo238HHBs
 http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/E.png" group-title="CANAIS" ,  E!
-https://assistirtvonline.xyz:25463/live/Flamengo-000/EMELEC-002/95.m3u8
+https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/95.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/film-arts.png" group-title="CANAIS" , FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -246,6 +246,9 @@ http://b.greenplanet.top:8080/br-8064Mtv/mpegts?token=planet_190521YttIo238HHBss
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Multishow.png" group-title="CANAIS" , MULTI SHOW HD
 http://b.greenplanet.top:8080/br-8052Multshow/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/25/1hdmusict.png" group-title="CANAIS", 1HD MUSIC TELEVISION
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTM3U
 #EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/25/VH1HD-br.png" group-title="CANAIS", VH1 MEGA HITS 
 http://ma-tv.magica.club:8080/yoshy/yoshy/12260
 #EXTM3U
@@ -274,7 +277,7 @@ http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHB
 http://b.greenplanet.top:8080/br-8059Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF
-https://assistirtvonline.xyz:25463/live/Flamengo-000/EMELEC-002/99.m3u8
+https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/99.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
 http://b.greenplanet.top:8080/br-8066Para/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -311,6 +314,9 @@ http://b.greenplanet.top:8080/br-8048Space/mpegts?token=planet_190521YttIo238HHB
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/syfy.png" group-title="CANAIS" , SYFY FHD
 http://b.greenplanet.top:8080/br-8062Syfy/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY 
+https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/59.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY HD
 http://tv.factoryiptv.com:80/claudio/claudio/56895
