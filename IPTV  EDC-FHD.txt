@@ -270,7 +270,7 @@ http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHB
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Nick.png" group-title="CANAIS" , NICK FHD
 http://b.greenplanet.top:8080/br-8059Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-id="https://imgbbb.com/images/2019/07/25/c-Off.png" tvg-name="Off" tvg-logo="" group-title="CANAIS", OFF 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF
 http://tv.factoryiptv.com:80/claudio/claudio/36954
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
