@@ -133,7 +133,7 @@ http://b.greenplanet.top:8080/br-8050Espn/mpegts?token=planet_190521YttIo238HHBs
 http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/E.png" group-title="CANAIS" ,  E!
-https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/95.m3u8
+http://tv.factoryiptv.com:80/claudio/claudio/50719
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/film-arts.png" group-title="CANAIS" , FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -277,7 +277,7 @@ http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHB
 http://b.greenplanet.top:8080/br-8059Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF
-https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/99.m3u8
+http://ma-tv.magica.club:8080/yoshy/yoshy/12066
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
 http://b.greenplanet.top:8080/br-8066Para/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -316,7 +316,7 @@ http://b.greenplanet.top:8080/br-8048Space/mpegts?token=planet_190521YttIo238HHB
 http://b.greenplanet.top:8080/br-8062Syfy/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY 
-https://assistirtvonline.xyz:25463/live/Fla/EMELEC-002/59.m3u8
+http://tv.factoryiptv.com:80/claudio/claudio/56895
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY HD
 http://tv.factoryiptv.com:80/claudio/claudio/56895
