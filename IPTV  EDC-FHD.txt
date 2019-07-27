@@ -132,8 +132,14 @@ http://b.greenplanet.top:8080/br-18072EspExtHD/mpegts?token=planet_190521YttIo23
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN.png" group-title="CANAIS" , ESPN FHD 
 http://b.greenplanet.top:8080/br-8050Espn/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN.png" group-title="CANAIS" , ESPN HD
+https://d2poqgbkc6fz05.cloudfront.net/hls1/espn.m3u8?IPTVEDCHD
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN2.png" group-title="CANAIS" ,  ESPN 2 FHD
 http://b.greenplanet.top:8080/br-8053Espn2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN2.png" group-title="CANAIS" ,  ESPN 2 HD
+https://d2poqgbkc6fz05.cloudfront.net/hls1/espn2.m3u8?IPTVEDC
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/film-arts.png" group-title="CANAIS" , FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -300,6 +306,9 @@ https://d2poqgbkc6fz05.cloudfront.net/hls1/pinko.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-record.png" group-title="CANAIS" ,  RECORD FHD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/record-news.png" group-title="CANAIS" ,  RECORD NEWS HD
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8?IPTVEDCHD
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/REDETV.png" group-title="CANAIS" , REDE TV -HD
 http://b.greenplanet.top:8080/br-sdRedeTv/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
@@ -307,13 +316,19 @@ http://b.greenplanet.top:8080/br-sdRedeTv/mpegts?token=planet_190521YttIo238HHBs
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv.png" group-title="CANAIS" , SPORTV HD
-http://tv.factoryiptv.com:80/claudio/claudio/37256
+https://d2poqgbkc6fz05.cloudfront.net/hls1/sportv1.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv.png" group-title="CANAIS" , SPORTV FHD
 http://b.greenplanet.top:8080/br-8023Spor1/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="CANAIS" ,  SPORTV 2 HD
+https://d2poqgbkc6fz05.cloudfront.net/hls1/sportv2.m3u8?IPTVEDCHD
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="CANAIS" ,  SPORTV 2 FHD
 http://b.greenplanet.top:8080/br-8028Spor2/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv3.png" group-title="CANAIS" ,  SPORTV 3 HD
+https://d2poqgbkc6fz05.cloudfront.net/hls1/sportv3.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv3.png" group-title="CANAIS" ,  SPORTV 3 FHD
 http://b.greenplanet.top:8080/br-8057Spor3/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -359,6 +374,9 @@ http://b.greenplanet.top:8080/br-8084TcTouch/mpegts?token=planet_190521YttIo238H
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tcl.png" group-title="CANAIS" , TCL FHD
 http://b.greenplanet.top:8080/br-18078Tlc/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/TCM.png" group-title="CANAIS" , TCM FHD
+https://d2poqgbkc6fz05.cloudfront.net/hls1/tcm.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/26/tnt-c.png" group-title="CANAIS" , TNT FHD
 https://d2poqgbkc6fz05.cloudfront.net/hls1/tnt.m3u8?IPTVEDCHD
