@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="IPTV EDC HD",SPORTV HD
-https://dc697.4shared.com/img/xwCkRg0Yda/1b60cb41/dlink__2Fdownload_2FxwCkRg0Yda_3Fsbsr_3Dfaa2f02785b98311a6b8e409d5ed8f51a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
-#EXTM3U
