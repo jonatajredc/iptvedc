@@ -30,7 +30,7 @@ http://b.greenplanet.top:8080/br-8083Band/mpegts?token=planet_190521YttIo238HHBs
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bandnews.png" group-title="CANAIS" , BAND NEWS FHD
 http://b.greenplanet.top:8080/br-8016Bnews/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/BandSports.png" group-title="CANAIS" ,  BAND SPORT FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/BandSports.png" group-title="CANAIS" ,  BAND SPORTS FHD
 http://b.greenplanet.top:8080/br-8020Bsports/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bis.png" group-title="CANAIS" ,  BIS FHD 
@@ -77,6 +77,9 @@ http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238H
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="CANAIS" , COMEDY CENTRAL FHD
 http://b.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/centoX-cento.png" group-title="CANAIS" , Cento X Cento
+http://163.172.131.190:8081/live/centoxcento/chunks.m3u8?nimblesessionid=14511923&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDc6NTA6MTkgQU0maGFzaF92YWx1ZT1rWFNTeVMvdlYzS1lOZk0wNmJmZHNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cine-sky.png" group-title="CANAIS" , CINE SKY HD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?IPTVEDCHD
