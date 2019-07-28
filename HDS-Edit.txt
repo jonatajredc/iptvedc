@@ -69,7 +69,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/cinemax.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/combate.png" group-title="ESPORTES" , COMBATE FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/combate.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="CANAIS" , COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="VARIEDADES" , COMEDY CENTRAL FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/comedycentral.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cine-sky.png" group-title="FILMES E SERIES" , CINE SKY FHD
@@ -84,7 +84,7 @@ https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w241593769.m3u
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/curta.png" group-title="VARIEDADES" , CURTA HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/curta.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-civilization.png" group-title="CANAIS" , DISCOVERY CIVILIZATION HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-civilization.png" group-title="DOCUMENTARIOS" , DISCOVERY CIVILIZATION HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverycivilization.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-health.png" group-title="DOCUMENTARIOS" , DISCOVERY H&H FHD
@@ -155,6 +155,9 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports1.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-sports2.png" group-title="ESPORTES" , FOX ESPORTS 02 FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports2.m3u8?IPTVEDCHD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/fox23.png" group-title="NOTICIAS" , FOX NEWS HD
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/Fishtv.png" group-title="VARIEDADES" , FISH TV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?IPTVEDCHD
