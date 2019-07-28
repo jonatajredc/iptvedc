@@ -6,7 +6,7 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="FILMES E SERIES" ,  A&E FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37130
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/arte1.png" group-title="FILMES E SERIES" , ARTE 1
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/arte1.png" group-title="VARIEDADES" , ARTE 1
 https://d10uk7xyz104pv.cloudfront.net/hls1/arte1.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/fx.png" group-title="FILMES E SERIES" ,  FX FHD
@@ -15,7 +15,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/fx.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/amc.png" group-title="FILMES E SERIES" , AMC FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/amc.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="CANAIS" , ANIMAL PLANET FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="DOCUMENTARIOS" , ANIMAL PLANET FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/animalplanet.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/axn.png" group-title="FILMES E SERIES" ,  AXN FHD 
@@ -24,16 +24,16 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/axn.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/all-sports.png" group-title="ESPORTES" , ALL SPORTS HD
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/band.png" group-title="CANAIS" , BAND HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/band.png" group-title="CANAIS ABERTOS" , BAND HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/band.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bandnews.png" group-title="CANAIS" , BAND NEWS FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bandnews.png" group-title="NOTICIAS" , BAND NEWS FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/bandnews.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/BandSports.png" group-title="ESPORTES" ,  BAND SPORTS HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/bandsports.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bis.png" group-title="CANAIS" ,  BIS FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/bis.png" group-title="VARIEDADES" ,  BIS FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/bis.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/boomerang-tv.png" group-title="INFANTIL" , BOOMERANG FHD
@@ -81,32 +81,35 @@ http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cinemais.png" group-title="FILMES E SERIES" , CINE+ HD
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w241593769.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/curta.png" group-title="CANAIS" , CURTA HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/curta.png" group-title="VARIEDADES" , CURTA HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/curta.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-civilization.png" group-title="CANAIS" , DISCOVERY CIVILIZATION HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverycivilization.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-health.png" group-title="CANAIS" , DISCOVERY H&H FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-health.png" group-title="DOCUMENTARIOS" , DISCOVERY H&H FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoveryhomeihealth.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-kids.png" group-title="INFANTIL" ,  DISCOVERY KIDS FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverykids.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-science.png" group-title="CANAIS" ,  DISCOVERY SCIENCE FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-science.png" group-title="DOCUMENTARIOS" ,  DISCOVERY SCIENCE FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoverysience.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-theater.png" group-title="CANAIS" ,  DISCOVERY THEATHER FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-theater.png" group-title="DOCUMENTARIOS" ,  DISCOVERY THEATHER FHD
 http://b.greenplanet.top:8080/br-8041DisThe/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-turbo.png" group-title="CANAIS" , DISCOVERY TURBO FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-turbo.png" group-title="DOCUMENTARIOS" , DISCOVERY TURBO FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoveryturbo.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-world.png" group-title="CANAIS" , DISCOVERY WORLD FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-world.png" group-title="DOCUMENTARIOS" , DISCOVERY WORLD FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/discoveryworld.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Discovery-C.png" group-title="CANAIS" ,  DISCOVERY FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Discovery-C.png" group-title="DOCUMENTARIOS" ,  DISCOVERY FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/discovery.m3u8?IPTVEDCHD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/disney-channel.png" group-title="INFANTIL" , DISNEY CHANNEL HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/disney.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Disney-Junior.png" group-title="INFANTIL" , DISNEY JUNIOR FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/disneyjunior.m3u8?IPTVEDCHD
@@ -117,7 +120,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/disneyxd.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN-Brasil.png" group-title="ESPORTES" , ESPN BRASIL FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/espnbrasil.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Espn-extra.png" group-title="CANAIS" , ESPN EXTRA FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Espn-extra.png" group-title="ESPORTES" , ESPN EXTRA FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/espnextra.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN.png" group-title="ESPORTES" , ESPN FHD
@@ -132,13 +135,13 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/evilangel.m3u8?
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/film-arts.png" group-title="FILMES E SERIES" , FILM&ARTS HD
 http://b.greenplanet.top:8080/br-sdFilmarts/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Food-N.png" group-title="CANAIS" , FOOD FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Food-N.png" group-title="VARIEDADES" , FOOD FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/foodnetwork.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox.png" group-title="FILMES E SERIES" , FOX CHANNEL FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/fox.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/foxlife.png" group-title="CANAIS" ,  FOX LIFE FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/foxlife.png" group-title="VARIEDADES" ,  FOX LIFE FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/foxlife.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-premium1.png" group-title="FILMES E SERIES" , FOX PREMIUM 1 FHD
@@ -153,25 +156,28 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports1.m3u8?
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-sports2.png" group-title="ESPORTES" , FOX ESPORTS 02 FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/foxsports2.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/Fishtv.png" group-title="CANAIS" , FISH TV HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/Fishtv.png" group-title="VARIEDADES" , FISH TV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/fishtv.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-globo.png" group-title="CANAIS" , GLOBO RJ HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-globo.png" group-title="CANAIS ABERTOS" , GLOBO RJ HD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/boborj.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-globo.png" group-title="CANAIS" , GLOBO SP HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-globo.png" group-title="CANAIS ABERTOS" , GLOBO SP HD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/bobosp.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/globonews.png" group-title="CANAIS" , GLOBO NEWS FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/globonews.png" group-title="NOTICIAS" , GLOBO NEWS FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/globonews.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/tvgazeta.png" group-title="CANAIS" , TV GAZETA SUL ES HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/gloob.png" group-title="INFANTIL" , GLOOB HD
+https://d10uk7xyz104pv.cloudfront.net/hls1/gloob.m3u8?IPTVEDCHD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/tvgazeta.png" group-title="CANAIS ABERTOS" , TV GAZETA SUL ES HD
 https://player-api.new.livestream.com/accounts/5381476/events/2395418/broadcasts/194222023.secure.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/gnt.png" group-title="CANAIS" , GNT FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/gnt.png" group-title="VARIEDADES" , GNT FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/gnt.m3u8?IPTVEDC
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/H2.png" group-title="CANAIS" , H2 FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/H2.png" group-title="DOCUMENTARIOS" , H2 FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/history2.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/HBO.png" group-title="FILMES E SERIES" ,  HBO FHD
@@ -189,16 +195,16 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/hboplus.m3u8?
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/hbo-signature..png" group-title="FILMES E SERIES" , HBO SIGNATURE FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/hbosignature.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/History.png" group-title="CANAIS" , HISTORY FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/History.png" group-title="DOCUMENTARIOS" , HISTORY FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/history.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/id.png" group-title="CANAIS" ,  ID FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/id.png" group-title="DOCUMENTARIOS" ,  ID FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/investigacaodiscovery.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Lifetime.png" group-title="CANAIS" ,  LIFE TIME HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Lifetime.png" group-title="VARIEDADES" ,  LIFE TIME HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/lifetime.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/mais-globosat.png" group-title="CANAIS" , MAIS GLOBOSAT
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/mais-globosat.png" group-title="VARIEDADES" , MAIS GLOBOSAT
 https://d10uk7xyz104pv.cloudfront.net/hls1/maisbobosat.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/max.png" group-title="FILMES E SERIES" ,  MAX FHD 
@@ -213,25 +219,25 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/maxup.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/megapix.png" group-title="FILMES E SERIES" , MEGA PIX FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/megapix.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/mtv.png" group-title="CANAIS" , MTV HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/mtv.png" group-title="VARIEDADES" , MTV HD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/mtv.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Multishow.png" group-title="CANAIS" , MULTI SHOW HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Multishow.png" group-title="VARIEDADES" , MULTI SHOW HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/multishow.m3u8?IPVTEDCHD
 #EXTM3U
-#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/25/1hdmusict.png" group-title="CANAIS", 1HD MUSIC TELEVISION
+#EXTINF: -1 tvg-logo="https://imgbbb.com/images/2019/07/25/1hdmusict.png" group-title="VARIEDADES", 1HD MUSIC TELEVISION
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TVLatina" tvg-logo="https://imgbbb.com/images/2019/07/25/tvlatina.png" group-title="CANAIS",MIAMI TV LATINA
+#EXTINF:-1 tvg-id="" tvg-name="TVLatina" tvg-logo="https://imgbbb.com/images/2019/07/25/tvlatina.png" group-title="VARIEDADES",MIAMI TV LATINA
 http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/national-geographic.png" group-title="CANAIS" ,  NAT GEO FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/national-geographic.png" group-title="DOCUMENTARIOS" ,  NAT GEO FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/natgeo.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Natgeo-Kids.jpg" group-title="INFANTIL" , NAT GEO KIDS FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/natgeokids.m3u8?IPTVEDC
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Nat-Geo-Wild.png" group-title="CANAIS" ,  NAT GEO WILD FHD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Nat-Geo-Wild.png" group-title="DOCUMENTARIOS" ,  NAT GEO WILD FHD 
 https://d10uk7xyz104pv.cloudfront.net/hls1/natgeowild.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/nick_jr.png" group-title="INFANTIL" , NICK JUNIOR FHD 
@@ -240,7 +246,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/nickjr.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Nick.png" group-title="INFANTIL" , NICK FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/nick.m3u8?IPTVEDC
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="VARIEDADES" , OFF FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/off.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="FILMES E SERIES" , PARAMOUNT  CHANNEL FHD
@@ -255,16 +261,16 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/playkids.m3u8?
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/26/Pinkotv.png" group-title="ADULTO 18" , PINK O TV HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/pinko.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-record.png" group-title="CANAIS" ,  RECORD HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-record.png" group-title="CANAIS ABERTOS" ,  RECORD HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,7572,c63dc860710b549f2a9f80342cd54418;base64np;Du4aOVgIM5Bl8fI!/amlst:Du7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/record-news.png" group-title="CANAIS" ,  RECORD NEWS HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/record-news.png" group-title="NOTICIAS" ,  RECORD NEWS HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/REDETV.png" group-title="CANAIS" , REDE TV -HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/REDETV.png" group-title="CANAIS ABERTOS" , REDE TV -HD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1327081679.m3u8IPTVEDC
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/red-bull.png" group-title="CANAIS" , RED BULL TV
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/red-bull.png" group-title="ESPORTES" , RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv.png" group-title="ESPORTES" , SPORTV FHD
@@ -288,7 +294,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/syfy.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="FILMES E SERIES" , SONY FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/sony.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/sbt-logo-1.png" group-title="CANAIS" , SBT HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/sbt-logo-1.png" group-title="CANAIS ABERTOS" , SBT HD
 https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w1294660272.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/26/Sexy-Hot.png" group-title="ADULTO 18" , SEX HOT HD
@@ -297,7 +303,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/sexhot.m3u8?IPTVEDCHD
 #EXTINF:0 tvg-logo="https://imgbbb.com/images/2019/07/26/Sextreme.png" group-title="ADULTO 18", SEXTREME HD
 https://d10uk7xyz104pv.cloudfront.net/hls1/erotic.m3u8?
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="CANAIS" , TOP TV
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="VARIEDADES" , TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tc-action.png" group-title="FILMES E SERIES" ,  TELECINE ACTION FHD
@@ -318,7 +324,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/telecinepremium.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tc-touch.png" group-title="FILMES E SERIES" , TELECINE TOUCH FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/telecinetouch.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tcl.png" group-title="CANAIS" , TCL FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/tcl.png" group-title="VARIEDADES" , TCL FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/tlc.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/27/TCM.png" group-title="FILMES E SERIES" , TCM FHD
@@ -342,7 +348,7 @@ https://d10uk7xyz104pv.cloudfront.net/hls1/universal.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/WarnerTV.png" group-title="FILMES E SERIES" , WARNNER BROS TV FHD
 https://d10uk7xyz104pv.cloudfront.net/hls1/warner.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/woohoo.png" group-title="CANAIS" ,  WOOHOO HD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/woohoo.png" group-title="VARIEDADES" ,  WOOHOO HD
 http://b.greenplanet.top:8080/br-sdWooHoo/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/zoomoo.png" group-title="INFANTIL" , ZOOMOO
