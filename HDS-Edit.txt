@@ -60,7 +60,7 @@ https://d1h1b343gf75ml.cloudfront.net/hls1/premiere6.m3u8?IPTVEDCHD
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/premiere-clubes.png" group-title="ESPORTES" , BRASILEIR?O PREMIER 07 FHD
 https://d1h1b343gf75ml.cloudfront.net/hls1/premiere7.m3u8?IPTVEDCHD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cartoon-nw.png" group-title="ESPORTES" , CARTOON NET WORK FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cartoon-nw.png" group-title="CANAIS" , CARTOON NET WORK FHD
 https://d1h1b343gf75ml.cloudfront.net/hls1/cartoon.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cinemax.png" group-title="CANAIS" , CINEMAX FHD 
