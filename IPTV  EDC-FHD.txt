@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="IPTV EDC FHD",Atualizado 27/07/19 SPORTV 2 HD 
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="IPTV EDC FHD",Atualizado 29/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
@@ -77,9 +77,6 @@ http://b.greenplanet.top:8080/br-8021Combate/mpegts?token=planet_190521YttIo238H
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="CANAIS" , COMEDY CENTRAL FHD
 http://b.greenplanet.top:8080/br-8074ComedyCentral/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/centoX-cento.png" group-title="CANAIS" , Cento X Cento
-http://163.172.131.190:8081/live/centoxcento/chunks.m3u8?nimblesessionid=14511923&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDE5IDc6NTA6MTkgQU0maGFzaF92YWx1ZT1rWFNTeVMvdlYzS1lOZk0wNmJmZHNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cine-sky.png" group-title="CANAIS" , CINE SKY HD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?IPTVEDCHD
@@ -288,11 +285,14 @@ http://b.greenplanet.top:8080/br-18095Nick/mpegts?token=planet_190521YttIo238HHB
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Nick.png" group-title="CANAIS" , NICK FHD
 http://b.greenplanet.top:8080/br-8059Nick/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF HD
 http://ma-tv.magica.club:8080/yoshy/yoshy/12066
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF FHD
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF 
 https://d10uk7xyz104pv.cloudfront.net/hls1/off.m3u8?
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/o-la-la-tv.png" group-title="ADULTO 18" , O-la-la 18+ TV
+http://ls2.livex.ga/hls/UGRyM1VVSitOUWZFTTFLbzNpTzZJSTRJUSt1dyt6WVBOWHI1ZHlVaGFuNVFGK0tvMkFha1RSQzk0dklEZUdHamNFaFU1TlpBeWxrR1RiZWN6UmNBQkpsM2pQeUNISTAybXV1azhMUm4wTWg3ZDFwOS9Qd05FT0E0bjQyS1g0anVJRjRkUzkxRDY2RHFRb2lranJ5OUwxL3FqQVJqd3JCV04yWUtvWmNsa0RFbUFhTVB6MVlWSHhqTU81UXZyeEZGS2tRS2tKTW4yZXpBYVF1WGxIQkFvRWV5OGEzK0g1SkgrNlBDRklibE9TTnNnT21lSmplRmFpdDV6SWdjMWt6VVp5dHZadEd1cDNPeVlaOWFxZm9Vck1FZXQ3SjhmWWFmWkRGUU8xM3BtWUt0N1BCMzY4MTFINi9mLzFuT3JpdEU.m3u8?network-probe:4be6f11e
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
 http://b.greenplanet.top:8080/br-8066Para/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
@@ -303,8 +303,8 @@ http://b.greenplanet.top:8080/br-8003PfcClubes/mpegts?token=planet_190521YttIo23
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/premiere-clubes.png" group-title="CANAIS" , PREMIER CLUBES
 https://d10uk7xyz104pv.cloudfront.net/hls1/premiereclubes.m3u8?
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/26/Pinkotv.png" group-title="CANAIS" , PINK O TV HD
-https://d10uk7xyz104pv.cloudfront.net/hls1/pinko.m3u8?
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/private.png" group-title="ADULTO 18" , PRIVATE TV
+http://ls2.livex.ga/hls/MzlhazFDa28xM2F6TVJ1UTBwT3A4N2ZZT3JsaWhDMmxFaldkdEZYTVJMdTFESU5YaTduMEJDOEkwUG1aekhIc0xmV2hELzhnUGxwQVU1TE1NTEVBc2NzUmFqMUNzaU9QQ1RsMVV4LzYrK0ZnaDFKbkVzY01BeVovUi9RVVdyV05RRVphYmhrTC9xQVh1WGVPVXVSZEttMDM5SFBBWDd5b3JGdG9oUGl2MHFoMlJDMkM2TmZFSVpNLzFiY3QwRVhLc3VMSjZ1VG5iK0FhRHhseFBWRExJUGNxR0FOSDJRQjFXTkdWVXUwSjl1d0tCYXVIbHZzYTJrRTQ0OFptQ21PeUEyWGdkb0dhdE0vMFNVa3dONXlUblM3bFpEMHVwNW5jWklOUUhUSnA1NjlGdmdHWURWS055cmN3MEZtZWhTU20.m3u8?network-probe:2cd62c93
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/rede-record.png" group-title="CANAIS" ,  RECORD FHD
 http://b.greenplanet.top:8080/br-8069Record/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
