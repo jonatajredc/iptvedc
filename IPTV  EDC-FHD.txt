@@ -9,9 +9,6 @@ http://carpo.tvcast.xyz/hls/s:95.216.15.44:81/aemundo_c28aca23_d334677f8369c8cec
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
 http://b.greenplanet.top:8080/br-8077ae/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/fx.png" group-title="CANAIS" ,  FX 
-http://pherusa.tvcast.xyz/hls/s:155.138.226.22/fx_667be543_7e526826140c13a49dd1d6f945965cbdab3643c2/720p/chunklist.m3u8?IPTVEDCHD
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/fx.png" group-title="CANAIS" ,  FX FHD
 http://b.greenplanet.top:8080/br-8047Fx/mpegts?token=planet_190521YttIo238HHBssaqlokjd.TS
 #EXTM3U
