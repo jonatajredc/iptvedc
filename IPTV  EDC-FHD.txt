@@ -4,7 +4,7 @@
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E HD
-http://iptv.csvix.net:8080/william/12345/11672
+http://tv.factoryiptv.com:80/claudio/claudio/37130
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
 https://d1lud49pck8hpm.cloudfront.net/hls1/aie.m3u8?
@@ -17,9 +17,6 @@ https://d1lud49pck8hpm.cloudfront.net/hls1/fx.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/amc.png" group-title="CANAIS" , AMC FHD 
 https://d1lud49pck8hpm.cloudfront.net/hls1/amc.m3u8?
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="CANAIS" , ANIMAL PLANET HD
-http://iptv.csvix.net:8080/william/12345/5188
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="CANAIS" , ANIMAL PLANET FHD
 https://d1lud49pck8hpm.cloudfront.net/hls1/animalplanet.m3u8?
