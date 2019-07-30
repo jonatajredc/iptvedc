@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sportv2.png" group-title="IPTV EDC FHD",Atualizado 30/07/19 SPORTV 2 HD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E 
-http://dike.tvcast.xyz/hls/s:95.216.15.44:81/aemundo_c28aca23_eef02385f9b70e2baeec4e7b8ca5c9db1f54035c/playlist.m3u8?
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37130
 #EXTM3U
@@ -112,7 +109,7 @@ http://tv.factoryiptv.com:80/claudio/claudio/36984
 http://tv.factoryiptv.com:80/claudio/claudio/50707
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-kids.png" group-title="CANAIS" ,  DISCOVERY KIDS FHD
-
+http://tv.factoryiptv.com:80/claudio/claudio/50707
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-science.png" group-title="CANAIS" ,  DISCOVERY SCIENCE FHD 
 http://tv.factoryiptv.com:80/claudio/claudio/36922
@@ -142,13 +139,13 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/679.ts
 https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN.png" group-title="CANAIS" , ESPN FHD 
-
+http://tv.factoryiptv.com:80/claudio/claudio/50740
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/ESPN2.png" group-title="CANAIS" ,  ESPN 2 FHD
 http://tv.factoryiptv.com:80/claudio/claudio/50541
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/film-arts.png" group-title="CANAIS" , FILM&ARTS HD
-http://tv.factoryiptv.com:80/claudio/claudio/50740
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Food-N.png" group-title="CANAIS" , FOOD FHD
 http://tv.factoryiptv.com:80/claudio/claudio/50745
@@ -321,9 +318,6 @@ http://tv.factoryiptv.com:80/claudio/claudio/51048
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/syfy.png" group-title="CANAIS" , SYFY FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37042
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY HD
-http://dike.tvcast.xyz/hls/s:45.32.217.66/sony_06349be7_7a562a6defcee6ccb39c0011854b59ea7170b115/410p/chunklist.m3u8?
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/sony-logo.png" group-title="CANAIS" , SONY FHD
 http://tv.factoryiptv.com:80/claudio/claudio/56895
 #EXTM3U
@@ -370,7 +364,7 @@ http://tv.factoryiptv.com:80/claudio/claudio/41505
 http://tv.factoryiptv.com:80/claudio/claudio/41509
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/TV-Brasil.png" group-title="CANAIS" , TC BRASIL HD
-http://thallo.tvcast.xyz/hls/s:155.138.226.22/tvbrasil_86cf294a_19362bae5d4a4d054715d8b755448a20e2a8c563/playlist.m3u8
+https://video-rvd-pe-cdc-gw-3-1.rnp.br/live/ocp(t(FbYhz5laEnQ)r(TOqkzw)a(sUn1WQ)p(d(Ujo)k(l0U)m(C03UlP4lUyXqRvQQgfBgHA)n(a(NqpVaw)s(2-o)'a(7lbCvw)s(wZY)'a(Vkpqrw)s(buE)'a(FTqS9Q)s(B98)))s(s(Md8)b(K9QBsNOiQRZ_gmiNmdWsNNDxNjjuDuOUaN7RhzpQJoe7-WKLhFUMrLohbDldkKkI4tGSKxmsY8mGtajwpw)'s(Es8)b(-39YwU7JI6lA2fsxQdvJyBllIu3_CcgcnTK_rJOFzrBxyvFnxEoal-48bfURq64AEBwEnWM02Sx2rRNvO0Uw-qtrXVdaSf3ODap2N2bK)'s(GMc)b(NxOtC---))m(0))/index.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/UniversalC.png" group-title="CANAIS" , UNIVERSAL FHD 
 http://tv.factoryiptv.com:80/claudio/claudio/37027
@@ -450,3 +444,11 @@ https://dc365.4shared.com/img/0zJiYIh1fi/3082d478/dlink__2Fdownload_2F0zJiYIh1fi
 #EXTM3U
 #EXTINF: -0 tvg-logo="https://tinyurl.com/y2fcvcuj" group-title="Serie O Fugitivo 2 Temporada",S02.E06 Carolina do Sul
 https://dc606.4shared.com/img/TFSGGuTqee/5ff142d5/dlink__2Fdownload_2FTFSGGuTqee_3Fsbsr_3D33b5f8406d52ba21ab652de8b73a83d8a19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26dsid_3DXwQ7suRW.8a2d0f8d356626f9cf4e2c807272c15a_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
+######################## RADIOS
+#EXTINF:-1 group-title="RADIOS" tvg-logo="https://sound.globoradio.globo.com/estaticos/img/logo.png" TVG-NAME=''RADIO=TRUE,Jukebox Music
+https://dc775.4shared.com/img/5CFpEb6Fda/d4a87fa0/dlink__2Fdownload_2F5CFpEb6Fda_3Fsbsr_3D7b853abf4b35f687e8a062a4b065356ca19_26bip_3DMTc3LjczLjI0NS44OQ_26lgfp_3D20_26bip_3DMTc3LjczLjI0NS44OQ_26bip_3DMTc3LjczLjI0NS44OQ/preview.mp4
+
+
+
+
