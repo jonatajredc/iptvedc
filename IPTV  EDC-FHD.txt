@@ -4,22 +4,28 @@
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/4.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E HD
-http://tv.factoryiptv.com:80/claudio/claudio/37130
+http://iptv.csvix.net:8080/william/12345/11672
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ae.png" group-title="CANAIS" ,  A&E FHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/aie.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/28/arte1.png" group-title="CANAIS" , ARTE 1
-https://d1h1b343gf75ml.cloudfront.net/hls1/arte1.m3u8?IPTVEDCHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/arte1.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/fx.png" group-title="CANAIS" ,  FX FHD
-https://d1h1b343gf75ml.cloudfront.net/hls1/fx.m3u8?IPTVEDCHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/fx.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/amc.png" group-title="CANAIS" , AMC FHD 
-https://d1h1b343gf75ml.cloudfront.net/hls1/amc.m3u8?IPTVEDCHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/amc.m3u8?
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="CANAIS" , ANIMAL PLANET HD
+http://iptv.csvix.net:8080/william/12345/5188
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/ap.png" group-title="CANAIS" , ANIMAL PLANET FHD
-https://d1h1b343gf75ml.cloudfront.net/hls1/animalplanet.m3u8?IPTVEDCHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/animalplanet.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/axn.png" group-title="CANAIS" ,  AXN FHD 
-https://d1h1b343gf75ml.cloudfront.net/hls1/axn.m3u8?IPTVEDCHD
+https://d1lud49pck8hpm.cloudfront.net/hls1/axn.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/all-sports.png" group-title="ESPORTES" , ALL SPORTS HD
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?IPTVEDCHD
@@ -260,6 +266,9 @@ http://dike.tvcast.xyz/hls/s:95.216.15.44:81/canaloff_12f0de3d_496ac6125b99475e3
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF FHD
 https://d1h1b343gf75ml.cloudfront.net/hls1/off.m3u8?IPTVEDCHD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/c-Off.png" group-title="CANAIS" , OFF HD
+https://d1lud49pck8hpm.cloudfront.net/hls1/off.m3u8?
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/paramount-c.png" group-title="CANAIS" , PARAMOUNT  CHANNEL FHD
 https://d1h1b343gf75ml.cloudfront.net/hls1/paramount.m3u8?
