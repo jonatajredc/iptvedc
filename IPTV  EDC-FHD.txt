@@ -76,7 +76,7 @@ http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/884.ts
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/885.ts
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/canal-rural.png" group-title="CANAIS" ,  CANAL RURAL HD
-
+http://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w609424580.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cartoon-nw.png" group-title="CANAIS" , CARTOON NET WORK HD 
 http://tv.factoryiptv.com:80/claudio/claudio/37121
@@ -84,20 +84,14 @@ http://tv.factoryiptv.com:80/claudio/claudio/37121
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cartoon-nw.png" group-title="CANAIS" , CARTOON NET WORK FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37121
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cinemax.png" group-title="CANAIS" , CINEMAX HD 
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cinemax.png" group-title="CANAIS" , CINEMAX FHD 
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/combate.png" group-title="CANAIS" , COMBATE HD 
-
+http://tv.factoryiptv.com:80/claudio/claudio/37120
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/combate.png" group-title="CANAIS" , COMBATE FHD 
-
+http://tv.factoryiptv.com:80/claudio/claudio/37119
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/comedy-central.png" group-title="CANAIS" , COMEDY CENTRAL FHD
-
+http://carpo.tvcast.xyz/hls/s:95.216.15.44:81/comedycentral_17037754_82613291a3f9a279c97120bd99c787e12654a3bd.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/cine-sky.png" group-title="CANAIS" , CINE SKY HD
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?IPTVEDCHD
@@ -109,7 +103,7 @@ http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?IPTVEDCHD
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w241593769.m3u8?IPTVEDCHD
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-civilization.png" group-title="CANAIS" , DISCOVERY CIVILIZATION HD
-
+http://tv.factoryiptv.com:80/claudio/claudio/36924
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/d-health.png" group-title="CANAIS" , DISCOVERY H&H FHD
 http://tv.factoryiptv.com:80/claudio/claudio/36984
@@ -169,10 +163,10 @@ http://tv.factoryiptv.com:80/claudio/claudio/37100
 http://tv.factoryiptv.com:80/claudio/claudio/50750
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-premium2.png" group-title="CANAIS" ,  FOX PREMIUM 2 FHD
-
+http://clienteworld.com:8080/GlaltonGlan/WbwfAZlxFF/15075
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-sports.png" group-title="CANAIS" , FOX ESPORTS FHD
-http://eunomia.tvcast.xyz/hls/s:95.216.15.44:81/foxsports_8a1beaee_9b8496b6cb1f886ff95ba99bbdd88b95e354c353/playlist.m3u8
+http://tv.factoryiptv.com:80/claudio/claudio/50756
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/fox-sports2.png" group-title="CANAIS" , FOX ESPORTS 02 FHD
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/896.ts
@@ -185,6 +179,9 @@ http://tv.factoryiptv.com:80/claudio/claudio/37090
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/globonews.png" group-title="CANAIS" , GLOBO NEWS FHD 
 http://canais01.dedicadobrasil.com:8088/live/mensal/mensal/26.ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/br-gloobinho.png" group-title="CANAIS" , GLOBINHO FHD 
+http://tv.factoryiptv.com:80/claudio/claudio/50774
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/gnt.png" group-title="CANAIS" , GNT FHD
 http://tv.factoryiptv.com:80/claudio/claudio/50781
@@ -362,9 +359,6 @@ http://tv.factoryiptv.com:80/claudio/claudio/37035
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/26/tntseries.png" group-title="CANAIS" , TNT SERIES FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37034
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Tooncast.png" group-title="CANAIS" ,  TOONCAST HD
-http://tv.factoryiptv.com:80/claudio/claudio/37033
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/25/Tooncast.png" group-title="CANAIS" ,  TOONCAST FHD
 http://tv.factoryiptv.com:80/claudio/claudio/37033
