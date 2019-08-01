@@ -1,6 +1,6 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="IPTV EDC HD",Atualizado 31/07/19 TOP TV SERTANEJO
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="IPTV EDC HDS",TOP TV SERTANEJO
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVEDCHDS
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_A&E" tvg-logo="" group-title="Canais Alternativos",_A&E
@@ -62,32 +62,46 @@ http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14029
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports FullHD" tvg-logo="" group-title="Canais Alternativos",_Band Sports FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14027
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports HD" tvg-logo="" group-title="Canais Alternativos",_Band Sports HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14028
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_BBB SD" tvg-logo="" group-title="Canais Alternativos",_BBB SD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14026
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Bis" tvg-logo="" group-title="Canais Alternativos",_Bis
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14025
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Bis FullHD" tvg-logo="" group-title="Canais Alternativos",_Bis FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14024
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Bis HD" tvg-logo="" group-title="Canais Alternativos",_Bis HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14023
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang" tvg-logo="" group-title="Canais Alternativos",_Boomerang
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14022
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang FullHD" tvg-logo="" group-title="Canais Alternativos",_Boomerang FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14021
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang HD" tvg-logo="" group-title="Canais Alternativos",_Boomerang HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14020
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Can" tvg-logo="" group-title="Canais Alternativos",_Can
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14019
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14018
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil FullHD" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14017
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Rural" tvg-logo="" group-title="Canais Alternativos",_Canal Rural
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14016
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Sony HD" tvg-logo="" group-title="Canais Alternativos",_Canal Sony HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14015
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14014
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network FullHD" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network FullHD
@@ -681,29 +695,42 @@ http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13722
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13720
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel HD" tvg-logo="" group-title="Canais Alternativos",_Universal Channel HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13721
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Venus" tvg-logo="" group-title="Canais Alternativos",_Venus
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13719
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 FullHD" tvg-logo="" group-title="Canais Alternativos",_VH1 FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13718
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 HD" tvg-logo="" group-title="Canais Alternativos",_VH1 HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13717
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 Mega Hits" tvg-logo="" group-title="Canais Alternativos",_VH1 Mega Hits
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13716
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Viva" tvg-logo="" group-title="Canais Alternativos",_Viva
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13715
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Viva FullHD" tvg-logo="" group-title="Canais Alternativos",_Viva FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13713
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Viva HD" tvg-logo="" group-title="Canais Alternativos",_Viva HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13714
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Warner Channel" tvg-logo="" group-title="Canais Alternativos",_Warner Channel
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13712
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Warner FullHD" tvg-logo="" group-title="Canais Alternativos",_Warner FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13710
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Warner HD" tvg-logo="" group-title="Canais Alternativos",_Warner HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13711
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo" tvg-logo="" group-title="Canais Alternativos",_Woohoo
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13709
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo FullHD" tvg-logo="" group-title="Canais Alternativos",_Woohoo FullHD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13708
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo HD" tvg-logo="" group-title="Canais Alternativos",_Woohoo HD
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13707
