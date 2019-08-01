@@ -4,686 +4,1156 @@ https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVED
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/29/djingtv.png" group-title="IPTV EDC HDS" ,DJing Live
 https://www.djing.com/tv/28798-04.m3u8?network-probe:a5bf51c
 #EXTINF:-1 tvg-id="" tvg-name="_A&E" tvg-logo="" group-title="Canais Alternativos",_A&E
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14047
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14047
 #EXTINF:-1 tvg-id="" tvg-name="_A&E FullHD" tvg-logo="" group-title="Canais Alternativos",_A&E FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14046
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14046
 #EXTINF:-1 tvg-id="" tvg-name="_A&E HD" tvg-logo="" group-title="Canais Alternativos",_A&E HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14045
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14045
 #EXTINF:-1 tvg-id="" tvg-name="_AMC" tvg-logo="" group-title="Canais Alternativos",_AMC
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14044
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14044
 #EXTINF:-1 tvg-id="" tvg-name="_AMC FullHD" tvg-logo="" group-title="Canais Alternativos",_AMC FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14043
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14043
 #EXTINF:-1 tvg-id="" tvg-name="_AMC HD" tvg-logo="" group-title="Canais Alternativos",_AMC HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14042
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14042
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet" tvg-logo="" group-title="Canais Alternativos",_Animal Planet
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14041
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14041
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet FullHD" tvg-logo="" group-title="Canais Alternativos",_Animal Planet FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14039
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14039
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet HD" tvg-logo="" group-title="Canais Alternativos",_Animal Planet HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14040
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14040
 #EXTINF:-1 tvg-id="" tvg-name="_Arte 1" tvg-logo="" group-title="Canais Alternativos",_Arte 1
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14038
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14038
 #EXTINF:-1 tvg-id="" tvg-name="_AXN" tvg-logo="" group-title="Canais Alternativos",_AXN
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14037
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14037
 #EXTINF:-1 tvg-id="" tvg-name="_AXN FullHD" tvg-logo="" group-title="Canais Alternativos",_AXN FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14035
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14035
 #EXTINF:-1 tvg-id="" tvg-name="_AXN HD" tvg-logo="" group-title="Canais Alternativos",_AXN HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14036
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14036
 #EXTINF:-1 tvg-id="" tvg-name="_Baby TV" tvg-logo="" group-title="Canais Alternativos",_Baby TV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14034
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14034
 #EXTINF:-1 tvg-id="" tvg-name="_Band" tvg-logo="" group-title="Canais Alternativos",_Band
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14033
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14033
 #EXTINF:-1 tvg-id="" tvg-name="_Band HD" tvg-logo="" group-title="Canais Alternativos",_Band HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14032
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14032
 #EXTINF:-1 tvg-id="" tvg-name="_Band News" tvg-logo="" group-title="Canais Alternativos",_Band News
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14031
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14031
 #EXTINF:-1 tvg-id="" tvg-name="_Band News FullHD" tvg-logo="" group-title="Canais Alternativos",_Band News FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14030
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14030
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports" tvg-logo="" group-title="Canais Alternativos",_Band Sports
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14029
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14029
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports FullHD" tvg-logo="" group-title="Canais Alternativos",_Band Sports FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14027
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14027
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports HD" tvg-logo="" group-title="Canais Alternativos",_Band Sports HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14028
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14028
 #EXTINF:-1 tvg-id="" tvg-name="_BBB SD" tvg-logo="" group-title="Canais Alternativos",_BBB SD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14026
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14026
 #EXTINF:-1 tvg-id="" tvg-name="_Bis" tvg-logo="" group-title="Canais Alternativos",_Bis
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14025
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14025
 #EXTINF:-1 tvg-id="" tvg-name="_Bis FullHD" tvg-logo="" group-title="Canais Alternativos",_Bis FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14024
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14024
 #EXTINF:-1 tvg-id="" tvg-name="_Bis HD" tvg-logo="" group-title="Canais Alternativos",_Bis HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14023
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14023
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang" tvg-logo="" group-title="Canais Alternativos",_Boomerang
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14022
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14022
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang FullHD" tvg-logo="" group-title="Canais Alternativos",_Boomerang FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14021
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14021
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang HD" tvg-logo="" group-title="Canais Alternativos",_Boomerang HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14020
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14020
 #EXTINF:-1 tvg-id="" tvg-name="_Can" tvg-logo="" group-title="Canais Alternativos",_Can
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14019
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14019
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14018
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14018
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil FullHD" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14017
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14017
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Rural" tvg-logo="" group-title="Canais Alternativos",_Canal Rural
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14016
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14016
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Sony HD" tvg-logo="" group-title="Canais Alternativos",_Canal Sony HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14015
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14015
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14014
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14014
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network FullHD" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14013
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14013
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network HD" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14012
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14012
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax" tvg-logo="" group-title="Canais Alternativos",_Cinemax
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14011
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14011
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax FullHD" tvg-logo="" group-title="Canais Alternativos",_Cinemax FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14010
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14010
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax HD" tvg-logo="" group-title="Canais Alternativos",_Cinemax HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14009
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14009
 #EXTINF:-1 tvg-id="" tvg-name="_Combate" tvg-logo="" group-title="Canais Alternativos",_Combate
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14008
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14008
 #EXTINF:-1 tvg-id="" tvg-name="_Combate FullHD" tvg-logo="" group-title="Canais Alternativos",_Combate FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14007
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14007
 #EXTINF:-1 tvg-id="" tvg-name="_Combate HD" tvg-logo="" group-title="Canais Alternativos",_Combate HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14006
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14006
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central" tvg-logo="" group-title="Canais Alternativos",_Comedy Central
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14005
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14005
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central FullHD" tvg-logo="" group-title="Canais Alternativos",_Comedy Central FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14004
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14004
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central HD" tvg-logo="" group-title="Canais Alternativos",_Comedy Central HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14003
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14003
 #EXTINF:-1 tvg-id="" tvg-name="_Curta" tvg-logo="" group-title="Canais Alternativos",_Curta
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14002
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14002
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14001
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14001
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13999
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13999
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14000
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/14000
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Civilization FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Civilization FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13998
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13998
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Civilization HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Civilization HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13997
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13997
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery H&H" tvg-logo="" group-title="Canais Alternativos",_Discovery H&H
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13996
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13996
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery H&H FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery H&H FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13995
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13995
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Home & Helth HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Home & Helth HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13994
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13994
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery ID" tvg-logo="" group-title="Canais Alternativos",_Discovery ID
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13993
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13993
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13992
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13992
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13991
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13991
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13990
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13990
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Science FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Science FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13989
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13989
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Science HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Science HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13988
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13988
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Theater FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Theater FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13986
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13986
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Theater HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Theater HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13987
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13987
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13985
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13985
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13983
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13983
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13984
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13984
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery World FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery World FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13981
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13981
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery World HD" tvg-logo="" group-title="Canais Alternativos",_Discovery World HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13982
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13982
 #EXTINF:-1 tvg-id="" tvg-name="_Disney" tvg-logo="" group-title="Canais Alternativos",_Disney
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13980
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13980
 #EXTINF:-1 tvg-id="" tvg-name="_Disney Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Disney Channel FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13979
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13979
 #EXTINF:-1 tvg-id="" tvg-name="_Disney Channel HD" tvg-logo="" group-title="Canais Alternativos",_Disney Channel HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13978
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13978
 #EXTINF:-1 tvg-id="" tvg-name="_Disney JR" tvg-logo="" group-title="Canais Alternativos",_Disney JR
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13977
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13977
 #EXTINF:-1 tvg-id="" tvg-name="_Disney JR FullHD" tvg-logo="" group-title="Canais Alternativos",_Disney JR FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13976
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13976
 #EXTINF:-1 tvg-id="" tvg-name="_Disney XD" tvg-logo="" group-title="Canais Alternativos",_Disney XD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13975
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13975
 #EXTINF:-1 tvg-id="" tvg-name="_E!" tvg-logo="" group-title="Canais Alternativos",_E!
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13974
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13974
 #EXTINF:-1 tvg-id="" tvg-name="_E! FullHD" tvg-logo="" group-title="Canais Alternativos",_E! FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13973
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13973
 #EXTINF:-1 tvg-id="" tvg-name="_E! HD" tvg-logo="" group-title="Canais Alternativos",_E! HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13972
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13972
 #EXTINF:-1 tvg-id="" tvg-name="_EiMaxx 2 HD" tvg-logo="" group-title="Canais Alternativos",_EiMaxx 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13971
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13971
 #EXTINF:-1 tvg-id="" tvg-name="_eimaxx FullHD" tvg-logo="" group-title="Canais Alternativos",_eimaxx FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13970
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13970
 #EXTINF:-1 tvg-id="" tvg-name="_eimaxx2 FullHD" tvg-logo="" group-title="Canais Alternativos",_eimaxx2 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13969
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13969
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Campinas" tvg-logo="" group-title="Canais Alternativos",_EPTV Campinas
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13968
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13968
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Ribeirao Preto" tvg-logo="" group-title="Canais Alternativos",_EPTV Ribeirao Preto
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13967
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13967
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Sao Carlos" tvg-logo="" group-title="Canais Alternativos",_EPTV Sao Carlos
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13966
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13966
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN" tvg-logo="" group-title="Canais Alternativos",_ESPN
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13965
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13965
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN 2 HD" tvg-logo="" group-title="Canais Alternativos",_ESPN 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13964
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13964
 #EXTINF:-1 tvg-id="" tvg-name="_Espn Brasil" tvg-logo="" group-title="Canais Alternativos",_Espn Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13963
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13963
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Brasil FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN Brasil FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13961
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13961
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Brasil HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Brasil HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13962
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13962
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Extra HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Extra HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13960
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13960
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13959
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13959
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN HD" tvg-logo="" group-title="Canais Alternativos",_ESPN HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13958
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13958
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Plus FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN Plus FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13956
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13956
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Plus HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Plus HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13957
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13957
 #EXTINF:-1 tvg-id="" tvg-name="_Esporte Interativo FullHD" tvg-logo="" group-title="Canais Alternativos",_Esporte Interativo FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13955
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13955
 #EXTINF:-1 tvg-id="" tvg-name="_Fish TV" tvg-logo="" group-title="Canais Alternativos",_Fish TV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13954
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13954
 #EXTINF:-1 tvg-id="" tvg-name="_Fish tv - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fish tv - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13953
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13953
 #EXTINF:-1 tvg-id="" tvg-name="_Fish TV HD - net" tvg-logo="" group-title="Canais Alternativos",_Fish TV HD - net
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13952
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13952
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network" tvg-logo="" group-title="Canais Alternativos",_Food Network
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13951
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13951
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network FullHD" tvg-logo="" group-title="Canais Alternativos",_Food Network FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13950
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13950
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network HD" tvg-logo="" group-title="Canais Alternativos",_Food Network HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13949
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13949
 #EXTINF:-1 tvg-id="" tvg-name="_Fox" tvg-logo="" group-title="Canais Alternativos",_Fox
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13948
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13948
 #EXTINF:-1 tvg-id="" tvg-name="_Fox - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13947
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13947
 #EXTINF:-1 tvg-id="" tvg-name="_Fox 1 FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox 1 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13945
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13945
 #EXTINF:-1 tvg-id="" tvg-name="_Fox 1 HD" tvg-logo="" group-title="Canais Alternativos",_Fox 1 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13946
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13946
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Action HD" tvg-logo="" group-title="Canais Alternativos",_Fox Action HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13944
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13944
 #EXTINF:-1 tvg-id="" tvg-name="_Fox HD" tvg-logo="" group-title="Canais Alternativos",_Fox HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13943
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13943
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life" tvg-logo="" group-title="Canais Alternativos",_Fox Life
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13942
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13942
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Life FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13940
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13940
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life HD" tvg-logo="" group-title="Canais Alternativos",_Fox Life HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13941
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13941
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports" tvg-logo="" group-title="Canais Alternativos",_Fox Sports
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13939
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13939
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports  - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports  - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13938
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13938
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13937
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13937
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13935
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13935
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2 HD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13936
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13936
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="_Fox Sports HD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13934
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13934
 #EXTINF:-1 tvg-id="" tvg-name="_FX" tvg-logo="" group-title="Canais Alternativos",_FX
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13933
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13933
 #EXTINF:-1 tvg-id="" tvg-name="_Fx FullHD" tvg-logo="" group-title="Canais Alternativos",_Fx FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13931
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13931
 #EXTINF:-1 tvg-id="" tvg-name="_FX HD" tvg-logo="" group-title="Canais Alternativos",_FX HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13932
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13932
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Bahia" tvg-logo="" group-title="Canais Alternativos",_Globo Bahia
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13930
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13930
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Brasilia" tvg-logo="" group-title="Canais Alternativos",_Globo Brasilia
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13929
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13929
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Minas" tvg-logo="" group-title="Canais Alternativos",_Globo Minas
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13928
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13928
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News" tvg-logo="" group-title="Canais Alternativos",_Globo News
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13927
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13927
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo News FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13926
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13926
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News HD" tvg-logo="" group-title="Canais Alternativos",_Globo News HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13925
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13925
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Nordeste" tvg-logo="" group-title="Canais Alternativos",_Globo Nordeste
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13924
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="*Globo Rede Gazeta ES HD" tvg-logo="http://lab.gazetaonline.com.br/agua/app/img/logo-gazeta.png" group-title="Canais Alternativos",*Globo Rede Gazeta ES HD
-http://lista.iptvcs.eu:80/edcvip/edcvip/14366
-#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="*Globo Rede Gazeta ES FullHD" tvg-logo="http://lab.gazetaonline.com.br/agua/app/img/logo-gazeta.png" group-title="Canais Alternativos",*Globo Rede Gazeta ES FullHD
-http://lista.iptvcs.eu:80/edcvip/edcvip/14365
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13924
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ" tvg-logo="" group-title="Canais Alternativos",_Globo RJ
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13923
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13923
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo RJ FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13921
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13921
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ HD" tvg-logo="" group-title="Canais Alternativos",_Globo RJ HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13922
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13922
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat" tvg-logo="" group-title="Canais Alternativos",_Globo Sat
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13920
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13920
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo Sat FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13919
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13919
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat HD" tvg-logo="" group-title="Canais Alternativos",_Globo Sat HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13918
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13918
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="_Globo SP" tvg-logo="" group-title="Canais Alternativos",_Globo SP
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13917
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13917
 #EXTINF:-1 tvg-id="" tvg-name="_Globo SP FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo SP FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13916
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13916
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob" tvg-logo="" group-title="Canais Alternativos",_Gloob
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13915
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13915
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob FullHD" tvg-logo="" group-title="Canais Alternativos",_Gloob FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13914
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13914
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob HD" tvg-logo="" group-title="Canais Alternativos",_Gloob HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13913
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13913
 #EXTINF:-1 tvg-id="" tvg-name="_GNT" tvg-logo="" group-title="Canais Alternativos",_GNT
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13912
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13912
 #EXTINF:-1 tvg-id="" tvg-name="_GNT FullHD" tvg-logo="" group-title="Canais Alternativos",_GNT FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13910
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13910
 #EXTINF:-1 tvg-id="" tvg-name="_GNT HD" tvg-logo="" group-title="Canais Alternativos",_GNT HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13911
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13911
 #EXTINF:-1 tvg-id="" tvg-name="_HBO" tvg-logo="" group-title="Canais Alternativos",_HBO
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13909
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13909
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2" tvg-logo="" group-title="Canais Alternativos",_HBO 2
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13908
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13908
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO 2 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13906
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13906
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2 HD" tvg-logo="" group-title="Canais Alternativos",_HBO 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13907
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13907
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Familly FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Familly FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13905
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13905
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Family" tvg-logo="" group-title="Canais Alternativos",_HBO Family
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13904
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13904
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Family HD" tvg-logo="" group-title="Canais Alternativos",_HBO Family HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13903
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13903
 #EXTINF:-1 tvg-id="" tvg-name="_HBO FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13901
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13901
 #EXTINF:-1 tvg-id="" tvg-name="_HBO HD" tvg-logo="" group-title="Canais Alternativos",_HBO HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13902
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13902
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus" tvg-logo="" group-title="Canais Alternativos",_HBO Plus
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13900
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13900
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Plus FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13898
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13898
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus HD" tvg-logo="" group-title="Canais Alternativos",_HBO Plus HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13899
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13899
 #EXTINF:-1 tvg-id="" tvg-name="_HBO signature" tvg-logo="" group-title="Canais Alternativos",_HBO signature
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13897
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13897
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Signature FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Signature FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13895
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13895
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Signature HD" tvg-logo="" group-title="Canais Alternativos",_HBO Signature HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13896
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13896
 #EXTINF:-1 tvg-id="" tvg-name="_History" tvg-logo="" group-title="Canais Alternativos",_History
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13894
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13894
 #EXTINF:-1 tvg-id="" tvg-name="_History 2" tvg-logo="" group-title="Canais Alternativos",_History 2
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13893
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13893
 #EXTINF:-1 tvg-id="" tvg-name="_History 2 HD" tvg-logo="" group-title="Canais Alternativos",_History 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13892
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13892
 #EXTINF:-1 tvg-id="" tvg-name="_History FullHD" tvg-logo="" group-title="Canais Alternativos",_History FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13889
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13889
 #EXTINF:-1 tvg-id="" tvg-name="_History HD" tvg-logo="" group-title="Canais Alternativos",_History HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13890
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13890
 #EXTINF:-1 tvg-id="" tvg-name="_ideal TV" tvg-logo="" group-title="Canais Alternativos",_ideal TV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13888
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13888
 #EXTINF:-1 tvg-id="" tvg-name="_Inter TV Cabugi" tvg-logo="" group-title="Canais Alternativos",_Inter TV Cabugi
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13887
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13887
 #EXTINF:-1 tvg-id="" tvg-name="_Investiga" tvg-logo="" group-title="Canais Alternativos",_Investiga
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13886
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13886
 #EXTINF:-1 tvg-id="" tvg-name="_Investigation Discovery FullHD" tvg-logo="" group-title="Canais Alternativos",_Investigation Discovery FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13885
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13885
 #EXTINF:-1 tvg-id="" tvg-name="_ISat" tvg-logo="" group-title="Canais Alternativos",_ISat
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13884
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13884
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time" tvg-logo="" group-title="Canais Alternativos",_Life Time
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13883
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13883
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time FullHD" tvg-logo="" group-title="Canais Alternativos",_Life Time FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13882
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13882
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time HD" tvg-logo="" group-title="Canais Alternativos",_Life Time HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13881
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13881
 #EXTINF:-1 tvg-id="" tvg-name="_Max" tvg-logo="" group-title="Canais Alternativos",_Max
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13880
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13880
 #EXTINF:-1 tvg-id="" tvg-name="_Max FullHD" tvg-logo="" group-title="Canais Alternativos",_Max FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13879
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13879
 #EXTINF:-1 tvg-id="" tvg-name="_Max HD" tvg-logo="" group-title="Canais Alternativos",_Max HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13878
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13878
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime" tvg-logo="" group-title="Canais Alternativos",_Max Prime
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13877
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13877
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime FullHD" tvg-logo="" group-title="Canais Alternativos",_Max Prime FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13876
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13876
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime HD" tvg-logo="" group-title="Canais Alternativos",_Max Prime HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13875
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13875
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP" tvg-logo="" group-title="Canais Alternativos",_Max UP
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13874
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13874
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP FullHD" tvg-logo="" group-title="Canais Alternativos",_Max UP FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13873
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13873
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP HD" tvg-logo="" group-title="Canais Alternativos",_Max UP HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13872
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13872
 #EXTINF:-1 tvg-id="" tvg-name="_Mega Pix FullHD" tvg-logo="" group-title="Canais Alternativos",_Mega Pix FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13871
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13871
 #EXTINF:-1 tvg-id="" tvg-name="_Megapix" tvg-logo="" group-title="Canais Alternativos",_Megapix
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13870
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13870
 #EXTINF:-1 tvg-id="" tvg-name="_Megapix HD" tvg-logo="" group-title="Canais Alternativos",_Megapix HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13869
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13869
 #EXTINF:-1 tvg-id="" tvg-name="_MTV" tvg-logo="" group-title="Canais Alternativos",_MTV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13868
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13868
 #EXTINF:-1 tvg-id="" tvg-name="_MTV FullHD" tvg-logo="" group-title="Canais Alternativos",_MTV FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13867
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13867
 #EXTINF:-1 tvg-id="" tvg-name="_MTV HD" tvg-logo="" group-title="Canais Alternativos",_MTV HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13866
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13866
 #EXTINF:-1 tvg-id="" tvg-name="_Multi Show FullHD" tvg-logo="" group-title="Canais Alternativos",_Multi Show FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13865
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13865
 #EXTINF:-1 tvg-id="" tvg-name="_Multishow" tvg-logo="" group-title="Canais Alternativos",_Multishow
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13864
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13864
 #EXTINF:-1 tvg-id="" tvg-name="_Multishow HD" tvg-logo="" group-title="Canais Alternativos",_Multishow HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13863
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13863
 #EXTINF:-1 tvg-id="" tvg-name="_Music Box Brasil" tvg-logo="" group-title="Canais Alternativos",_Music Box Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13862
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13862
 #EXTINF:-1 tvg-id="" tvg-name="_Nat Geo FullHD" tvg-logo="" group-title="Canais Alternativos",_Nat Geo FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13861
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13861
 #EXTINF:-1 tvg-id="" tvg-name="_Nat geo Wild FullHD" tvg-logo="" group-title="Canais Alternativos",_Nat geo Wild FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13860
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13860
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo" tvg-logo="" group-title="Canais Alternativos",_NatGeo
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13859
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13859
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13858
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13858
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13857
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13857
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids FullHD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13856
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13856
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13855
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13855
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Wild" tvg-logo="" group-title="Canais Alternativos",_NatGeo Wild
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13854
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13854
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Wild HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Wild HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13853
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13853
 #EXTINF:-1 tvg-id="" tvg-name="_NBR" tvg-logo="" group-title="Canais Alternativos",_NBR
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13852
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13852
 #EXTINF:-1 tvg-id="" tvg-name="_NHK" tvg-logo="" group-title="Canais Alternativos",_NHK
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13851
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13851
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR" tvg-logo="" group-title="Canais Alternativos",_Nick JR
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13850
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13850
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR FullHD" tvg-logo="" group-title="Canais Alternativos",_Nick JR FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13849
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13849
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR HD" tvg-logo="" group-title="Canais Alternativos",_Nick JR HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13848
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13848
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13847
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13847
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon FullHD" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13846
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13846
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon HD" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13845
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13845
 #EXTINF:-1 tvg-id="" tvg-name="_Novo Tempo" tvg-logo="" group-title="Canais Alternativos",_Novo Tempo
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13844
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13844
 #EXTINF:-1 tvg-id="" tvg-name="_OFF" tvg-logo="" group-title="Canais Alternativos",_OFF
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13843
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13843
 #EXTINF:-1 tvg-id="" tvg-name="_Off - FullHD" tvg-logo="" group-title="Canais Alternativos",_Off - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13842
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13842
 #EXTINF:-1 tvg-id="" tvg-name="_OFF HD" tvg-logo="" group-title="Canais Alternativos",_OFF HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13841
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13841
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount" tvg-logo="" group-title="Canais Alternativos",_Paramount
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13840
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13840
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount FullHD" tvg-logo="" group-title="Canais Alternativos",_Paramount FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13838
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13838
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount HD" tvg-logo="" group-title="Canais Alternativos",_Paramount HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13839
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13839
 #EXTINF:-1 tvg-id="" tvg-name="_Play Tv" tvg-logo="" group-title="Canais Alternativos",_Play Tv
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13837
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13837
 #EXTINF:-1 tvg-id="" tvg-name="_PlayBoy" tvg-logo="" group-title="Canais Alternativos",_PlayBoy
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13836
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13836
 #EXTINF:-1 tvg-id="" tvg-name="_Playboy - FullHD" tvg-logo="" group-title="Canais Alternativos",_Playboy - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13835
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13835
 #EXTINF:-1 tvg-id="" tvg-name="_Playboy HD - net" tvg-logo="" group-title="Canais Alternativos",_Playboy HD - net
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13834
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13834
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2" tvg-logo="" group-title="Canais Alternativos",_Premiere 2
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13833
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13833
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 2 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13831
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13831
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13832
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13832
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3" tvg-logo="" group-title="Canais Alternativos",_Premiere 3
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13830
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13830
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3 FDH" tvg-logo="" group-title="Canais Alternativos",_Premiere 3 FDH
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13829
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13829
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 3 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13828
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13828
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4" tvg-logo="" group-title="Canais Alternativos",_Premiere 4
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13827
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13827
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 4 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13825
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13825
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 4 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13826
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13826
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5" tvg-logo="" group-title="Canais Alternativos",_Premiere 5
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13824
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13824
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 5 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13822
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13822
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 5 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13823
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13823
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6" tvg-logo="" group-title="Canais Alternativos",_Premiere 6
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13821
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13821
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 6 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13820
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13820
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 6 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13819
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13819
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7" tvg-logo="" group-title="Canais Alternativos",_Premiere 7
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13818
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13818
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 7 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13817
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13817
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 7 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13816
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13816
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 8" tvg-logo="" group-title="Canais Alternativos",_Premiere 8
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13815
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13815
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="_Premiere Clubes" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubes
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13814
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13814
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="_Premiere Clubes HD" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubes HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13813
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13813
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere Clubs FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubs FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13812
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13812
 #EXTINF:-1 tvg-id="" tvg-name="_Prime Box Brasil" tvg-logo="" group-title="Canais Alternativos",_Prime Box Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13811
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13811
 #EXTINF:-1 tvg-id="" tvg-name="_Ra Tim Bum" tvg-logo="" group-title="Canais Alternativos",_Ra Tim Bum
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13810
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13810
 #EXTINF:-1 tvg-id="" tvg-name="_RBI" tvg-logo="" group-title="Canais Alternativos",_RBI
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13809
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13809
 #EXTINF:-1 tvg-id="" tvg-name="_RBS" tvg-logo="" group-title="Canais Alternativos",_RBS
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13808
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13808
 #EXTINF:-1 tvg-id="" tvg-name="_Record" tvg-logo="" group-title="Canais Alternativos",_Record
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13807
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13807
 #EXTINF:-1 tvg-id="" tvg-name="_Record FullHD" tvg-logo="" group-title="Canais Alternativos",_Record FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13806
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13806
 #EXTINF:-1 tvg-id="" tvg-name="_Record HD" tvg-logo="" group-title="Canais Alternativos",_Record HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13805
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13805
 #EXTINF:-1 tvg-id="" tvg-name="_Record News" tvg-logo="" group-title="Canais Alternativos",_Record News
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13804
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13804
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Amazonica" tvg-logo="" group-title="Canais Alternativos",_Rede Amazonica
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13803
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13803
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Brasil" tvg-logo="" group-title="Canais Alternativos",_Rede Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13802
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13802
 #EXTINF:-1 tvg-id="" tvg-name="_Rede TV" tvg-logo="" group-title="Canais Alternativos",_Rede TV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13801
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13801
 #EXTINF:-1 tvg-id="" tvg-name="_Rede TV HD" tvg-logo="" group-title="Canais Alternativos",_Rede TV HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13800
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13800
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Vida" tvg-logo="" group-title="Canais Alternativos",_Rede Vida
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13799
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13799
 #EXTINF:-1 tvg-id="" tvg-name="_RIT" tvg-logo="" group-title="Canais Alternativos",_RIT
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13798
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13798
 #EXTINF:-1 tvg-id="" tvg-name="_RPC Curitiba" tvg-logo="" group-title="Canais Alternativos",_RPC Curitiba
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13797
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13797
 #EXTINF:-1 tvg-id="" tvg-name="_SBT" tvg-logo="" group-title="Canais Alternativos",_SBT
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13796
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13796
 #EXTINF:-1 tvg-id="" tvg-name="_SBT FullHD" tvg-logo="" group-title="Canais Alternativos",_SBT FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13794
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13794
 #EXTINF:-1 tvg-id="" tvg-name="_SBT HD" tvg-logo="" group-title="Canais Alternativos",_SBT HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13795
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13795
 #EXTINF:-1 tvg-id="" tvg-name="_Sextreme" tvg-logo="" group-title="Canais Alternativos",_Sextreme
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13793
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13793
 #EXTINF:-1 tvg-id="" tvg-name="_Sexy Hot" tvg-logo="" group-title="Canais Alternativos",_Sexy Hot
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13792
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13792
 #EXTINF:-1 tvg-id="" tvg-name="_SIC Internacional" tvg-logo="" group-title="Canais Alternativos",_SIC Internacional
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13791
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13791
 #EXTINF:-1 tvg-id="" tvg-name="_Sony" tvg-logo="" group-title="Canais Alternativos",_Sony
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13790
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13790
 #EXTINF:-1 tvg-id="" tvg-name="_Sony FullHD" tvg-logo="" group-title="Canais Alternativos",_Sony FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13789
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13789
 #EXTINF:-1 tvg-id="" tvg-name="_Space" tvg-logo="" group-title="Canais Alternativos",_Space
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13788
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13788
 #EXTINF:-1 tvg-id="" tvg-name="_Space - FullHD" tvg-logo="" group-title="Canais Alternativos",_Space - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13787
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13787
 #EXTINF:-1 tvg-id="" tvg-name="_Space HD" tvg-logo="" group-title="Canais Alternativos",_Space HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13786
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13786
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv" tvg-logo="" group-title="Canais Alternativos",_Sportv
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13785
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13785
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2" tvg-logo="" group-title="Canais Alternativos",_Sportv 2
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13784
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13784
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv 2 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13783
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13783
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2 HD" tvg-logo="" group-title="Canais Alternativos",_Sportv 2 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13782
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13782
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3" tvg-logo="" group-title="Canais Alternativos",_Sportv 3
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13781
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13781
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3 - FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv 3 - FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13780
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13780
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3 HD" tvg-logo="" group-title="Canais Alternativos",_Sportv 3 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13779
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13779
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13777
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13777
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv HD" tvg-logo="" group-title="Canais Alternativos",_Sportv HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13778
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13778
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal" tvg-logo="" group-title="Canais Alternativos",_Studio Universal
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13776
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13776
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal FullHD" tvg-logo="" group-title="Canais Alternativos",_Studio Universal FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13775
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13775
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal HD" tvg-logo="" group-title="Canais Alternativos",_Studio Universal HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13774
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13774
 #EXTINF:-1 tvg-id="" tvg-name="_Sundance TV FullHD" tvg-logo="" group-title="Canais Alternativos",_Sundance TV FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13773
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13773
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy" tvg-logo="" group-title="Canais Alternativos",_Syfy
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13772
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13772
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy FullHD" tvg-logo="" group-title="Canais Alternativos",_Syfy FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13771
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13771
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy HD" tvg-logo="" group-title="Canais Alternativos",_Syfy HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13770
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13770
 #EXTINF:-1 tvg-id="" tvg-name="_TBS" tvg-logo="" group-title="Canais Alternativos",_TBS
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13769
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13769
 #EXTINF:-1 tvg-id="" tvg-name="_TBS FullHD" tvg-logo="" group-title="Canais Alternativos",_TBS FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13767
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13767
 #EXTINF:-1 tvg-id="" tvg-name="_TBS HD" tvg-logo="" group-title="Canais Alternativos",_TBS HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13768
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13768
 #EXTINF:-1 tvg-id="" tvg-name="_TC Action" tvg-logo="" group-title="Canais Alternativos",_TC Action
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13766
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13766
 #EXTINF:-1 tvg-id="" tvg-name="_TC Action HD" tvg-logo="" group-title="Canais Alternativos",_TC Action HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13765
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13765
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult" tvg-logo="" group-title="Canais Alternativos",_TC Cult
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13764
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13764
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult FullHD" tvg-logo="" group-title="Canais Alternativos",_TC Cult FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13763
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13763
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult HD" tvg-logo="" group-title="Canais Alternativos",_TC Cult HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13762
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13762
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun" tvg-logo="" group-title="Canais Alternativos",_TC Fun
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13761
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13761
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun FullHD" tvg-logo="" group-title="Canais Alternativos",_TC Fun FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13760
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13760
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun HD" tvg-logo="" group-title="Canais Alternativos",_TC Fun HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13759
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13759
 #EXTINF:-1 tvg-id="" tvg-name="_TC Pipoca" tvg-logo="" group-title="Canais Alternativos",_TC Pipoca
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13758
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13758
 #EXTINF:-1 tvg-id="" tvg-name="_TC Pipoca HD" tvg-logo="" group-title="Canais Alternativos",_TC Pipoca HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13757
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13757
 #EXTINF:-1 tvg-id="" tvg-name="_TC Premium" tvg-logo="" group-title="Canais Alternativos",_TC Premium
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13756
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13756
 #EXTINF:-1 tvg-id="" tvg-name="_TC Premium HD" tvg-logo="" group-title="Canais Alternativos",_TC Premium HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13755
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13755
 #EXTINF:-1 tvg-id="" tvg-name="_TC Touch" tvg-logo="" group-title="Canais Alternativos",_TC Touch
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13754
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13754
 #EXTINF:-1 tvg-id="" tvg-name="_TC Touch HD" tvg-logo="" group-title="Canais Alternativos",_TC Touch HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13753
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13753
 #EXTINF:-1 tvg-id="" tvg-name="_TCM" tvg-logo="" group-title="Canais Alternativos",_TCM
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13752
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13752
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Action FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Action FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13751
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13751
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Pipoca FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Pipoca FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13750
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13750
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Premium FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Premium FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13749
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13749
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Touch FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Touch FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13748
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13748
 #EXTINF:-1 tvg-id="" tvg-name="_Terra Viva" tvg-logo="" group-title="Canais Alternativos",_Terra Viva
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13747
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13747
 #EXTINF:-1 tvg-id="" tvg-name="_TLC" tvg-logo="" group-title="Canais Alternativos",_TLC
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13746
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13746
 #EXTINF:-1 tvg-id="" tvg-name="_TLC FullHD" tvg-logo="" group-title="Canais Alternativos",_TLC FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13745
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13745
 #EXTINF:-1 tvg-id="" tvg-name="_TLC HD" tvg-logo="" group-title="Canais Alternativos",_TLC HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13744
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13744
 #EXTINF:-1 tvg-id="" tvg-name="_TNT" tvg-logo="" group-title="Canais Alternativos",_TNT
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13743
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13743
 #EXTINF:-1 tvg-id="" tvg-name="_TNT FullHD" tvg-logo="" group-title="Canais Alternativos",_TNT FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13741
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13741
 #EXTINF:-1 tvg-id="" tvg-name="_TNT HD" tvg-logo="" group-title="Canais Alternativos",_TNT HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13742
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13742
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series" tvg-logo="" group-title="Canais Alternativos",_TNT Series
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13740
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13740
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series FullHD" tvg-logo="" group-title="Canais Alternativos",_TNT Series FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13738
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13738
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series HD" tvg-logo="" group-title="Canais Alternativos",_TNT Series HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13739
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13739
 #EXTINF:-1 tvg-id="" tvg-name="_Tooncast" tvg-logo="" group-title="Canais Alternativos",_Tooncast
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13737
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13737
 #EXTINF:-1 tvg-id="" tvg-name="_Tru TV" tvg-logo="" group-title="Canais Alternativos",_Tru TV
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13736
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13736
 #EXTINF:-1 tvg-id="" tvg-name="_TV Anhanguera GO" tvg-logo="" group-title="Canais Alternativos",_TV Anhanguera GO
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13735
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13735
 #EXTINF:-1 tvg-id="" tvg-name="_TV Aparecida" tvg-logo="" group-title="Canais Alternativos",_TV Aparecida
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13734
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13734
 #EXTINF:-1 tvg-id="" tvg-name="_TV Brasil" tvg-logo="" group-title="Canais Alternativos",_TV Brasil
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13733
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13733
 #EXTINF:-1 tvg-id="" tvg-name="_TV Centro America Cuiaba" tvg-logo="" group-title="Canais Alternativos",_TV Centro America Cuiaba
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13732
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13732
 #EXTINF:-1 tvg-id="" tvg-name="_TV Cultura" tvg-logo="" group-title="Canais Alternativos",_TV Cultura
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13731
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13731
 #EXTINF:-1 tvg-id="" tvg-name="_TV Futura" tvg-logo="" group-title="Canais Alternativos",_TV Futura
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13730
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13730
 #EXTINF:-1 tvg-id="" tvg-name="_TV Liberal Belem" tvg-logo="" group-title="Canais Alternativos",_TV Liberal Belem
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13729
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13729
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Bauru" tvg-logo="" group-title="Canais Alternativos",_TV Tem Bauru
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13728
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13728
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Sao Jose do Rio Preto" tvg-logo="" group-title="Canais Alternativos",_TV Tem Sao Jose do Rio Preto
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13727
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13727
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Sorocaba" tvg-logo="" group-title="Canais Alternativos",_TV Tem Sorocaba
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13726
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13726
 #EXTINF:-1 tvg-id="" tvg-name="_TV Vanguarda Sao Jose dos Campos" tvg-logo="" group-title="Canais Alternativos",_TV Vanguarda Sao Jose dos Campos
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13725
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13725
 #EXTINF:-1 tvg-id="" tvg-name="_TV Verdes mares" tvg-logo="" group-title="Canais Alternativos",_TV Verdes mares
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13724
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13724
 #EXTINF:-1 tvg-id="" tvg-name="_TVE" tvg-logo="" group-title="Canais Alternativos",_TVE
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13723
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13723
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel" tvg-logo="" group-title="Canais Alternativos",_Universal Channel
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13722
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13722
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Universal Channel FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13720
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13720
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel HD" tvg-logo="" group-title="Canais Alternativos",_Universal Channel HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13721
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13721
 #EXTINF:-1 tvg-id="" tvg-name="_Venus" tvg-logo="" group-title="Canais Alternativos",_Venus
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13719
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13719
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 FullHD" tvg-logo="" group-title="Canais Alternativos",_VH1 FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13718
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13718
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 HD" tvg-logo="" group-title="Canais Alternativos",_VH1 HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13717
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13717
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 Mega Hits" tvg-logo="" group-title="Canais Alternativos",_VH1 Mega Hits
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13716
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13716
 #EXTINF:-1 tvg-id="" tvg-name="_Viva" tvg-logo="" group-title="Canais Alternativos",_Viva
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13715
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13715
 #EXTINF:-1 tvg-id="" tvg-name="_Viva FullHD" tvg-logo="" group-title="Canais Alternativos",_Viva FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13713
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13713
 #EXTINF:-1 tvg-id="" tvg-name="_Viva HD" tvg-logo="" group-title="Canais Alternativos",_Viva HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13714
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13714
 #EXTINF:-1 tvg-id="" tvg-name="_Warner Channel" tvg-logo="" group-title="Canais Alternativos",_Warner Channel
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13712
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13712
 #EXTINF:-1 tvg-id="" tvg-name="_Warner FullHD" tvg-logo="" group-title="Canais Alternativos",_Warner FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13710
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13710
 #EXTINF:-1 tvg-id="" tvg-name="_Warner HD" tvg-logo="" group-title="Canais Alternativos",_Warner HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13711
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13711
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo" tvg-logo="" group-title="Canais Alternativos",_Woohoo
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13709
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13709
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo FullHD" tvg-logo="" group-title="Canais Alternativos",_Woohoo FullHD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13708
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13708
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo HD" tvg-logo="" group-title="Canais Alternativos",_Woohoo HD
-http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13707
+http://lista.iptvcs.eu:80/hdsedit/hdsedit/13707
+#EXTINF:-1 tvg-id="" tvg-name="4k - Bumblebee" tvg-logo="https://image.tmdb.org/t/p/w1280/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="4K",4k - Bumblebee
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Creed II" tvg-logo="https://image.tmdb.org/t/p/w1280/6fzyU1Mb7mbzcB2xFQc54bO3JDX.jpg" group-title="4K",4k - Creed II
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Máquinas Mortais" tvg-logo="https://image.tmdb.org/t/p/w1280/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" group-title="4K",4k - Máquinas Mortais
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - O Grinch" tvg-logo="https://image.tmdb.org/t/p/w1280/fDKfziciaKrdTzBZEnXH9tx6u2G.jpg" group-title="4K",4k - O Grinch
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - O Primeiro Homem" tvg-logo="https://image.tmdb.org/t/p/w1280/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" group-title="4K",4k - O Primeiro Homem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - O Quebra-Nozes e os Quatro Reinos" tvg-logo="https://image.tmdb.org/t/p/w1280/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="4K",4k - O Quebra-Nozes e os Quatro Reinos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Robin Hood: A Origem" tvg-logo="https://image.tmdb.org/t/p/w1280/mSlnp6REiluUxL0Xa628iWw5NJm.jpg" group-title="4K",4k - Robin Hood: A Origem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - WiFi Ralph – Quebrando a Internet" tvg-logo="https://image.tmdb.org/t/p/w1280/8aaXBBT5Hwo7Oab8wyNyoN7z7mg.jpg" group-title="4K",4k - WiFi Ralph – Quebrando a Internet
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Aquaman" tvg-logo="https://image.tmdb.org/t/p/w1280/uCg2HPY7rBCrh1YGpXam9LH1xKZ.jpg" group-title="4K",4k - Aquaman
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leal, só existe uma maneira de viver" tvg-logo="https://image.tmdb.org/t/p/w1280/qRhycSTyRJX0VwAm10fNuzUc0iX.jpg" group-title="Lançamentos",Leal, só existe uma maneira de viver
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Uma Babá Muito Esquisita" tvg-logo="https://image.tmdb.org/t/p/w1280/qmVSmuiWPgHkv8uDOrLn9nGLysI.jpg" group-title="Lançamentos",Luccas Neto em: Uma Babá Muito Esquisita
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Massacre na Ucrânia" tvg-logo="https://image.tmdb.org/t/p/w1280/mgHl5QA4LWpxJ4IlAylLeS59HoT.jpg" group-title="Lançamentos",Massacre na Ucrânia
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Agente Secreto de Bixler" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjHb3aiiF1RSSSoMFZai2vh0N1W.jpg" group-title="Lançamentos",O Agente Secreto de Bixler
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Privacidade Violada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktOZN9MHulk7xnC0XsEpPCafEpm.jpg" group-title="Lançamentos",Privacidade Violada
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spinning Man: Em Busca da Verdade" tvg-logo="https://image.tmdb.org/t/p/w1280/h2Fkn4pG44GpxXyhSTsk6TpjGG8.jpg" group-title="Lançamentos",Spinning Man: Em Busca da Verdade
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Balkan Line" tvg-logo="https://image.tmdb.org/t/p/w1280/Aa8E4h9aWww1iJi9bCHYMz2PFzK.jpg" group-title="Lançamentos",The Balkan Line
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contos Macabros 2" tvg-logo="https://image.tmdb.org/t/p/w1280/jhOWgadxFxEwCSpA0263tJwRN9x.jpg" group-title="Lançamentos",Contos Macabros 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Príncipe" tvg-logo="https://image.tmdb.org/t/p/w1280/pMxqWNGCDeS4Y0b4INXA49baY0X.jpg" group-title="Lançamentos",Era Uma Vez Um Príncipe
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jo Pil-ho - O Despertar da Ira" tvg-logo="https://image.tmdb.org/t/p/w1280/hba1qQ4Jon4fmCkylfzDrdbBcAo.jpg" group-title="Lançamentos",Jo Pil-ho - O Despertar da Ira
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Minhas Famílias" tvg-logo="https://image.tmdb.org/t/p/w1280/4Dx1PAOPqwHPESFAAVnRFzGYPjF.jpg" group-title="Lançamentos",Minhas Famílias
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Último Verão" tvg-logo="https://image.tmdb.org/t/p/w1280/AqFUYtRJimLwDg5RwQnjYE8Tflo.jpg" group-title="Lançamentos",Nosso Último Verão
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Outro Pai" tvg-logo="https://image.tmdb.org/t/p/w1280/1GH4KCS8IgWcDt5toXYFYX5AmX4.jpg" group-title="Lançamentos",O Outro Pai
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Davi" tvg-logo="https://image.tmdb.org/t/p/w1280/hEfFkvBxBNs6m4lJJjsdws7j1Yt.jpg" group-title="Lançamentos",O Segredo de Davi
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quarteto Amigo" tvg-logo="https://image.tmdb.org/t/p/w1280/ix6shcuHnwlIYIWp3Kg3UTiCQWK.jpg" group-title="Lançamentos",Quarteto Amigo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Querida Mamãe" tvg-logo="https://image.tmdb.org/t/p/w1280/m5KGfJZqj7NlnOS5F5DfI2M03cU.jpg" group-title="Lançamentos",Querida Mamãe
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sai de Baixo - O Filme" tvg-logo="https://image.tmdb.org/t/p/w1280/30L6WkIEW2ipB9OHKGkmiY9YDp0.jpg" group-title="Lançamentos",Sai de Baixo - O Filme
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Aventura Perigosa" tvg-logo="https://image.tmdb.org/t/p/w1280/eFWkO1a1HPdyuUOKncjzPdeQdj5.jpg" group-title="Lançamentos",Uma Aventura Perigosa
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="White Boy Rick" tvg-logo="https://image.tmdb.org/t/p/w1280/l15r2aLqdifXM9GFsJLkOq5Y8SI.jpg" group-title="Lançamentos",White Boy Rick
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce Uma Estrela" tvg-logo="https://image.tmdb.org/t/p/w1280/iM8VviCrpCjCMrZTbIOKYyhZMXX.jpg" group-title="Lançamentos",Nasce Uma Estrela
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela Pop" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cqyRlLap9kkej7iDMvu1xfl783.jpg" group-title="Lançamentos",Cinderela Pop
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poderia Me Perdoar?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FcFLK1Cb4x3KDCjjpBPJuRWb7T.jpg" group-title="Lançamentos",Poderia Me Perdoar?
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Serviço Secreto Americano: Bastidores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UBiZJMIXL88eENbkNmPOHjHKVf.jpg" group-title="Lançamentos",Serviço Secreto Americano: Bastidores
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vidro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8rvXqqZ3hzrWfFGS47jU7sCx69.jpg" group-title="Lançamentos",Vidro
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato (CAM)" tvg-logo="https://image.tmdb.org/t/p/w1280/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" group-title="Lançamentos",Vingadores: Ultimato (CAM)
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máquina De Lembranças" tvg-logo="https://image.tmdb.org/t/p/w1280/vZ3CUbcm17EXsO0k3Clv378hkqs.jpg" group-title="Lançamentos",A Máquina De Lembranças
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Outra Filha" tvg-logo="https://image.tmdb.org/t/p/w1280/namdEEjsOYc3L3YkGpVo4UfNpIA.jpg" group-title="Lançamentos",A Outra Filha
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ternura" tvg-logo="https://image.tmdb.org/t/p/w1280/yNODwniLY1Qibh05KBg92nL3rFS.jpg" group-title="Lançamentos",A Ternura
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alguém Especial" tvg-logo="https://image.tmdb.org/t/p/w1280/h0nz5lIBXeUZChBNfwL08bLWQaU.jpg" group-title="Lançamentos",Alguém Especial
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Para Sempre" tvg-logo="https://image.tmdb.org/t/p/w1280/lYv3Mwm3t7FWEMli8ASMIhZBUBC.jpg" group-title="Lançamentos",Amigos Para Sempre
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Carta Proibida" tvg-logo="https://image.tmdb.org/t/p/w1280/knrIT27GVsP2gUDOVS4kUo0b6ie.jpg" group-title="Lançamentos",Em Busca da Carta Proibida
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Golpe de Risco" tvg-logo="https://image.tmdb.org/t/p/w1280/sj7HObBVndfmt23nNauOBgk3kv4.jpg" group-title="Lançamentos",Golpe de Risco
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça vs. os Cinco Fatais" tvg-logo="https://image.tmdb.org/t/p/w1280/wGUGI6zPSXYx9eUxaoihEXO5mf2.jpg" group-title="Lançamentos",Liga da Justiça vs. os Cinco Fatais
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Bala" tvg-logo="https://image.tmdb.org/t/p/w1280/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg" group-title="Lançamentos",Miss Bala
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nada Santo" tvg-logo="https://image.tmdb.org/t/p/w1280/s1g3IvOQC5GPRw0VO8Fc5Q2o7Vi.jpg" group-title="Lançamentos",Nada Santo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Olhe" tvg-logo="https://image.tmdb.org/t/p/w1280/9YTo6qopN0ACZ1dDSWnN6A743mi.jpg" group-title="Lançamentos",Não Olhe
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Queria Ser Rei" tvg-logo="https://image.tmdb.org/t/p/w1280/lfgkquim6jBTtw9amKH5lBB4hUS.jpg" group-title="Lançamentos",O Menino que Queria Ser Rei
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Peso do Passado" tvg-logo="https://image.tmdb.org/t/p/w1280/8dAm1rnW47vWe26z9ev8qYPyb7r.jpg" group-title="Lançamentos",O Peso do Passado
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paixão Real" tvg-logo="https://image.tmdb.org/t/p/w1280/bWJpIIXSymyJgaMeqAw98rAY50w.jpg" group-title="Lançamentos",Paixão Real
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Se Eu Fosse um Homem" tvg-logo="https://image.tmdb.org/t/p/w1280/oczz95q8XRX6a7LtIxtlw2hr396.jpg" group-title="Lançamentos",Se Eu Fosse um Homem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Summer: Descobrindo O Meu Lugar" tvg-logo="https://image.tmdb.org/t/p/w1280/sbS1rn04lQ8eRZxl2v3sIs6vX4Y.jpg" group-title="Lançamentos",Summer: Descobrindo O Meu Lugar
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tinta Bruta" tvg-logo="https://image.tmdb.org/t/p/w1280/6zW8OKgJKaO5JHzZe6geZd2vpgT.jpg" group-title="Lançamentos",Tinta Bruta
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Silence" tvg-logo="https://image.tmdb.org/t/p/w1280/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="Lançamentos",The Silence
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toda Arte é Perigosa" tvg-logo="https://image.tmdb.org/t/p/w1280/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="Lançamentos",Toda Arte é Perigosa
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem de Sorte" tvg-logo="https://image.tmdb.org/t/p/w1280/bka5V6BESl3BH60a1TDBfWg1clb.jpg" group-title="Lançamentos",Um Homem de Sorte
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vice" tvg-logo="https://image.tmdb.org/t/p/w1280/1gCab6rNv1r6V64cwsU4oEr649Y.jpg" group-title="Lançamentos",Vice
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/14070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Vida" tvg-logo="https://image.tmdb.org/t/p/w1280/vFOkbTAUdST5YC1jORfilcrgE4p.jpg" group-title="Lançamentos",Além da Vida
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Boy Erased: Uma Verdade Anulada" tvg-logo="https://image.tmdb.org/t/p/w1280/aMGE7URu5EDZhwhgzP52pGZ8Gkb.jpg" group-title="Lançamentos",Boy Erased: Uma Verdade Anulada
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Mais Eu" tvg-logo="https://image.tmdb.org/t/p/w1280/pcLnBatAjkrcFz2VcyWlDKRrwxq.jpg" group-title="Lançamentos",Eu Sou Mais Eu
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Marjorie Prime" tvg-logo="https://image.tmdb.org/t/p/w1280/rvTZFjcNvzPFYJnmdrvSrGvqx67.jpg" group-title="Lançamentos",Marjorie Prime
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Date Perfeito" tvg-logo="https://image.tmdb.org/t/p/w1280/7VgJ8YiDZGwAcBKRKHN3O2n9E9H.jpg" group-title="Lançamentos",O Date Perfeito
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Perfeito" tvg-logo="https://image.tmdb.org/t/p/w1280/A7cZjJDYmHUFYmbIFJmPuOrNgMw.jpg" group-title="Lançamentos",O Homem Perfeito
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Horror Entre Nós" tvg-logo="https://image.tmdb.org/t/p/w1280/zTIGZT0OMYLavX7vexRx72Zt8Ks.jpg" group-title="Lançamentos",O Horror Entre Nós
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro: Estrada do Caos" tvg-logo="https://image.tmdb.org/t/p/w1280/2YYxSzOq66PEOppuQ2XxWm0QRDf.jpg" group-title="Lançamentos",O Justiceiro: Estrada do Caos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paciente - O Caso Tancredo Neves" tvg-logo="https://image.tmdb.org/t/p/w1280/iZtAl68tBaZGX0FA3g8Pgzsw3k1.jpg" group-title="Lançamentos",O Paciente - O Caso Tancredo Neves
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno de Mary Poppins" tvg-logo="https://image.tmdb.org/t/p/w1280/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" group-title="Lançamentos",O Retorno de Mary Poppins
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Silêncio" tvg-logo="https://image.tmdb.org/t/p/w1280/lTVOquzxw2DPF3MKuYd1ynz9F6H.jpg" group-title="Lançamentos",O Silêncio
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Soldado de Cristo" tvg-logo="https://image.tmdb.org/t/p/w1280/yx2Tgzrq20sMjrX5lLnpi5LZnW.jpg" group-title="Lançamentos",O Soldado de Cristo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Desejo" tvg-logo="https://image.tmdb.org/t/p/w1280/djXXkS8UiC3QjltM6X16qAUEFy8.jpg" group-title="Lançamentos",O Último Desejo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pegue a Bola, Passe a Bola" tvg-logo="https://image.tmdb.org/t/p/w1280/8B8mP53hPGPRCbFm72hcg1wz0RM.jpg" group-title="Lançamentos",Pegue a Bola, Passe a Bola
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Você Levaria para uma Ilha Deserta?" tvg-logo="https://image.tmdb.org/t/p/w1280/f4mNHOpEbx68j0yaNdme6b07WPC.jpg" group-title="Lançamentos",Quem Você Levaria para uma Ilha Deserta?
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Refém do Jogo" tvg-logo="https://image.tmdb.org/t/p/w1280/bz7B6nWgVDTvTgnlJBjUihAT9VG.jpg" group-title="Lançamentos",Refém do Jogo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sala de Fuga" tvg-logo="https://image.tmdb.org/t/p/w1280/3ApAYunUxbwATtBmhLljknd9A3j.jpg" group-title="Lançamentos",Sala de Fuga
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexo, Música e Amor" tvg-logo="https://image.tmdb.org/t/p/w1280/2A0udDaAgWyJdZBYQC3aPZvjx9M.jpg" group-title="Lançamentos",Sexo, Música e Amor
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Status Update: Perfil dos Sonhos" tvg-logo="https://image.tmdb.org/t/p/w1280/htMuH2YHr6tOWghIMo3lO0QgfwY.jpg" group-title="Lançamentos",Status Update: Perfil dos Sonhos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Capitalismo" tvg-logo="https://image.tmdb.org/t/p/w1280/zXIWQoHWyZrFzsDDqVoDg92BItT.jpg" group-title="Lançamentos",Um Novo Capitalismo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Babá" tvg-logo="https://image.tmdb.org/t/p/w1280/qQyd4tdHyN692OWa97cSaL0z7Pp.jpg" group-title="Lançamentos",A Babá
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Qualquer Custo" tvg-logo="https://image.tmdb.org/t/p/w1280/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg" group-title="Lançamentos",A Qualquer Custo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Química do Amor" tvg-logo="https://image.tmdb.org/t/p/w1280/prryQfaBh5rlSjMaOmokpK428YA.jpg" group-title="Lançamentos",A Química do Amor
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee" tvg-logo="https://image.tmdb.org/t/p/w1280/lvvjiaT8ThcZGuf4NGzia4OX7by.jpg" group-title="Lançamentos",Bumblebee
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Casa das Trevas 2" tvg-logo="https://image.tmdb.org/t/p/w1280/ylMdiIu3CGFHd3yvvd0DqHTKcCl.jpg" group-title="Lançamentos",Casa das Trevas 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra contra Aliens" tvg-logo="https://image.tmdb.org/t/p/w1280/ri3zFC4E70j321qNPnO3LWYqTDU.jpg" group-title="Lançamentos",Guerra contra Aliens
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holmes e Watson" tvg-logo="https://image.tmdb.org/t/p/w1280/gbpZRWqQ2Zb5Zv88DstxTfJJ4nG.jpg" group-title="Lançamentos",Holmes e Watson
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loja de Unicórnios" tvg-logo="https://image.tmdb.org/t/p/w1280/sPi4SFZceSRD3Il9QiIDG6niTcT.jpg" group-title="Lançamentos",Loja de Unicórnios
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nancy Drew e a Escada Secreta" tvg-logo="https://image.tmdb.org/t/p/w1280/vOybq1uLJr6oDc7omLcU4yflD0e.jpg" group-title="Lançamentos",Nancy Drew e a Escada Secreta
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terapia de Casais para Amantes" tvg-logo="https://image.tmdb.org/t/p/w1280/5yyYbzycVPZagZY4CiJKZ2eIMcs.jpg" group-title="Lançamentos",Terapia de Casais para Amantes
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tito e os Pássaros" tvg-logo="https://image.tmdb.org/t/p/w1280/3ymTnRmZ9F7WICOAmYNMECF7bgQ.jpg" group-title="Lançamentos",Tito e os Pássaros
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição da Casa Winchester" tvg-logo="https://image.tmdb.org/t/p/w1280/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg" group-title="Lançamentos",A Maldição da Casa Winchester
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Direção Explosiva" tvg-logo="https://image.tmdb.org/t/p/w1280/m2o0EnLjpj83pn3JPxykSmzyqlf.jpg" group-title="Lançamentos",Direção Explosiva
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estrada Sem Lei" tvg-logo="https://image.tmdb.org/t/p/w1280/2RZSE3RgHuc6kTbbF5Pt0ODUcTM.jpg" group-title="Lançamentos",Estrada Sem Lei
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justiça - Entre a Lei e a Vingança" tvg-logo="https://image.tmdb.org/t/p/w1280/vqV3qlspRr2C87EeZQdoTSh8SSy.jpg" group-title="Lançamentos",Justiça - Entre a Lei e a Vingança
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/13669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coragem para Vencer" tvg-logo="https://image.tmdb.org/t/p/w1280/eAtkibhtvRBGrwRNraaqhrbEhV8.jpg" group-title="Lançamentos",Coragem para Vencer
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diamantino" tvg-logo="https://image.tmdb.org/t/p/w1280/117D3T2Utd0wQ9H4aikFx5YOZ7B.jpg" group-title="Lançamentos",Diamantino
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kevin Hart's Guide to Black History" tvg-logo="https://image.tmdb.org/t/p/w1280/iQwffy1qLo1JPudjPO5TQGQX9QX.jpg" group-title="Lançamentos",Kevin Hart's Guide to Black History
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita: Anjo de Combate" tvg-logo="https://image.tmdb.org/t/p/w1280/IRCVlGKsuOsYRfPPb3jS9IC7Gi.jpg" group-title="Lançamentos",Alita: Anjo de Combate
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Andar Montar Rodeio - A Virada de Amberley" tvg-logo="https://image.tmdb.org/t/p/w1280/1QTtPymPoq97vfZ2mVN0siOHUKs.jpg" group-title="Lançamentos",Andar Montar Rodeio - A Virada de Amberley
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitã Marvel CAM" tvg-logo="https://image.tmdb.org/t/p/w1280/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" group-title="Lançamentos",Capitã Marvel CAM
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso" tvg-logo="https://image.tmdb.org/t/p/w1280/7UdaomOzRFcbacOudLZOF66Gf7s.jpg" group-title="Lançamentos",Homem-Aranha no Aranhaverso
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrado Na Klan" tvg-logo="https://image.tmdb.org/t/p/w1280/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg" group-title="Lançamentos",Infiltrado Na Klan
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juanita" tvg-logo="https://image.tmdb.org/t/p/w1280/yKq6LErlgWizCtl3DcdYv86xn2e.jpg" group-title="Lançamentos",Juanita
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mademoiselle Vingança" tvg-logo="https://image.tmdb.org/t/p/w1280/4gw8Ji21F2IWvYFtUDAlehXRaYS.jpg" group-title="Lançamentos",Mademoiselle Vingança
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Muito Louca" tvg-logo="https://image.tmdb.org/t/p/w1280/7YhNFikjEMT0Mir3hBLpSja268Y.jpg" group-title="Lançamentos",Muito Louca
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Se Aceitam Devoluções" tvg-logo="https://image.tmdb.org/t/p/w1280/ocMJzXWaib4CY5DmGAd7nywycUq.jpg" group-title="Lançamentos",Não Se Aceitam Devoluções
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Caminho Difícil" tvg-logo="https://image.tmdb.org/t/p/w1280/sjuQ6jUMZ76ynaEvP0pCRxYSTSm.jpg" group-title="Lançamentos",O Caminho Difícil
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Clube dos Canibais" tvg-logo="https://image.tmdb.org/t/p/w1280/hR7v2W9yQ0H6RAtOmj8sUPnGsP2.jpg" group-title="Lançamentos",O Clube dos Canibais
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Fronteira" tvg-logo="https://image.tmdb.org/t/p/w1280/2KfhMmTMNAj3NehyhrYtadDO7yc.jpg" group-title="Lançamentos",Operação Fronteira
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piranha Sharks" tvg-logo="https://image.tmdb.org/t/p/w1280/iwukU7nUUNfdxIQwOfM4kZ40LGz.jpg" group-title="Lançamentos",Piranha Sharks
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cadáver" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwf7FawiYVwnaP8S6ReLLziqWmj.jpg" group-title="Lançamentos",Cadáver
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encantado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ald14y0ZsUTweVkwJgNzFEb0O5X.jpg" group-title="Lançamentos",Encantado
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRhycSTyRJX0VwAm10fNuzUc0iX.jpg" group-title="Lançamentos",Leal
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lego Jurassic World: A Exposição Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rLoz0MmJRjijq2W5VgWHx40G5R.jpg" group-title="Lançamentos",Lego Jurassic World: A Exposição Secreta
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Megarrromântico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lbf70P9CtByxxYuHFgusmostqvX.jpg" group-title="Lançamentos",Megarrromântico
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Menino que Descobriu o Vento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZofpz4gmiH7MQAYWrgvTtdIq3l.jpg" group-title="Lançamentos",O Menino que Descobriu o Vento
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velocidade Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbUuMnQPrNpSNPkUwM7WaX6fVit.jpg" group-title="Lançamentos",Velocidade Mortal
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor em Little Italy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjcynieK2PzZNmhTzfD3X9Avzqo.jpg" group-title="Lançamentos",Amor em Little Italy
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRomjtoVqEZRjDHgLNvtj7c8ixG.jpg" group-title="Lançamentos",Elle
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em seu lugar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4vCOdWyC3lSEN3B5SKczsFBSCo.jpg" group-title="Lançamentos",Em seu lugar
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Duelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3TyqdywjVQPUBEXiAjXDqMa7OY.jpg" group-title="Lançamentos",O Último Duelo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Cantará as suas Canções?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmV5TX3IYy7NEd6WEHgpnM6VLZx.jpg" group-title="Lançamentos",Quem Cantará as suas Canções?
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood - A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSlnp6REiluUxL0Xa628iWw5NJm.jpg" group-title="Lançamentos",Robin Hood - A Origem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Viúvas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sv5VlJp6qwZpHNl69C6bqCSkGY.jpg" group-title="Lançamentos",As Viúvas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lukas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBx1mN8jucJ2bsXq9SC3kdB5tEl.jpg" group-title="Lançamentos",Lukas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Novo Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KTHFrDQx4nXfxaIO4jhPMgBwo7.jpg" group-title="Lançamentos",Um Novo Mundo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WiFi Ralph – Quebrando a Internet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4T82gdvDNOulemY3Ib4NfdeVZD1.jpg" group-title="Lançamentos",WiFi Ralph – Quebrando a Internet
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crianças Malignas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1p97nVyLE11CwYwbkCChF05pYLR.jpg" group-title="Lançamentos",Crianças Malignas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De Repente uma Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMh9FdmUHTpwYfv3NGN1h2HhMQi.jpg" group-title="Lançamentos",De Repente uma Família
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paddleton" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtssTSvNgY8132hPRtp1DbciYJ6.jpg" group-title="Lançamentos",Paddleton
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte Te Dá Parabéns 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVZpjvPfP01kIxHGfWMOCtMBdBH.jpg" group-title="Lançamentos",A Morte Te Dá Parabéns 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAISjRmesIM3mT1YAYZva7tgfDO.jpg" group-title="Lançamentos",Aquaman
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até que a Gente te Separe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQdA3YhX1pTpoqr3rBrT5v2DqYl.jpg" group-title="Lançamentos",Até que a Gente te Separe
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caçadora de Gigantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvit6HDbXHE6W5kGPd47jd0wthQ.jpg" group-title="Lançamentos",Caçadora de Gigantes
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colette" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGiUIkcTOEn2CwE5CUBFxWkcyxO.jpg" group-title="Lançamentos",Colette
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" group-title="Lançamentos",Creed II
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detetives do Prédio Azul 2 - O Mistério Italiano" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLJpPkLUbH2xiHn6onKQ0D0Y7fA.jpg" group-title="Lançamentos",Detetives do Prédio Azul 2 - O Mistério Italiano
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovem e Bela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dYpQaaTVq59KQMTkjgrMQrwwEr.jpg" group-title="Drama",Jovem e Bela
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mandy: Sede de Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSruOTrU6rnEZbAutI7iBNry39y.jpg" group-title="Lançamentos",Mandy: Sede de Vingança
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Despertar De Um Assassino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkWk7Jl3vCGPG56rmJfFurtTMbh.jpg" group-title="Lançamentos",O Despertar De Um Assassino
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Fotógrafo De Mauthausen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDNPB2D9tLxzJRnHnT5aJhffojw.jpg" group-title="Lançamentos",O Fotógrafo De Mauthausen
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Papillon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rP0G0PeT97uOQipQaMysoQ4Idr.jpg" group-title="Lançamentos",Papillon
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pelas Ruas de Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZOncxdzlMtgKKZOw0G1HwT3jQf.jpg" group-title="Lançamentos",Pelas Ruas de Paris
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relações de Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofY9Va4ezV0Y8Q9iSkicL5Xpu0B.jpg" group-title="Lançamentos",Relações de Família
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexy por Acidente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAVxVGlxWFOV9ae4hPh9eau2PDk.jpg" group-title="Lançamentos",Sexy por Acidente
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Homem Comum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1JxuEwEufGqNAPJj7Tbk2pYGqh.jpg" group-title="Lançamentos",Um Homem Comum
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Nova Chance" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uA27XpN136dBkexULs9kNg9OiGQ.jpg" group-title="Lançamentos",Uma Nova Chance
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yonlu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC37olnhFKTwz36LVOelBNwInzv.jpg" group-title="Lançamentos",Yonlu
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoo: Uma Amizade Maior que a Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IyM08kfgW3iMThfJLSOcURgGvN.jpg" group-title="Lançamentos",Zoo: Uma Amizade Maior que a Vida
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Deadpool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65VYdV3W7rDlfIjoCjVBFalCreZ.jpg" group-title="Lançamentos",Era Uma Vez Um Deadpool
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Siembamba: A Canção do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAxA7PqMyMiTQhMUVkXmTGvuJiV.jpg" group-title="Lançamentos",Siembamba: A Canção do Mal
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Sereia - Lago Dos Mortos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvK1NTrVQHOU1aSiflh2rVQjmo9.jpg" group-title="Lançamentos",A Sereia - Lago Dos Mortos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altitude" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88174XWBUb6gAg72WR300BJnsAc.jpg" group-title="Lançamentos",Altitude
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ánimas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iNUtVMu4w7pms8UfOPDiDNL6Fq.jpg" group-title="Lançamentos",Ánimas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bethany" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqJtJwTlzC6SfPTlGj4UXeJ35CV.jpg" group-title="Lançamentos",Bethany
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bohemian Rhapsody" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg" group-title="Lançamentos",Bohemian Rhapsody
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Born Racer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArytU7HSgxNfqOW5rdRgp9jMm2m.jpg" group-title="Lançamentos",Born Racer
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela e o Príncipe Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcJI4Aw5NqnJxF7qRmziGpKIgbs.jpg" group-title="Lançamentos",Cinderela e o Príncipe Secreto
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Circus Kane - O Circo dos Horrores" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSAJBZ1Q5k2LnP1p4oWJy16UrRr.jpg" group-title="Lançamentos",Circus Kane - O Circo dos Horrores
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Close" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kjUGqPIv6kpxJUvjmeQX7nQpKd.jpg" group-title="Lançamentos",Close
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fúria em Alto Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ral7cnZBQZGFmGaJUxrpcY8Xj3l.jpg" group-title="Lançamentos",Fúria em Alto Mar
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXs0zkv2iGVViZEy78teg2ycDBm.jpg" group-title="Lançamentos",Halloween
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="High Flying Bird" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ccE21xixa1zhkGtWDr4n8ReOp40.jpg" group-title="Lançamentos",High Flying Bird
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem ao Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5IBg0AEZR6roN1nOrDVIXbkis6.jpg" group-title="Lançamentos",Homem ao Mar
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iceman 2 - O Viajante do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGXENd8fkaKPQbQw3U8GnWYeUou.jpg" group-title="Lançamentos",Iceman 2 - O Viajante do Tempo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intimidade Entre Estranhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Mp4GzC6LlTySlwy7nC7A5QqjTc.jpg" group-title="Lançamentos",Intimidade Entre Estranhos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kronos: O Fim Da Humanidade?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAlGYFGssx7BoWtAPsz76uYCPWG.jpg" group-title="Lançamentos",Kronos: O Fim Da Humanidade?
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Melhores A(m)igos: Volume 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOj6rXKsvZU62cX4pVWyX33ibdR.jpg" group-title="Lançamentos",Melhores A(m)igos: Volume 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Millennium: A Garota na Teia de Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" group-title="Lançamentos",Millennium: A Garota na Teia de Aranha
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nosso Ex-Marido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xpdwyko6HUqWw090UvLYSsbVqy.jpg" group-title="Lançamentos",Nosso Ex-Marido
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Favorito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBMHOnNRXCwlk0Free1iEWi5Ekm.jpg" group-title="Lançamentos",O Favorito
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Circo Místico" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGb7dmGFIWSigLou8FYq8zlqF45.jpg" group-title="Lançamentos",O Grande Circo Místico
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ódio que Você Semeia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAco5hWMk0t9xOwUj0sNzdwpVSj.jpg" group-title="Lançamentos",O Ódio que Você Semeia
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequeno Spirou" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSGAjR1pm8jpKCWEqOTnstLNlCl.jpg" group-title="Lançamentos",O Pequeno Spirou
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Primeiro Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UUJHL1KRF2xSQ3b712NnM3pA6k.jpg" group-title="Lançamentos",O Primeiro Homem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Quebra-Nozes e os Quatro Reinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQziRQeYUIc9I3lVEcdwQJGy5dS.jpg" group-title="Lançamentos",O Quebra-Nozes e os Quatro Reinos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Podres de Ricos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orng9Fpa6L42U6WaXY3bS2s8n0A.jpg" group-title="Lançamentos",Podres de Ricos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quem Somos Agora" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxTfAC1pCHjLYDqAoiUVul5Hor3.jpg" group-title="Lançamentos",Quem Somos Agora
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reino do Superman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4rWHJLzM8CrsdtcTOLGY58ef4j.jpg" group-title="Lançamentos",Reino do Superman
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo e a Maldição do 13° Fantasma" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tLSOyfDnrQvhIaTKQOjpnfNCu.jpg" group-title="Lançamentos",Scooby-Doo e a Maldição do 13° Fantasma
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro Relâmpago" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5x6yP7mc5NNhJittysbb5bO0Sn.jpg" group-title="Lançamentos",Sequestro Relâmpago
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Super Tiras 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1NtEx1RiAVN1MXlbm2aAvUd1uo.jpg" group-title="Lançamentos",Super Tiras 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tudo por um Pop Star" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHpQ8X3i8vezo4EnQQPVMt7zBhP.jpg" group-title="Lançamentos",Tudo por um Pop Star
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velvet Buzzsaw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rViQPcrWthMNecp5XnkKev6BzW.jpg" group-title="Lançamentos",Velvet Buzzsaw
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Verdade Oculta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j69OwsQ7AO3Jn3roqQqQYFWIrVG.jpg" group-title="Lançamentos",Verdade Oculta
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/12418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Medo: Incidente em Ghostland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7p3JKIAwysHpZsmdINLNeVjApg.jpg" group-title="Lançamentos",A Casa do Medo: Incidente em Ghostland
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda de Wild Bill Hickok" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTmBk34zblowybsJOABe0zEz9Kz.jpg" group-title="Lançamentos",A Lenda de Wild Bill Hickok
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Alienígenas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Sj5vBlVYfykPTDJtAsY5MHy9q.jpg" group-title="Lançamentos",Amigos Alienígenas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o seu Dragão 3 - CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t8wUbgIIyRjGzYiQjSOcayCY1B.jpg" group-title="Lançamentos",Como Treinar o seu Dragão 3 - CAM
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes Na Escola" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0fSsTZpeNjMmjI2uFV69nYuwHW.jpg" group-title="Lançamentos",Crimes Na Escola
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doces ou Travessuras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fV58h19dy7Swa3oU5eY8AQCznsJ.jpg" group-title="Lançamentos",Doces ou Travessuras
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escobar: A Traição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4dbcumv4ruZRZEvsOorqnAGrRG.jpg" group-title="Lançamentos",Escobar: A Traição
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Estranha Presença" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVmABmD5jMIZwr7EFr1b3tJQu15.jpg" group-title="Lançamentos",Estranha Presença
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excelentíssimos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dE9HvKxvPb9uEoeADonKBp9PncO.jpg" group-title="Lançamentos",Excelentíssimos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ferrugem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qawq4dKbmL1PmJbLlIkWv34toe.jpg" group-title="Lançamentos",Ferrugem
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Glass" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpz1x6YLFWqWfnGD8h3lQe1ZpDT.jpg" group-title="Lançamentos",Glass
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla: O Devorador de Planetas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F2rxcQJT9OXqsnWt5TcE2fe6Fw.jpg" group-title="Lançamentos",Godzilla: O Devorador de Planetas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha no Aranhaverso - CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8JS6CPGmD2kPy0GEjsfruUtPhs.jpg" group-title="Lançamentos",Homem-Aranha no Aranhaverso - CAM
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo Desconhecido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ekKUHQCQqCoNipFRnGuOlOB3D8N.jpg" group-title="Lançamentos",Inimigo Desconhecido
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IO – O Último na Terra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utH781EwjzzXQC6fZUO3cw8L5Ht.jpg" group-title="Lançamentos",IO – O Último na Terra
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English 3.0" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XvIHDtzxr4Em9ZiAc7dg5tzTvW.jpg" group-title="Lançamentos",Johnny English 3.0
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legalize Já – Amizade Nunca Morre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76PYynOjGlGYV4h3hwfdjdqH7CG.jpg" group-title="Lançamentos",Legalize Já – Amizade Nunca Morre
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucura do Tempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBUTy63y9lFGhEDu6nknKIdJd6h.jpg" group-title="Lançamentos",Loucura do Tempo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Um Corredor Escuro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5gQEhO06EnIOjzzEBAb4WgbeTQ.jpg" group-title="Lançamentos",Por Um Corredor Escuro
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lua de Júpiter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yq55TlXbksYInqpWvDf7QckG9V.jpg" group-title="Lançamentos",Lua de Júpiter
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Professor, Minha Obsessão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrYqLuFP2s6oXvcz7tCStLFZNHQ.jpg" group-title="Lançamentos",Meu Professor, Minha Obsessão
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Chamado vs. O Grito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNqmSLlrk5f8YW4PpwmfEr0MbTT.jpg" group-title="Lançamentos",O Chamado vs. O Grito
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Defensor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPuL1DITI9UYBXt5UCqedWBtzPn.jpg" group-title="Lançamentos",O Defensor
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Doutrinador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjKlMAiJFnjdHUvZbclS0l4tYCc.jpg" group-title="Lançamentos",O Doutrinador
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon - O Filme: O Poder de Todos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JDpggW74NfM36e3vXV0aN5b7ZD.jpg" group-title="Lançamentos",Pokémon - O Filme: O Poder de Todos
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resgate no Oeste" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ks3VJSSU5qXB5nyaNmZgy0R1Py.jpg" group-title="Lançamentos",Resgate no Oeste
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonâmbula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNULWG7ESx1YCnyn5ShyXTxxJKg.jpg" group-title="Lançamentos",Sonâmbula
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Olhar de Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qB69O7n785ATuU5GRsF1K1tGijg.jpg" group-title="Lançamentos",Um Olhar de Esperança
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/9455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - A Freira" tvg-logo="https://image.tmdb.org/t/p/w1280/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" group-title="4K",4k - A Freira
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - A Morte do Superman" tvg-logo="https://image.tmdb.org/t/p/w1280/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="4K",4k - A Morte do Superman
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Alfa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbIY58MsNfwoUtMQ4GSGl2aAqP.jpg" group-title="4K",4k - Alfa
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - As Aventuras de Paddington 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zt60pTFfux6aXiHdx33a6UAkvxF.jpg" group-title="4K",4k - As Aventuras de Paddington 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Com Amor, Simon" tvg-logo="https://image.tmdb.org/t/p/w1280/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" group-title="4K",4k - Com Amor, Simon
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Deadpool 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1StH1Yye2ssizggxgH20prw8eEF.jpg" group-title="4K",4k - Deadpool 2
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Depois Daquela Montanha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVO5tD6HN5tyyhBzOqNA9ee6rjw.jpg" group-title="4K",4k - Depois Daquela Montanha
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Hereditário" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q92IZdExU1vSnybm1gBWvPXJA9w.jpg" group-title="4K",4k - Hereditário
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Hotel Transilvânia 3: Férias Monstruosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ji1aJB052iPLnnzL082It683Nr.jpg" group-title="4K",4k - Hotel Transilvânia 3: Férias Monstruosas
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Jogador N° 1" tvg-logo="https://image.tmdb.org/t/p/w1280/yRC73IAOv7fXqOXfS5QdnRFdbTr.jpg" group-title="4K",4k - Jogador N° 1
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Jumanji: Bem-Vindo à Selva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rHPGCpqsbg3WK90uig0KbxBtFrh.jpg" group-title="4K",4k - Jumanji: Bem-Vindo à Selva
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Mamma Mia! Lá Vamos Nós de Novo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nWqFF7wfLO9UllwS7i9qScK5GV.jpg" group-title="4K",4k - Mamma Mia! Lá Vamos Nós de Novo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Megatubarão" tvg-logo="https://image.tmdb.org/t/p/w1280/wrJkShDPK4TcV0nHix3HASEmkul.jpg" group-title="4K",4k - Megatubarão
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - No Olho do Furacão" tvg-logo="https://image.tmdb.org/t/p/w1280/ebPFp5NGpL7H50qoR5jWgghM6nS.jpg" group-title="4K",4k - No Olho do Furacão
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - O Passageiro" tvg-logo="https://image.tmdb.org/t/p/w1280/16iFT1MLae2zoDTRTeOqx0w5OUv.jpg" group-title="4K",4k - O Passageiro
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - O Touro Ferdinando" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZbZppy5tXYVE6CP9tB9IaVlJLw.jpg" group-title="4K",4k - O Touro Ferdinando
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Operação Red Sparrow" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooeyCPepghIobLfd8bijHepSWgR.jpg" group-title="4K",4k - Operação Red Sparrow
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4k - Sicário: Dia do Soldado" tvg-logo="https://image.tmdb.org/t/p/w1280/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg" group-title="4K",4k - Sicário: Dia do Soldado
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007 Contra Spectre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oHjIUj0f4cKmVq4P3pBumdTBDw.jpg" group-title="Ação",007 Contra Spectre
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/3481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: Operação Skyfall" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOFaJB4FRPyA2KylJncSG57mj0.jpg" group-title="Ação",007: Operação Skyfall
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/3480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 Segundos Para Vencer" tvg-logo="https://image.tmdb.org/t/p/w1280/sS2rp62G1mVqZYqqRJ3aAoKoP4k.jpg" group-title="Lançamentos",10 Segundos Para Vencer
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/8149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="12 Rounds 3: Lockdown" tvg-logo="https://image.tmdb.org/t/p/w1280/vDSa1mxU9Rs8p9ZgVLzz8k76KCf.jpg" group-title="Lançamentos",12 Rounds 3: Lockdown
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/1804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7 Dias em Entebbe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUb3r4TZoCsVrTtXFmuJxYf89D5.jpg" group-title="Lançamentos",7 Dias em Entebbe
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/5845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Cabana da Morte" tvg-logo="https://image.tmdb.org/t/p/w1280/piSpzW9vjUejGDnLDkuhu8F0ate.jpg" group-title="Lançamentos",A Cabana da Morte
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/1805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Criatura Sombria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" group-title="Lançamentos",A Criatura Sombria
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/5229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Morte do Superman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecPlsaYUnBfFt01cTqhpPFtcxem.jpg" group-title="Lançamentos",A Morte do Superman
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/3871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher Mais Assassinada do Mundo" tvg-logo="https://image.tmdb.org/t/p/w1280/nZDuCGdw4Nq059aXHpovA6ZdjUo.jpg" group-title="Lançamentos",A Mulher Mais Assassinada do Mundo
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/1807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Noite nos Persegue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AHS5LvHBKkUVDsfCkya93NGTd2.jpg" group-title="Lançamentos",A Noite nos Persegue
+http://lista.iptvcs.eu:80/movie/hdsedit/hdsedit/6024.mp4
