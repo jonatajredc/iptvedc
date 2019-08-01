@@ -1,736 +1,685 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="IPTV EDC HDS",TOP TV SERTANEJO
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVEDCHDS
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/29/djingtv.png" group-title="IPTV EDC HDS" ,DJing Live
+https://www.djing.com/tv/28798-04.m3u8?network-probe:a5bf51c
 #EXTINF:-1 tvg-id="" tvg-name="_A&E" tvg-logo="" group-title="Canais Alternativos",_A&E
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14047
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14047
 #EXTINF:-1 tvg-id="" tvg-name="_A&E FullHD" tvg-logo="" group-title="Canais Alternativos",_A&E FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14046
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14046
 #EXTINF:-1 tvg-id="" tvg-name="_A&E HD" tvg-logo="" group-title="Canais Alternativos",_A&E HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14045
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14045
 #EXTINF:-1 tvg-id="" tvg-name="_AMC" tvg-logo="" group-title="Canais Alternativos",_AMC
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14044
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14044
 #EXTINF:-1 tvg-id="" tvg-name="_AMC FullHD" tvg-logo="" group-title="Canais Alternativos",_AMC FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14043
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14043
 #EXTINF:-1 tvg-id="" tvg-name="_AMC HD" tvg-logo="" group-title="Canais Alternativos",_AMC HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14042
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14042
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet" tvg-logo="" group-title="Canais Alternativos",_Animal Planet
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14041
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14041
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet FullHD" tvg-logo="" group-title="Canais Alternativos",_Animal Planet FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14039
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14039
 #EXTINF:-1 tvg-id="" tvg-name="_Animal Planet HD" tvg-logo="" group-title="Canais Alternativos",_Animal Planet HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14040
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14040
 #EXTINF:-1 tvg-id="" tvg-name="_Arte 1" tvg-logo="" group-title="Canais Alternativos",_Arte 1
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14038
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14038
 #EXTINF:-1 tvg-id="" tvg-name="_AXN" tvg-logo="" group-title="Canais Alternativos",_AXN
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14037
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14037
 #EXTINF:-1 tvg-id="" tvg-name="_AXN FullHD" tvg-logo="" group-title="Canais Alternativos",_AXN FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14035
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14035
 #EXTINF:-1 tvg-id="" tvg-name="_AXN HD" tvg-logo="" group-title="Canais Alternativos",_AXN HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14036
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14036
 #EXTINF:-1 tvg-id="" tvg-name="_Baby TV" tvg-logo="" group-title="Canais Alternativos",_Baby TV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14034
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14034
 #EXTINF:-1 tvg-id="" tvg-name="_Band" tvg-logo="" group-title="Canais Alternativos",_Band
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14033
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14033
 #EXTINF:-1 tvg-id="" tvg-name="_Band HD" tvg-logo="" group-title="Canais Alternativos",_Band HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14032
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14032
 #EXTINF:-1 tvg-id="" tvg-name="_Band News" tvg-logo="" group-title="Canais Alternativos",_Band News
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14031
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14031
 #EXTINF:-1 tvg-id="" tvg-name="_Band News FullHD" tvg-logo="" group-title="Canais Alternativos",_Band News FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14030
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14030
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports" tvg-logo="" group-title="Canais Alternativos",_Band Sports
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14029
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14029
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports FullHD" tvg-logo="" group-title="Canais Alternativos",_Band Sports FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14027
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14027
 #EXTINF:-1 tvg-id="" tvg-name="_Band Sports HD" tvg-logo="" group-title="Canais Alternativos",_Band Sports HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14028
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14028
 #EXTINF:-1 tvg-id="" tvg-name="_BBB SD" tvg-logo="" group-title="Canais Alternativos",_BBB SD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14026
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14026
 #EXTINF:-1 tvg-id="" tvg-name="_Bis" tvg-logo="" group-title="Canais Alternativos",_Bis
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14025
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14025
 #EXTINF:-1 tvg-id="" tvg-name="_Bis FullHD" tvg-logo="" group-title="Canais Alternativos",_Bis FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14024
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14024
 #EXTINF:-1 tvg-id="" tvg-name="_Bis HD" tvg-logo="" group-title="Canais Alternativos",_Bis HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14023
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14023
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang" tvg-logo="" group-title="Canais Alternativos",_Boomerang
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14022
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14022
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang FullHD" tvg-logo="" group-title="Canais Alternativos",_Boomerang FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14021
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14021
 #EXTINF:-1 tvg-id="" tvg-name="_Boomerang HD" tvg-logo="" group-title="Canais Alternativos",_Boomerang HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14020
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14020
 #EXTINF:-1 tvg-id="" tvg-name="_Can" tvg-logo="" group-title="Canais Alternativos",_Can
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14019
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14019
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14018
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14018
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Brasil FullHD" tvg-logo="" group-title="Canais Alternativos",_Canal Brasil FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14017
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14017
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Rural" tvg-logo="" group-title="Canais Alternativos",_Canal Rural
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14016
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14016
 #EXTINF:-1 tvg-id="" tvg-name="_Canal Sony HD" tvg-logo="" group-title="Canais Alternativos",_Canal Sony HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14015
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14015
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14014
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14014
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network FullHD" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14013
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14013
 #EXTINF:-1 tvg-id="" tvg-name="_Cartoon Network HD" tvg-logo="" group-title="Canais Alternativos",_Cartoon Network HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14012
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14012
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax" tvg-logo="" group-title="Canais Alternativos",_Cinemax
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14011
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14011
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax FullHD" tvg-logo="" group-title="Canais Alternativos",_Cinemax FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14010
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14010
 #EXTINF:-1 tvg-id="" tvg-name="_Cinemax HD" tvg-logo="" group-title="Canais Alternativos",_Cinemax HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14009
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14009
 #EXTINF:-1 tvg-id="" tvg-name="_Combate" tvg-logo="" group-title="Canais Alternativos",_Combate
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14008
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14008
 #EXTINF:-1 tvg-id="" tvg-name="_Combate FullHD" tvg-logo="" group-title="Canais Alternativos",_Combate FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14007
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14007
 #EXTINF:-1 tvg-id="" tvg-name="_Combate HD" tvg-logo="" group-title="Canais Alternativos",_Combate HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14006
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14006
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central" tvg-logo="" group-title="Canais Alternativos",_Comedy Central
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14005
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14005
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central FullHD" tvg-logo="" group-title="Canais Alternativos",_Comedy Central FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14004
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14004
 #EXTINF:-1 tvg-id="" tvg-name="_Comedy Central HD" tvg-logo="" group-title="Canais Alternativos",_Comedy Central HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14003
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14003
 #EXTINF:-1 tvg-id="" tvg-name="_Curta" tvg-logo="" group-title="Canais Alternativos",_Curta
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14002
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14002
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14001
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14001
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13999
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13999
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Channel HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Channel HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14000
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/14000
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Civilization FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Civilization FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13998
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13998
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Civilization HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Civilization HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13997
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13997
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery H&H" tvg-logo="" group-title="Canais Alternativos",_Discovery H&H
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13996
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13996
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery H&H FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery H&H FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13995
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13995
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Home & Helth HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Home & Helth HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13994
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13994
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery ID" tvg-logo="" group-title="Canais Alternativos",_Discovery ID
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13993
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13993
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13992
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13992
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13991
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13991
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Kids HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Kids HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13990
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13990
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Science FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Science FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13989
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13989
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Science HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Science HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13988
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13988
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Theater FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Theater FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13986
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13986
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Theater HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Theater HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13987
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13987
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13985
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13985
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13983
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13983
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery Turbo HD" tvg-logo="" group-title="Canais Alternativos",_Discovery Turbo HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13984
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13984
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery World FullHD" tvg-logo="" group-title="Canais Alternativos",_Discovery World FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13981
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13981
 #EXTINF:-1 tvg-id="" tvg-name="_Discovery World HD" tvg-logo="" group-title="Canais Alternativos",_Discovery World HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13982
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13982
 #EXTINF:-1 tvg-id="" tvg-name="_Disney" tvg-logo="" group-title="Canais Alternativos",_Disney
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13980
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13980
 #EXTINF:-1 tvg-id="" tvg-name="_Disney Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Disney Channel FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13979
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13979
 #EXTINF:-1 tvg-id="" tvg-name="_Disney Channel HD" tvg-logo="" group-title="Canais Alternativos",_Disney Channel HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13978
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13978
 #EXTINF:-1 tvg-id="" tvg-name="_Disney JR" tvg-logo="" group-title="Canais Alternativos",_Disney JR
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13977
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13977
 #EXTINF:-1 tvg-id="" tvg-name="_Disney JR FullHD" tvg-logo="" group-title="Canais Alternativos",_Disney JR FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13976
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13976
 #EXTINF:-1 tvg-id="" tvg-name="_Disney XD" tvg-logo="" group-title="Canais Alternativos",_Disney XD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13975
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13975
 #EXTINF:-1 tvg-id="" tvg-name="_E!" tvg-logo="" group-title="Canais Alternativos",_E!
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13974
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13974
 #EXTINF:-1 tvg-id="" tvg-name="_E! FullHD" tvg-logo="" group-title="Canais Alternativos",_E! FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13973
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13973
 #EXTINF:-1 tvg-id="" tvg-name="_E! HD" tvg-logo="" group-title="Canais Alternativos",_E! HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13972
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13972
 #EXTINF:-1 tvg-id="" tvg-name="_EiMaxx 2 HD" tvg-logo="" group-title="Canais Alternativos",_EiMaxx 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13971
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13971
 #EXTINF:-1 tvg-id="" tvg-name="_eimaxx FullHD" tvg-logo="" group-title="Canais Alternativos",_eimaxx FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13970
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13970
 #EXTINF:-1 tvg-id="" tvg-name="_eimaxx2 FullHD" tvg-logo="" group-title="Canais Alternativos",_eimaxx2 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13969
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13969
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Campinas" tvg-logo="" group-title="Canais Alternativos",_EPTV Campinas
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13968
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13968
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Ribeirao Preto" tvg-logo="" group-title="Canais Alternativos",_EPTV Ribeirao Preto
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13967
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13967
 #EXTINF:-1 tvg-id="" tvg-name="_EPTV Sao Carlos" tvg-logo="" group-title="Canais Alternativos",_EPTV Sao Carlos
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13966
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13966
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN" tvg-logo="" group-title="Canais Alternativos",_ESPN
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13965
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13965
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN 2 HD" tvg-logo="" group-title="Canais Alternativos",_ESPN 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13964
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13964
 #EXTINF:-1 tvg-id="" tvg-name="_Espn Brasil" tvg-logo="" group-title="Canais Alternativos",_Espn Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13963
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13963
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Brasil FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN Brasil FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13961
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13961
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Brasil HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Brasil HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13962
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13962
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Extra HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Extra HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13960
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13960
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13959
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13959
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN HD" tvg-logo="" group-title="Canais Alternativos",_ESPN HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13958
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13958
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Plus FullHD" tvg-logo="" group-title="Canais Alternativos",_ESPN Plus FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13956
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13956
 #EXTINF:-1 tvg-id="" tvg-name="_ESPN Plus HD" tvg-logo="" group-title="Canais Alternativos",_ESPN Plus HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13957
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13957
 #EXTINF:-1 tvg-id="" tvg-name="_Esporte Interativo FullHD" tvg-logo="" group-title="Canais Alternativos",_Esporte Interativo FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13955
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13955
 #EXTINF:-1 tvg-id="" tvg-name="_Fish TV" tvg-logo="" group-title="Canais Alternativos",_Fish TV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13954
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13954
 #EXTINF:-1 tvg-id="" tvg-name="_Fish tv - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fish tv - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13953
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13953
 #EXTINF:-1 tvg-id="" tvg-name="_Fish TV HD - net" tvg-logo="" group-title="Canais Alternativos",_Fish TV HD - net
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13952
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13952
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network" tvg-logo="" group-title="Canais Alternativos",_Food Network
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13951
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13951
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network FullHD" tvg-logo="" group-title="Canais Alternativos",_Food Network FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13950
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13950
 #EXTINF:-1 tvg-id="" tvg-name="_Food Network HD" tvg-logo="" group-title="Canais Alternativos",_Food Network HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13949
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13949
 #EXTINF:-1 tvg-id="" tvg-name="_Fox" tvg-logo="" group-title="Canais Alternativos",_Fox
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13948
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13948
 #EXTINF:-1 tvg-id="" tvg-name="_Fox - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13947
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13947
 #EXTINF:-1 tvg-id="" tvg-name="_Fox 1 FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox 1 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13945
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13945
 #EXTINF:-1 tvg-id="" tvg-name="_Fox 1 HD" tvg-logo="" group-title="Canais Alternativos",_Fox 1 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13946
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13946
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Action HD" tvg-logo="" group-title="Canais Alternativos",_Fox Action HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13944
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13944
 #EXTINF:-1 tvg-id="" tvg-name="_Fox HD" tvg-logo="" group-title="Canais Alternativos",_Fox HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13943
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13943
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life" tvg-logo="" group-title="Canais Alternativos",_Fox Life
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13942
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13942
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Life FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13940
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13940
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Life HD" tvg-logo="" group-title="Canais Alternativos",_Fox Life HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13941
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13941
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports" tvg-logo="" group-title="Canais Alternativos",_Fox Sports
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13939
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13939
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports  - FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports  - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13938
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13938
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13937
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13937
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13935
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13935
 #EXTINF:-1 tvg-id="" tvg-name="_Fox Sports 2 HD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13936
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13936
 #EXTINF:-1 tvg-id="FOX SPORTS" tvg-name="_Fox Sports HD" tvg-logo="" group-title="Canais Alternativos",_Fox Sports HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13934
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13934
 #EXTINF:-1 tvg-id="" tvg-name="_FX" tvg-logo="" group-title="Canais Alternativos",_FX
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13933
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13933
 #EXTINF:-1 tvg-id="" tvg-name="_Fx FullHD" tvg-logo="" group-title="Canais Alternativos",_Fx FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13931
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13931
 #EXTINF:-1 tvg-id="" tvg-name="_FX HD" tvg-logo="" group-title="Canais Alternativos",_FX HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13932
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13932
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Bahia" tvg-logo="" group-title="Canais Alternativos",_Globo Bahia
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13930
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13930
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Brasilia" tvg-logo="" group-title="Canais Alternativos",_Globo Brasilia
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13929
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13929
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Minas" tvg-logo="" group-title="Canais Alternativos",_Globo Minas
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13928
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13928
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News" tvg-logo="" group-title="Canais Alternativos",_Globo News
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13927
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13927
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo News FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13926
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13926
 #EXTINF:-1 tvg-id="" tvg-name="_Globo News HD" tvg-logo="" group-title="Canais Alternativos",_Globo News HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13925
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13925
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Nordeste" tvg-logo="" group-title="Canais Alternativos",_Globo Nordeste
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13924
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13924
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ" tvg-logo="" group-title="Canais Alternativos",_Globo RJ
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13923
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13923
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo RJ FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13921
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13921
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ HD" tvg-logo="" group-title="Canais Alternativos",_Globo RJ HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13922
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13922
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat" tvg-logo="" group-title="Canais Alternativos",_Globo Sat
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13920
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13920
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo Sat FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13919
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13919
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Sat HD" tvg-logo="" group-title="Canais Alternativos",_Globo Sat HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13918
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13918
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-name="_Globo SP" tvg-logo="" group-title="Canais Alternativos",_Globo SP
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13917
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13917
 #EXTINF:-1 tvg-id="" tvg-name="_Globo SP FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo SP FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13916
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13916
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob" tvg-logo="" group-title="Canais Alternativos",_Gloob
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13915
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13915
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob FullHD" tvg-logo="" group-title="Canais Alternativos",_Gloob FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13914
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13914
 #EXTINF:-1 tvg-id="" tvg-name="_Gloob HD" tvg-logo="" group-title="Canais Alternativos",_Gloob HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13913
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13913
 #EXTINF:-1 tvg-id="" tvg-name="_GNT" tvg-logo="" group-title="Canais Alternativos",_GNT
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13912
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13912
 #EXTINF:-1 tvg-id="" tvg-name="_GNT FullHD" tvg-logo="" group-title="Canais Alternativos",_GNT FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13910
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13910
 #EXTINF:-1 tvg-id="" tvg-name="_GNT HD" tvg-logo="" group-title="Canais Alternativos",_GNT HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13911
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13911
 #EXTINF:-1 tvg-id="" tvg-name="_HBO" tvg-logo="" group-title="Canais Alternativos",_HBO
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13909
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13909
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2" tvg-logo="" group-title="Canais Alternativos",_HBO 2
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13908
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13908
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO 2 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13906
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13906
 #EXTINF:-1 tvg-id="" tvg-name="_HBO 2 HD" tvg-logo="" group-title="Canais Alternativos",_HBO 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13907
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13907
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Familly FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Familly FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13905
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13905
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Family" tvg-logo="" group-title="Canais Alternativos",_HBO Family
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13904
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13904
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Family HD" tvg-logo="" group-title="Canais Alternativos",_HBO Family HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13903
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13903
 #EXTINF:-1 tvg-id="" tvg-name="_HBO FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13901
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13901
 #EXTINF:-1 tvg-id="" tvg-name="_HBO HD" tvg-logo="" group-title="Canais Alternativos",_HBO HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13902
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13902
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus" tvg-logo="" group-title="Canais Alternativos",_HBO Plus
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13900
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13900
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Plus FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13898
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13898
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Plus HD" tvg-logo="" group-title="Canais Alternativos",_HBO Plus HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13899
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13899
 #EXTINF:-1 tvg-id="" tvg-name="_HBO signature" tvg-logo="" group-title="Canais Alternativos",_HBO signature
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13897
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13897
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Signature FullHD" tvg-logo="" group-title="Canais Alternativos",_HBO Signature FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13895
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13895
 #EXTINF:-1 tvg-id="" tvg-name="_HBO Signature HD" tvg-logo="" group-title="Canais Alternativos",_HBO Signature HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13896
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13896
 #EXTINF:-1 tvg-id="" tvg-name="_History" tvg-logo="" group-title="Canais Alternativos",_History
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13894
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13894
 #EXTINF:-1 tvg-id="" tvg-name="_History 2" tvg-logo="" group-title="Canais Alternativos",_History 2
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13893
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13893
 #EXTINF:-1 tvg-id="" tvg-name="_History 2 HD" tvg-logo="" group-title="Canais Alternativos",_History 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13892
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13892
 #EXTINF:-1 tvg-id="" tvg-name="_History FullHD" tvg-logo="" group-title="Canais Alternativos",_History FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13889
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13889
 #EXTINF:-1 tvg-id="" tvg-name="_History HD" tvg-logo="" group-title="Canais Alternativos",_History HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13890
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13890
 #EXTINF:-1 tvg-id="" tvg-name="_ideal TV" tvg-logo="" group-title="Canais Alternativos",_ideal TV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13888
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13888
 #EXTINF:-1 tvg-id="" tvg-name="_Inter TV Cabugi" tvg-logo="" group-title="Canais Alternativos",_Inter TV Cabugi
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13887
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13887
 #EXTINF:-1 tvg-id="" tvg-name="_Investiga" tvg-logo="" group-title="Canais Alternativos",_Investiga
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13886
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13886
 #EXTINF:-1 tvg-id="" tvg-name="_Investigation Discovery FullHD" tvg-logo="" group-title="Canais Alternativos",_Investigation Discovery FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13885
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13885
 #EXTINF:-1 tvg-id="" tvg-name="_ISat" tvg-logo="" group-title="Canais Alternativos",_ISat
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13884
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13884
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time" tvg-logo="" group-title="Canais Alternativos",_Life Time
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13883
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13883
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time FullHD" tvg-logo="" group-title="Canais Alternativos",_Life Time FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13882
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13882
 #EXTINF:-1 tvg-id="" tvg-name="_Life Time HD" tvg-logo="" group-title="Canais Alternativos",_Life Time HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13881
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13881
 #EXTINF:-1 tvg-id="" tvg-name="_Max" tvg-logo="" group-title="Canais Alternativos",_Max
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13880
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13880
 #EXTINF:-1 tvg-id="" tvg-name="_Max FullHD" tvg-logo="" group-title="Canais Alternativos",_Max FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13879
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13879
 #EXTINF:-1 tvg-id="" tvg-name="_Max HD" tvg-logo="" group-title="Canais Alternativos",_Max HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13878
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13878
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime" tvg-logo="" group-title="Canais Alternativos",_Max Prime
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13877
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13877
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime FullHD" tvg-logo="" group-title="Canais Alternativos",_Max Prime FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13876
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13876
 #EXTINF:-1 tvg-id="" tvg-name="_Max Prime HD" tvg-logo="" group-title="Canais Alternativos",_Max Prime HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13875
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13875
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP" tvg-logo="" group-title="Canais Alternativos",_Max UP
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13874
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13874
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP FullHD" tvg-logo="" group-title="Canais Alternativos",_Max UP FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13873
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13873
 #EXTINF:-1 tvg-id="" tvg-name="_Max UP HD" tvg-logo="" group-title="Canais Alternativos",_Max UP HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13872
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13872
 #EXTINF:-1 tvg-id="" tvg-name="_Mega Pix FullHD" tvg-logo="" group-title="Canais Alternativos",_Mega Pix FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13871
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13871
 #EXTINF:-1 tvg-id="" tvg-name="_Megapix" tvg-logo="" group-title="Canais Alternativos",_Megapix
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13870
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13870
 #EXTINF:-1 tvg-id="" tvg-name="_Megapix HD" tvg-logo="" group-title="Canais Alternativos",_Megapix HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13869
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13869
 #EXTINF:-1 tvg-id="" tvg-name="_MTV" tvg-logo="" group-title="Canais Alternativos",_MTV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13868
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13868
 #EXTINF:-1 tvg-id="" tvg-name="_MTV FullHD" tvg-logo="" group-title="Canais Alternativos",_MTV FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13867
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13867
 #EXTINF:-1 tvg-id="" tvg-name="_MTV HD" tvg-logo="" group-title="Canais Alternativos",_MTV HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13866
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13866
 #EXTINF:-1 tvg-id="" tvg-name="_Multi Show FullHD" tvg-logo="" group-title="Canais Alternativos",_Multi Show FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13865
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13865
 #EXTINF:-1 tvg-id="" tvg-name="_Multishow" tvg-logo="" group-title="Canais Alternativos",_Multishow
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13864
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13864
 #EXTINF:-1 tvg-id="" tvg-name="_Multishow HD" tvg-logo="" group-title="Canais Alternativos",_Multishow HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13863
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13863
 #EXTINF:-1 tvg-id="" tvg-name="_Music Box Brasil" tvg-logo="" group-title="Canais Alternativos",_Music Box Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13862
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13862
 #EXTINF:-1 tvg-id="" tvg-name="_Nat Geo FullHD" tvg-logo="" group-title="Canais Alternativos",_Nat Geo FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13861
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13861
 #EXTINF:-1 tvg-id="" tvg-name="_Nat geo Wild FullHD" tvg-logo="" group-title="Canais Alternativos",_Nat geo Wild FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13860
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13860
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo" tvg-logo="" group-title="Canais Alternativos",_NatGeo
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13859
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13859
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13858
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13858
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13857
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13857
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids FullHD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13856
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13856
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Kids HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Kids HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13855
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13855
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Wild" tvg-logo="" group-title="Canais Alternativos",_NatGeo Wild
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13854
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13854
 #EXTINF:-1 tvg-id="" tvg-name="_NatGeo Wild HD" tvg-logo="" group-title="Canais Alternativos",_NatGeo Wild HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13853
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13853
 #EXTINF:-1 tvg-id="" tvg-name="_NBR" tvg-logo="" group-title="Canais Alternativos",_NBR
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13852
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13852
 #EXTINF:-1 tvg-id="" tvg-name="_NHK" tvg-logo="" group-title="Canais Alternativos",_NHK
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13851
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13851
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR" tvg-logo="" group-title="Canais Alternativos",_Nick JR
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13850
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13850
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR FullHD" tvg-logo="" group-title="Canais Alternativos",_Nick JR FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13849
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13849
 #EXTINF:-1 tvg-id="" tvg-name="_Nick JR HD" tvg-logo="" group-title="Canais Alternativos",_Nick JR HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13848
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13848
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13847
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13847
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon FullHD" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13846
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13846
 #EXTINF:-1 tvg-id="" tvg-name="_Nickelodeon HD" tvg-logo="" group-title="Canais Alternativos",_Nickelodeon HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13845
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13845
 #EXTINF:-1 tvg-id="" tvg-name="_Novo Tempo" tvg-logo="" group-title="Canais Alternativos",_Novo Tempo
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13844
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13844
 #EXTINF:-1 tvg-id="" tvg-name="_OFF" tvg-logo="" group-title="Canais Alternativos",_OFF
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13843
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13843
 #EXTINF:-1 tvg-id="" tvg-name="_Off - FullHD" tvg-logo="" group-title="Canais Alternativos",_Off - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13842
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13842
 #EXTINF:-1 tvg-id="" tvg-name="_OFF HD" tvg-logo="" group-title="Canais Alternativos",_OFF HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13841
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13841
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount" tvg-logo="" group-title="Canais Alternativos",_Paramount
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13840
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13840
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount FullHD" tvg-logo="" group-title="Canais Alternativos",_Paramount FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13838
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13838
 #EXTINF:-1 tvg-id="" tvg-name="_Paramount HD" tvg-logo="" group-title="Canais Alternativos",_Paramount HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13839
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13839
 #EXTINF:-1 tvg-id="" tvg-name="_Play Tv" tvg-logo="" group-title="Canais Alternativos",_Play Tv
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13837
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13837
 #EXTINF:-1 tvg-id="" tvg-name="_PlayBoy" tvg-logo="" group-title="Canais Alternativos",_PlayBoy
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13836
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13836
 #EXTINF:-1 tvg-id="" tvg-name="_Playboy - FullHD" tvg-logo="" group-title="Canais Alternativos",_Playboy - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13835
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13835
 #EXTINF:-1 tvg-id="" tvg-name="_Playboy HD - net" tvg-logo="" group-title="Canais Alternativos",_Playboy HD - net
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13834
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13834
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2" tvg-logo="" group-title="Canais Alternativos",_Premiere 2
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13833
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13833
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 2 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13831
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13831
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 2 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13832
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13832
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3" tvg-logo="" group-title="Canais Alternativos",_Premiere 3
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13830
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13830
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3 FDH" tvg-logo="" group-title="Canais Alternativos",_Premiere 3 FDH
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13829
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13829
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 3 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 3 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13828
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13828
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4" tvg-logo="" group-title="Canais Alternativos",_Premiere 4
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13827
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13827
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 4 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13825
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13825
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 4 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 4 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13826
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13826
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5" tvg-logo="" group-title="Canais Alternativos",_Premiere 5
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13824
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13824
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 5 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13822
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13822
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 5 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 5 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13823
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13823
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6" tvg-logo="" group-title="Canais Alternativos",_Premiere 6
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13821
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13821
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 6 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13820
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13820
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 6 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 6 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13819
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13819
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7" tvg-logo="" group-title="Canais Alternativos",_Premiere 7
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13818
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13818
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7 FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere 7 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13817
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13817
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 7 HD" tvg-logo="" group-title="Canais Alternativos",_Premiere 7 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13816
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13816
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere 8" tvg-logo="" group-title="Canais Alternativos",_Premiere 8
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13815
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13815
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="_Premiere Clubes" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubes
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13814
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13814
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-name="_Premiere Clubes HD" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubes HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13813
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13813
 #EXTINF:-1 tvg-id="" tvg-name="_Premiere Clubs FullHD" tvg-logo="" group-title="Canais Alternativos",_Premiere Clubs FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13812
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13812
 #EXTINF:-1 tvg-id="" tvg-name="_Prime Box Brasil" tvg-logo="" group-title="Canais Alternativos",_Prime Box Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13811
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13811
 #EXTINF:-1 tvg-id="" tvg-name="_Ra Tim Bum" tvg-logo="" group-title="Canais Alternativos",_Ra Tim Bum
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13810
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13810
 #EXTINF:-1 tvg-id="" tvg-name="_RBI" tvg-logo="" group-title="Canais Alternativos",_RBI
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13809
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13809
 #EXTINF:-1 tvg-id="" tvg-name="_RBS" tvg-logo="" group-title="Canais Alternativos",_RBS
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13808
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13808
 #EXTINF:-1 tvg-id="" tvg-name="_Record" tvg-logo="" group-title="Canais Alternativos",_Record
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13807
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13807
 #EXTINF:-1 tvg-id="" tvg-name="_Record FullHD" tvg-logo="" group-title="Canais Alternativos",_Record FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13806
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13806
 #EXTINF:-1 tvg-id="" tvg-name="_Record HD" tvg-logo="" group-title="Canais Alternativos",_Record HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13805
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13805
 #EXTINF:-1 tvg-id="" tvg-name="_Record News" tvg-logo="" group-title="Canais Alternativos",_Record News
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13804
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13804
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Amazonica" tvg-logo="" group-title="Canais Alternativos",_Rede Amazonica
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13803
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13803
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Brasil" tvg-logo="" group-title="Canais Alternativos",_Rede Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13802
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13802
 #EXTINF:-1 tvg-id="" tvg-name="_Rede TV" tvg-logo="" group-title="Canais Alternativos",_Rede TV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13801
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13801
 #EXTINF:-1 tvg-id="" tvg-name="_Rede TV HD" tvg-logo="" group-title="Canais Alternativos",_Rede TV HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13800
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13800
 #EXTINF:-1 tvg-id="" tvg-name="_Rede Vida" tvg-logo="" group-title="Canais Alternativos",_Rede Vida
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13799
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13799
 #EXTINF:-1 tvg-id="" tvg-name="_RIT" tvg-logo="" group-title="Canais Alternativos",_RIT
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13798
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13798
 #EXTINF:-1 tvg-id="" tvg-name="_RPC Curitiba" tvg-logo="" group-title="Canais Alternativos",_RPC Curitiba
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13797
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13797
 #EXTINF:-1 tvg-id="" tvg-name="_SBT" tvg-logo="" group-title="Canais Alternativos",_SBT
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13796
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13796
 #EXTINF:-1 tvg-id="" tvg-name="_SBT FullHD" tvg-logo="" group-title="Canais Alternativos",_SBT FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13794
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13794
 #EXTINF:-1 tvg-id="" tvg-name="_SBT HD" tvg-logo="" group-title="Canais Alternativos",_SBT HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13795
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13795
 #EXTINF:-1 tvg-id="" tvg-name="_Sextreme" tvg-logo="" group-title="Canais Alternativos",_Sextreme
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13793
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13793
 #EXTINF:-1 tvg-id="" tvg-name="_Sexy Hot" tvg-logo="" group-title="Canais Alternativos",_Sexy Hot
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13792
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13792
 #EXTINF:-1 tvg-id="" tvg-name="_SIC Internacional" tvg-logo="" group-title="Canais Alternativos",_SIC Internacional
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13791
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13791
 #EXTINF:-1 tvg-id="" tvg-name="_Sony" tvg-logo="" group-title="Canais Alternativos",_Sony
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13790
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13790
 #EXTINF:-1 tvg-id="" tvg-name="_Sony FullHD" tvg-logo="" group-title="Canais Alternativos",_Sony FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13789
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13789
 #EXTINF:-1 tvg-id="" tvg-name="_Space" tvg-logo="" group-title="Canais Alternativos",_Space
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13788
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13788
 #EXTINF:-1 tvg-id="" tvg-name="_Space - FullHD" tvg-logo="" group-title="Canais Alternativos",_Space - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13787
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13787
 #EXTINF:-1 tvg-id="" tvg-name="_Space HD" tvg-logo="" group-title="Canais Alternativos",_Space HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13786
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13786
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv" tvg-logo="" group-title="Canais Alternativos",_Sportv
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13785
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13785
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2" tvg-logo="" group-title="Canais Alternativos",_Sportv 2
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13784
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13784
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2 FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv 2 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13783
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13783
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 2 HD" tvg-logo="" group-title="Canais Alternativos",_Sportv 2 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13782
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13782
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3" tvg-logo="" group-title="Canais Alternativos",_Sportv 3
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13781
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13781
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3 - FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv 3 - FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13780
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13780
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv 3 HD" tvg-logo="" group-title="Canais Alternativos",_Sportv 3 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13779
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13779
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv FullHD" tvg-logo="" group-title="Canais Alternativos",_Sportv FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13777
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13777
 #EXTINF:-1 tvg-id="" tvg-name="_Sportv HD" tvg-logo="" group-title="Canais Alternativos",_Sportv HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13778
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13778
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal" tvg-logo="" group-title="Canais Alternativos",_Studio Universal
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13776
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13776
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal FullHD" tvg-logo="" group-title="Canais Alternativos",_Studio Universal FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13775
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13775
 #EXTINF:-1 tvg-id="" tvg-name="_Studio Universal HD" tvg-logo="" group-title="Canais Alternativos",_Studio Universal HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13774
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13774
 #EXTINF:-1 tvg-id="" tvg-name="_Sundance TV FullHD" tvg-logo="" group-title="Canais Alternativos",_Sundance TV FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13773
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13773
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy" tvg-logo="" group-title="Canais Alternativos",_Syfy
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13772
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13772
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy FullHD" tvg-logo="" group-title="Canais Alternativos",_Syfy FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13771
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13771
 #EXTINF:-1 tvg-id="" tvg-name="_Syfy HD" tvg-logo="" group-title="Canais Alternativos",_Syfy HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13770
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13770
 #EXTINF:-1 tvg-id="" tvg-name="_TBS" tvg-logo="" group-title="Canais Alternativos",_TBS
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13769
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13769
 #EXTINF:-1 tvg-id="" tvg-name="_TBS FullHD" tvg-logo="" group-title="Canais Alternativos",_TBS FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13767
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13767
 #EXTINF:-1 tvg-id="" tvg-name="_TBS HD" tvg-logo="" group-title="Canais Alternativos",_TBS HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13768
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13768
 #EXTINF:-1 tvg-id="" tvg-name="_TC Action" tvg-logo="" group-title="Canais Alternativos",_TC Action
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13766
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13766
 #EXTINF:-1 tvg-id="" tvg-name="_TC Action HD" tvg-logo="" group-title="Canais Alternativos",_TC Action HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13765
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13765
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult" tvg-logo="" group-title="Canais Alternativos",_TC Cult
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13764
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13764
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult FullHD" tvg-logo="" group-title="Canais Alternativos",_TC Cult FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13763
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13763
 #EXTINF:-1 tvg-id="" tvg-name="_TC Cult HD" tvg-logo="" group-title="Canais Alternativos",_TC Cult HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13762
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13762
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun" tvg-logo="" group-title="Canais Alternativos",_TC Fun
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13761
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13761
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun FullHD" tvg-logo="" group-title="Canais Alternativos",_TC Fun FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13760
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13760
 #EXTINF:-1 tvg-id="" tvg-name="_TC Fun HD" tvg-logo="" group-title="Canais Alternativos",_TC Fun HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13759
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13759
 #EXTINF:-1 tvg-id="" tvg-name="_TC Pipoca" tvg-logo="" group-title="Canais Alternativos",_TC Pipoca
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13758
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13758
 #EXTINF:-1 tvg-id="" tvg-name="_TC Pipoca HD" tvg-logo="" group-title="Canais Alternativos",_TC Pipoca HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13757
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13757
 #EXTINF:-1 tvg-id="" tvg-name="_TC Premium" tvg-logo="" group-title="Canais Alternativos",_TC Premium
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13756
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13756
 #EXTINF:-1 tvg-id="" tvg-name="_TC Premium HD" tvg-logo="" group-title="Canais Alternativos",_TC Premium HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13755
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13755
 #EXTINF:-1 tvg-id="" tvg-name="_TC Touch" tvg-logo="" group-title="Canais Alternativos",_TC Touch
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13754
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13754
 #EXTINF:-1 tvg-id="" tvg-name="_TC Touch HD" tvg-logo="" group-title="Canais Alternativos",_TC Touch HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13753
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13753
 #EXTINF:-1 tvg-id="" tvg-name="_TCM" tvg-logo="" group-title="Canais Alternativos",_TCM
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13752
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13752
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Action FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Action FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13751
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13751
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Pipoca FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Pipoca FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13750
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13750
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Premium FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Premium FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13749
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13749
 #EXTINF:-1 tvg-id="" tvg-name="_Telecine Touch FullHD" tvg-logo="" group-title="Canais Alternativos",_Telecine Touch FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13748
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13748
 #EXTINF:-1 tvg-id="" tvg-name="_Terra Viva" tvg-logo="" group-title="Canais Alternativos",_Terra Viva
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13747
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13747
 #EXTINF:-1 tvg-id="" tvg-name="_TLC" tvg-logo="" group-title="Canais Alternativos",_TLC
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13746
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13746
 #EXTINF:-1 tvg-id="" tvg-name="_TLC FullHD" tvg-logo="" group-title="Canais Alternativos",_TLC FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13745
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13745
 #EXTINF:-1 tvg-id="" tvg-name="_TLC HD" tvg-logo="" group-title="Canais Alternativos",_TLC HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13744
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13744
 #EXTINF:-1 tvg-id="" tvg-name="_TNT" tvg-logo="" group-title="Canais Alternativos",_TNT
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13743
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13743
 #EXTINF:-1 tvg-id="" tvg-name="_TNT FullHD" tvg-logo="" group-title="Canais Alternativos",_TNT FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13741
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13741
 #EXTINF:-1 tvg-id="" tvg-name="_TNT HD" tvg-logo="" group-title="Canais Alternativos",_TNT HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13742
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13742
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series" tvg-logo="" group-title="Canais Alternativos",_TNT Series
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13740
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13740
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series FullHD" tvg-logo="" group-title="Canais Alternativos",_TNT Series FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13738
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13738
 #EXTINF:-1 tvg-id="" tvg-name="_TNT Series HD" tvg-logo="" group-title="Canais Alternativos",_TNT Series HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13739
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13739
 #EXTINF:-1 tvg-id="" tvg-name="_Tooncast" tvg-logo="" group-title="Canais Alternativos",_Tooncast
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13737
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13737
 #EXTINF:-1 tvg-id="" tvg-name="_Tru TV" tvg-logo="" group-title="Canais Alternativos",_Tru TV
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13736
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13736
 #EXTINF:-1 tvg-id="" tvg-name="_TV Anhanguera GO" tvg-logo="" group-title="Canais Alternativos",_TV Anhanguera GO
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13735
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13735
 #EXTINF:-1 tvg-id="" tvg-name="_TV Aparecida" tvg-logo="" group-title="Canais Alternativos",_TV Aparecida
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13734
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13734
 #EXTINF:-1 tvg-id="" tvg-name="_TV Brasil" tvg-logo="" group-title="Canais Alternativos",_TV Brasil
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13733
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13733
 #EXTINF:-1 tvg-id="" tvg-name="_TV Centro America Cuiaba" tvg-logo="" group-title="Canais Alternativos",_TV Centro America Cuiaba
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13732
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13732
 #EXTINF:-1 tvg-id="" tvg-name="_TV Cultura" tvg-logo="" group-title="Canais Alternativos",_TV Cultura
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13731
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13731
 #EXTINF:-1 tvg-id="" tvg-name="_TV Futura" tvg-logo="" group-title="Canais Alternativos",_TV Futura
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13730
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13730
 #EXTINF:-1 tvg-id="" tvg-name="_TV Liberal Belem" tvg-logo="" group-title="Canais Alternativos",_TV Liberal Belem
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13729
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13729
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Bauru" tvg-logo="" group-title="Canais Alternativos",_TV Tem Bauru
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13728
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13728
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Sao Jose do Rio Preto" tvg-logo="" group-title="Canais Alternativos",_TV Tem Sao Jose do Rio Preto
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13727
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13727
 #EXTINF:-1 tvg-id="" tvg-name="_TV Tem Sorocaba" tvg-logo="" group-title="Canais Alternativos",_TV Tem Sorocaba
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13726
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13726
 #EXTINF:-1 tvg-id="" tvg-name="_TV Vanguarda Sao Jose dos Campos" tvg-logo="" group-title="Canais Alternativos",_TV Vanguarda Sao Jose dos Campos
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13725
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13725
 #EXTINF:-1 tvg-id="" tvg-name="_TV Verdes mares" tvg-logo="" group-title="Canais Alternativos",_TV Verdes mares
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13724
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13724
 #EXTINF:-1 tvg-id="" tvg-name="_TVE" tvg-logo="" group-title="Canais Alternativos",_TVE
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13723
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13723
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel" tvg-logo="" group-title="Canais Alternativos",_Universal Channel
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13722
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13722
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel FullHD" tvg-logo="" group-title="Canais Alternativos",_Universal Channel FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13720
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13720
 #EXTINF:-1 tvg-id="" tvg-name="_Universal Channel HD" tvg-logo="" group-title="Canais Alternativos",_Universal Channel HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13721
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13721
 #EXTINF:-1 tvg-id="" tvg-name="_Venus" tvg-logo="" group-title="Canais Alternativos",_Venus
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13719
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13719
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 FullHD" tvg-logo="" group-title="Canais Alternativos",_VH1 FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13718
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13718
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 HD" tvg-logo="" group-title="Canais Alternativos",_VH1 HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13717
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13717
 #EXTINF:-1 tvg-id="" tvg-name="_VH1 Mega Hits" tvg-logo="" group-title="Canais Alternativos",_VH1 Mega Hits
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13716
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13716
 #EXTINF:-1 tvg-id="" tvg-name="_Viva" tvg-logo="" group-title="Canais Alternativos",_Viva
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13715
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13715
 #EXTINF:-1 tvg-id="" tvg-name="_Viva FullHD" tvg-logo="" group-title="Canais Alternativos",_Viva FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13713
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13713
 #EXTINF:-1 tvg-id="" tvg-name="_Viva HD" tvg-logo="" group-title="Canais Alternativos",_Viva HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13714
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13714
 #EXTINF:-1 tvg-id="" tvg-name="_Warner Channel" tvg-logo="" group-title="Canais Alternativos",_Warner Channel
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13712
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13712
 #EXTINF:-1 tvg-id="" tvg-name="_Warner FullHD" tvg-logo="" group-title="Canais Alternativos",_Warner FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13710
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13710
 #EXTINF:-1 tvg-id="" tvg-name="_Warner HD" tvg-logo="" group-title="Canais Alternativos",_Warner HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13711
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13711
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo" tvg-logo="" group-title="Canais Alternativos",_Woohoo
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13709
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13709
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo FullHD" tvg-logo="" group-title="Canais Alternativos",_Woohoo FullHD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13708
-#EXTM3U
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13708
 #EXTINF:-1 tvg-id="" tvg-name="_Woohoo HD" tvg-logo="" group-title="Canais Alternativos",_Woohoo HD
-http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/13707
+http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13707
