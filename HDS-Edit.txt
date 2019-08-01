@@ -251,6 +251,10 @@ http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13926
 http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13925
 #EXTINF:-1 tvg-id="" tvg-name="_Globo Nordeste" tvg-logo="" group-title="Canais Alternativos",_Globo Nordeste
 http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13924
+#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="*Globo Rede Gazeta ES HD" tvg-logo="http://lab.gazetaonline.com.br/agua/app/img/logo-gazeta.png" group-title="Canais Alternativos",*Globo Rede Gazeta ES HD
+http://lista.iptvcs.eu:80/edcvip/edcvip/14366
+#EXTINF:-1 tvg-id="GLOBO TV GAZETA ES" tvg-name="*Globo Rede Gazeta ES FullHD" tvg-logo="http://lab.gazetaonline.com.br/agua/app/img/logo-gazeta.png" group-title="Canais Alternativos",*Globo Rede Gazeta ES FullHD
+http://lista.iptvcs.eu:80/edcvip/edcvip/14365
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ" tvg-logo="" group-title="Canais Alternativos",_Globo RJ
 http://lista.iptvcs.eu:80/IPTVEDCHDS/JCKE79CSHDS/13923
 #EXTINF:-1 tvg-id="" tvg-name="_Globo RJ FullHD" tvg-logo="" group-title="Canais Alternativos",_Globo RJ FullHD
