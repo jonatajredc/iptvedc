@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="IPTV EDC HD",TOP TV SERTANEJO
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVEDCFHD
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/29/djingtv.png" group-title="IPTV EDC HD" ,  DJing Live
+https://www.djing.com/tv/28798-04.m3u8?network-probe:a5bf51c
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="_A&E" tvg-logo="" group-title="Canais Alternativos",_A&E
 http://lista.iptvcs.eu:80/iptvedcmp4fhd/1234567897/14047
 #EXTM3U
