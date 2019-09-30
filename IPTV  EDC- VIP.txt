@@ -1,8 +1,3 @@
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgbbb.com/images/2019/07/24/TOPTVHD.png" group-title="IPTV EDC VIP",TOP TV SERTANEJO
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1933981626.m3u8?IPTVEDCFHD
